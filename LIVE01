@@ -1,0 +1,1209 @@
+#M3U
+
+#KOPHYO
+
+#MYANMAR
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/fa/aa/ecfaaa71a30412da95f452207a13bf5d.png" group-title="Myanmar",KO Phyo Myanmar
+
+http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8?koshwefull.
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.mmtvchannels.com/assets/images/channeliconb/channelk.jpg",Channel K
+
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.mmtvchannels.com/assets/images/channeliconb/fortune.jpg",Fortune
+
+http://live-aec.sky-cdn.com/aec_live/Fortune.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.mmtvchannels.com/assets/images/channeliconb/mizzima.jpg",Mizzima TV
+
+http://mcsh.xyz:8080/abcdef/800900/3034
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/democratic_voice_of_burma.jpg",DVB
+
+https://l1-xl1.myanmarnet.com:443/relay/dvb/ch1/stream_standard/index.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mrtv4.jpg",MRTV 4
+
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel7_mm.jpg",Channel 7   
+
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.mmtvchannels.com/assets/images/channeliconb/mahar.jpg",Mahar
+
+http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8?koshwefull.
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.mmtvchannels.com/assets/images/channeliconb/5plus.jpg",5 Plus
+
+https://d39q34kqnktegw.cloudfront.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.mmtvchannels.com/assets/images/channeliconb/mwd1.jpg",MWD HD
+
+http://203.81.84.130/hls/mwd/index.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.wtvision.com/wp-content/uploads/2016/10/mvm1.jpg",MVM
+
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.mmtvchannels.com/assets/images/channeliconb/maharbawdi.jpg",Maharbawdi
+
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mwd_variety.jpg",MWD Variety 
+
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mwd_movies.jpg",MWD Movie HD
+
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mwd_documentary.jpg",MWD Docmentry HD
+
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mwd_series.jpg",MWD Serie HD 
+
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mwd_shopping.jpg",MWD Shopping HD
+
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.asiasat.com/channelguide/images/mwd-family.jpg",MWD Family HD
+
+http://203.81.84.130/hls/mwd_family/index.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mn_tv_mm.jpg",Mntv 
+
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://cdn.jobnet.com.mm/images/can/200/200/20180713032749-cookielogo.png",Cookie Asia
+
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://lh3.googleusercontent.com/A5oHMZHn2eTyPPofaPFe-vdwlkfNLjLxGdYAQFOySnlsZkrlLYagLZ95iNCmdGfxCw",Cookie Return
+
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
+
+#SPORT
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cpng.pikpng.com/pngl/s/200-2005313_juventus-moderniza-escudo-para-2017-2018-bein-sport.png",BEINSPORT_1HD
+
+http://itking.online:8080/livetv/live/43
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6594.1491352241.png",BEINSPORT_2HD
+
+http://itking.online:8080/livetv/live/44
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6592.1491350506.png",BEINSPORT_3HD
+
+http://itking.online:8080/livetv/live/45
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD4.png",BEINSPORT_4HD
+
+http://itking.online:8080/livetv/live/46
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD5.png",BEINSPORT_5HD
+
+http://itking.online:8080/livetv/live/47
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD6.png",BEINSPORT_6HD
+
+http://itking.online:8080/livetv/live/48
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD7.png",BEINSPORT_7HD
+
+http://itking.online:8080/livetv/live/49
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/channels/color/beinsports8_color.png",BEINSPORT_8HD
+
+http://itking.online:8080/livetv/live/50
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png",BEINSPORT_9HD
+
+http://itking.online:8080/livetv/live/51
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://i.ibb.co/1Q5k6sz/10.png",BEINSPORT_10HD
+
+http://itking.online:8080/livetv/live/52
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://1.bp.blogspot.com/-pPktm5R8tTQ/WpKWWzdKisI/AAAAAAAACM0/erJcZTuy4VMhDeNkravjGSk9UzdiPeZGgCLcBGAs/s1600/dz%2Bprokora%2Bkooora%2Bkora%2Byallashoot_11-HD.png",BEINSPORT_11HD
+
+http://itking.online:8080/livetv/live/53
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cpng.pikpng.com/pngl/s/200-2005313_juventus-moderniza-escudo-para-2017-2018-bein-sport.png",beIN Sports 1 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51747
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6594.1491352241.png",beIN Sports 2 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51748
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6592.1491350506.png",beIN Sports 3 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51749
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD4.png",beIN Sports 4 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51750
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD5.png",beIN Sports 5 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51751
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD6.png",beIN Sports 6 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51752
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD7.png",beIN Sports 7 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51753
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/channels/color/beinsports8_color.png",beIN Sports 8 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51754
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png",beIN Sports 9 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51755
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://i.ibb.co/1Q5k6sz/10.png",beIN Sports 10 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51756
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://1.bp.blogspot.com/-pPktm5R8tTQ/WpKWWzdKisI/AAAAAAAACM0/erJcZTuy4VMhDeNkravjGSk9UzdiPeZGgCLcBGAs/s1600/dz%2Bprokora%2Bkooora%2Bkora%2Byallashoot_11-HD.png",beIN Sports 11 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51744
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://www.liveonlinetv247.com/images/beinsports12.png",beIN Sports 12 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51745
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 4K" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1-4k.png" group-title="BeIn Sports",BeIN SPORTS 1 4K
+
+http://itking.online:8080/livetv/live/609
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 4K" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2-4k.png" group-title="BeIn Sports",BeIN SPORTS 2 4K
+
+http://itking.online:8080/livetv/live/610
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 4K" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3-4k.png" group-title="BeIn Sports",BeIN SPORTS 3 4K
+
+http://itking.online:8080/livetv/live/611
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 4K" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein4-4k.png" group-title="BeIn Sports",BeIN SPORTS 4 4K
+
+http://itking.online:8080/livetv/live/612
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 5 4K" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein5-4k.png" group-title="BeIn Sports",BeIN SPORTS 5 4K
+
+http://itking.online:8080/livetv/live/613
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 6 4K" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein6-4k.png" group-title="BeIn Sports",BeIN SPORTS 6 4K
+
+http://itking.online:8080/livetv/live/614
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 7 4K" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein7-4k.png" group-title="BeIn Sports",BeIN SPORTS 7 4K
+
+http://itking.online:8080/livetv/live/615
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 8 4K" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein8-4k.png" group-title="BeIn Sports",BeIN SPORTS 8 4K
+
+http://itking.online:8080/livetv/live/616
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 9 4K" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein9-4k.png" group-title="BeIn Sports",BeIN SPORTS 9 4K
+
+http://itking.online:8080/livetv/live/617
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 10 4K" tvg-logo="" group-title="BeIn Sports",BeIN SPORTS 10 4K
+
+http://itking.online:8080/livetv/live/618
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 11 4K" tvg-logo="" group-title="BeIn Sports",BeIN SPORTS 11 4K
+
+http://itking.online:8080/livetv/live/619
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 12 4K" tvg-logo="" group-title="BeIn Sports",BeIN SPORTS 12 4K
+
+http://itking.online:8080/livetv/live/620
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 13 4K" tvg-logo="" group-title="BeIn Sports",BeIN SPORTS 13 4K
+
+http://itking.online:8080/livetv/live/621
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD1" tvg-logo="http://vod-logo.net/photos/1185e0c5128d177d61f500c85b873833.JPG" group-title="BeIn Sports",Bein Sport SD1
+
+http://itking.online:8080/livetv/live/651
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD2" tvg-logo="http://vod-logo.net/photos/b1dc86750c902aebba41f28fe16c49b6.JPG" group-title="BeIn Sports",Bein Sport SD2
+
+http://itking.online:8080/livetv/live/652
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD3" tvg-logo="http://vod-logo.net/photos/880547bb3a613adfe767e3ee8a4ec852.JPG" group-title="BeIn Sports",Bein Sport SD3
+
+http://itking.online:8080/livetv/live/653
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD4" tvg-logo="http://vod-logo.net/photos/bfe14e8d1c5134f87c7a24356b332c4e.JPG" group-title="BeIn Sports",Bein Sport SD4
+
+http://itking.online:8080/livetv/live/654
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD5" tvg-logo="http://vod-logo.net/photos/14a6177bfcaadc2a4c075bf88792d2d6.JPG" group-title="BeIn Sports",Bein Sport SD5
+
+http://itking.online:8080/livetv/live/655
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD6" tvg-logo="http://vod-logo.net/photos/14a6177bfcaadc2a4c075bf88792d2d6.JPG" group-title="BeIn Sports",Bein Sport SD6
+
+http://itking.online:8080/livetv/live/656
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD7" tvg-logo="http://vod-logo.net/photos/7d82e3797185376514ccd3c09fe9bb65.JPG" group-title="BeIn Sports",Bein Sport SD7
+
+http://itking.online:8080/livetv/live/657
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD8" tvg-logo="http://vod-logo.net/photos/b6ed679ef34be468824f03ab9bd5d3f9.JPG" group-title="BeIn Sports",Bein Sport SD8
+
+http://itking.online:8080/livetv/live/658
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD9" tvg-logo="http://vod-logo.net/photos/bf3ac7f64547ec2572c192b4e335fa41.JPG" group-title="BeIn Sports",Bein Sport SD9
+
+http://itking.online:8080/livetv/live/659
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD10" tvg-logo="http://vod-logo.net/photos/c06cad823089adf75915471a2f3315a7.JPG" group-title="BeIn Sports",Bein Sport SD10
+
+http://itking.online:8080/livetv/live/660
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD11" tvg-logo="http://vod-logo.net/photos/9ee59993fa7e40d21c77f4a0e8dc892c.JPG" group-title="BeIn Sports",Bein Sport SD11
+
+http://itking.online:8080/livetv/live/661
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD12" tvg-logo="" group-title="BeIn Sports",Bein Sport SD12
+
+http://itking.online:8080/livetv/live/662
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD13 EN" tvg-logo="" group-title="BeIn Sports",Bein Sport SD13 EN
+
+http://itking.online:8080/livetv/live/663
+
+#SKYNET
+
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sport HD" tvg-logo="https://www.skynetdth.com/images/channal_logo/Sports-HD.jpg" group-title="Skynet",Skynet Sport HD
+
+http://itking.online:8080/livetv/live/1729
+
+#EXTINF:-1 tvg-id="" tvg-name="Skynet World Movies" tvg-logo="https://www.skynetdth.com/images/channal_logo/myanmar_movies.png" group-title="Skynet",Skynet Myanmar Movies
+
+http://itking.online:8080/livetv/live/1730
+
+#TRUEVISIONS
+
+#EXTINF:-1 group-title="true visions Channels" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",true Premier Football 1
+
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="true visions Channels" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",true Premier Football 2
+
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="true visions Channels" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",trueSport HD 1
+
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="true visions Channels" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",trueSport HD 2
+
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="true visions Channels" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png",trueSport HD 3
+
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="true visions Channels" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png",trueSport HD 4
+
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+
+#OTHERS SPORTS
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sky_Sport_1_HD_-_Logo_2015.svg/1280px-Sky_Sport_1_HD_-_Logo_2015.svg.png" group-title="OTher Sports",Sky Sport 1 HD
+
+http://mcsh.xyz:8080/live/abcdef/800900/51831.ts
+
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="OTher Sports",Fox Sports 1 Asia
+
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="OTher Sports",Fox Sports 2 Asia
+
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="OTher Sports",Fox Sports 3 Asia
+
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1514269404/6402.png" group-title="OTher Sports",Sky Racing 1
+
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1514269377/6411.png" group-title="OTher Sports",Sky Racing 2
+
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+m/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",true Sport Premier 7
+
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="OTher Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",FC Bayren
+
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s36-v1-a1.m3u8 
+
+#EXTINF:-1 group-title="OTher Sports" tvg-logo="https://www.fightsports.tv/wp-content/uploads/fightsports280.jpg",Fight Sport
+
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8 
+
+#EXTINF:-1 group-title="OTher Sports" tvg-logo="https://tv.essenceitbd.com/uploads/tv_image/sony-ten-1.jpg",SONY TEN 1 HD
+
+http://mr4k.pk:8080/live/dsa7890/mmtmmt/45624.ts
+
+#EXTINF:-1 group-title="OTher Sports" tvg-logo="https://tv.essenceitbd.com/uploads/tv_image/sony-ten-2.jpg",SONY TEN 2 HD
+
+http://mr4k.pk:8080/live/dsa7890/mmtmmt/45625.ts
+
+#EXTINF:-1 group-title="OTher Sports" tvg-logo="https://tv.essenceitbd.com/uploads/tv_image/sony-ten-3.jpg",SONY TEN 3 HD
+
+http://mr4k.pk:8080/live/dsa7890/mmtmmt/45655.ts
+
+#MOVIES
+
+#EXTINF:-1 group-title="MOvies Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX Myanmar
+
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/playlist.m3u8
+
+#EXTINF:-1 group-title="MOvies Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Fox_Movies_%28Asia%29_logo.svg",FOX Movies
+
+http://mcsh.xyz:8080/abcdef/800900/53257
+
+#EXTINF:-1 group-title="MOvies Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png",FOX Family Movies
+
+http://mcsh.xyz:8080/abcdef/800900/53469
+
+#EXTINF:-1 group-title="MOvies Channels" tvg-logo="https://1.bp.blogspot.com/-lJRgPTH2cYQ/Uh_7raV0xnI/AAAAAAAAbxY/Hz2K-9tQs-g/s1600/Fox+Life+logo+2013.png",FOX Life
+
+http://mcsh.xyz:8080/abcdef/800900/53258
+
+#EXTINF:-1 group-title="MOvies Channels" tvg-logo="https://www.pay2easy.com/uploads/159-and_pictures_in_hd.png",&Picture HD
+
+http://mr4k.pk:8080/dsa7890/mmtmmt/31977
+
+#EXTINF:-1 group-title="MOvies Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg",&Prive HD
+
+http://mr4k.pk:8080/dsa7890/mmtmmt/31946
+
+#EXTINF:-1 group-title="MOvies Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Cinema_HD.png",Fox Cinema
+
+http://mytv.fun:8080/live/detlef083/9ny404edlw/6715.ts
+
+#EXTINF:-1 group-title="MOvies Channels" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023527252/FOX_Series_HD.png",Fox Series
+
+http://mytv.fun:8080/live/detlef083/9ny404edlw/6718.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies HD" tvg-logo="http://vod-logo.net/photos/f4f2d5e1e499bbcc0ba76bb0c91b28bb.jpg" group-title="MOvies Channels",OSN Movies HD
+
+http://itking.online:8080/livetv/live/704
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Action HD" tvg-logo="http://vod-logo.net/photos/1f4c15301b1c19db2809792064004da4.png" group-title="MOvies Channels",OSN Action HD
+
+http://itking.online:8080/livetv/live/705
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First HD" tvg-logo="http://vod-logo.net/photos/019789066767f01d684125a8a1597752.JPG" group-title="MOvies Channels",OSN Movies First HD
+
+http://itking.online:8080/livetv/live/706
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First  2 HD" tvg-logo="" group-title="MOvies Channels",OSN Movies First  2 HD
+
+http://itking.online:8080/livetv/live/707
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star Movies HD" tvg-logo="http://www.vod-logo.net/photos/1e1105028ef2841768dc3c877a462095.jpg" group-title="MOvies Channels",OSN Star Movies HD
+
+http://itking.online:8080/livetv/live/717
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star World HD" tvg-logo="http://vod-logo.net/photos/14349ece9e3ddc1e101f3f60189db64a.jpg" group-title="MOvies Channels",OSN Star World HD
+
+http://itking.online:8080/livetv/live/718
+
+#DISCOVERY
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png",Discovery HD
+
+http://mcsh.xyz:8080/abcdef/800900/51925
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png",Discovery SD
+
+http://mcsh.xyz:8080/abcdef/800900/51926
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png",Animal Planet HD
+
+http://mcsh.xyz:8080/abcdef/800900/51927
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png",Animal Planet SD
+
+http://mcsh.xyz:8080/abcdef/800900/51928
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png",National Geographic HD
+
+http://mcsh.xyz:8080/abcdef/800900/51929
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg",National Geographic Wild HD
+
+http://mcsh.xyz:8080/abcdef/800900/51930
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://www.underconsideration.com/brandnew/archives/history_channel_00.jpg",History HD
+
+http://mcsh.xyz:8080/abcdef/800900/51931
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://www.underconsideration.com/brandnew/archives/history_channel_00.jpg",History SD
+
+http://mcsh.xyz:8080/abcdef/800900/51932
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",H2 HD
+
+http://mcsh.xyz:8080/abcdef/800900/51933
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eden_logo.svg/440px-Eden_logo.svg.png",Eden HD
+
+http://mcsh.xyz:8080/abcdef/800900/51934
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discovery_History_logo.svg/1280px-Discovery_History_logo.svg.png",Discovery History
+
+http://mcsh.xyz:8080/abcdef/800900/51935
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/1200px-Yesterday_logo_2012.svg.png",Yesterday
+
+http://mcsh.xyz:8080/abcdef/800900/51936
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://img.favpng.com/2/12/11/investigation-discovery-television-show-logo-television-channel-png-favpng-10MJF99P5kEgr2ReyS5qBSrNJ.jpg",Discovery Investigation
+
+http://mcsh.xyz:8080/abcdef/800900/51937
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",Crime Investigation HD
+
+http://mcsh.xyz:8080/abcdef/800900/51938
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",Crime Investigation SD
+
+http://mcsh.xyz:8080/abcdef/800900/51939
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://cdn.imgbin.com/22/8/14/imgbin-science-channel-logo-discovery-channel-brand-discovery-of-achilles-on-skyros-JWTPWAGmYmMau2PDtzcFEc6PS.jpg",Discovery Science
+
+http://mcsh.xyz:8080/abcdef/800900/51940
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://banner2.cleanpng.com/20180704/hty/kisspng-discovery-turbo-television-channel-discovery-chann-rua-gabriel-oeschler-5b3cb4edd44231.0893172215307051338694.jpg",Discovery Turbo
+
+http://mcsh.xyz:8080/abcdef/800900/51941
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://presentationarchive.com/discoveryshed/shed-f.jpg",Discovery Shed
+
+http://mcsh.xyz:8080/abcdef/800900/51942
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://i.pinimg.com/originals/60/7c/ca/607cca9376d7ce16b0693c426d387954.png",Travel Channel
+
+http://mcsh.xyz:8080/abcdef/800900/51943
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png",DISCOVERY HD
+
+http://mcsh.xyz:8080/abcdef/800900/51944
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://img1.pnghut.com/11/6/9/KJkvcwDCPy/brand-logo-discovery-channel-science-monochrome.jpg",DISCOVERY WORLD
+
+http://mcsh.xyz:8080/abcdef/800900/51945
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://banner2.cleanpng.com/20180824/ava/kisspng-science-channel-logo-discovery-channel-brand-showing-porn-images-for-greek-italian-porn-www-fre-5b8078d6e9a228.216606641535146198957.jpg",DISCOVERY SCIENCE HD
+
+http://mcsh.xyz:8080/abcdef/800900/51946
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png",DISCOVERY CI HD
+
+http://mcsh.xyz:8080/abcdef/800900/51947
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://3.bp.blogspot.com/-llk9nFsbkJg/T3CjqVFmfzI/AAAAAAAAEr4/kVlQlq4Eol8/s500/Investigation+Discovery+logo+2010.png",DISCOVERY ID HD
+
+http://mcsh.xyz:8080/abcdef/800900/51948
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png",ANIMAL PLANET HD
+
+http://mcsh.xyz:8080/abcdef/800900/51949
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://img1.pnghut.com/11/6/9/KJkvcwDCPy/brand-logo-discovery-channel-science-monochrome.jpg",Discovery HD World
+
+http://mcsh.xyz:8080/abcdef/800900/51950
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Discovery_Channel_2000.svg/revision/latest/scale-to-width-down/340?cb=20171113065845",DISCOVERY INDIA
+
+http://mcsh.xyz:8080/abcdef/800900/51951
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",Discovery Turbo Hindi
+
+http://mcsh.xyz:8080/abcdef/800900/51952
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png",DISCOVERY CHANNEL
+
+http://mcsh.xyz:8080/abcdef/800900/51953
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://i.pinimg.com/originals/60/7c/ca/607cca9376d7ce16b0693c426d387954.png",TRAVEL CHANNEL HD
+
+http://mcsh.xyz:8080/abcdef/800900/51954
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://img.favpng.com/2/12/11/investigation-discovery-television-show-logo-television-channel-png-favpng-10MJF99P5kEgr2ReyS5qBSrNJ.jpg",ID INVESTIGATION DISCOVERY HD
+
+http://mcsh.xyz:8080/abcdef/800900/51955
+
+#EXTINF:-1 group-title="DIscovery Channels" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png",LOVE NATURE HD
+
+http://mcsh.xyz:8080/abcdef/800900/52995
+
+#INDIA & HINDI
+
+#EXTINF:-1 group-title="India & Hindi Channels",Zing UK
+
+http://mcsh.xyz:8080/abcdef/800900/51990
+
+#EXTINF:-1 group-title="India & Hindi Channels",E24 TV
+
+http://mcsh.xyz:8080/abcdef/800900/51992
+
+#EXTINF:-1 group-title="India & Hindi Channels",Colors HD
+
+http://mcsh.xyz:8080/abcdef/800900/51993
+
+#EXTINF:-1 group-title="India & Hindi Channels",Colors HD*
+
+http://mcsh.xyz:8080/abcdef/800900/51994
+
+#EXTINF:-1 group-title="India & Hindi Channels",Colors Uk*
+
+http://mcsh.xyz:8080/abcdef/800900/51995
+
+#EXTINF:-1 group-title="India & Hindi Channels",Colors Uk
+
+http://mcsh.xyz:8080/abcdef/800900/51996
+
+#EXTINF:-1 group-title="India & Hindi Channels",&TV HD
+
+http://mcsh.xyz:8080/abcdef/800900/51999
+
+#EXTINF:-1 group-title="India & Hindi Channels",UTV Bindass*
+
+http://mcsh.xyz:8080/abcdef/800900/52000
+
+#EXTINF:-1 group-title="India & Hindi Channels",Housefull Cinema
+
+http://mcsh.xyz:8080/abcdef/800900/52005
+
+#EXTINF:-1 group-title="India & Hindi Channels",Movie House
+
+http://mcsh.xyz:8080/abcdef/800900/52007
+
+#EXTINF:-1 group-title="India & Hindi Channels",&Prive HD
+
+http://mcsh.xyz:8080/abcdef/800900/52009
+
+#EXTINF:-1 group-title="India & Hindi Channels",Mini Plex HD
+
+http://mcsh.xyz:8080/abcdef/800900/52010
+
+#EXTINF:-1 group-title="India & Hindi Channels",TLC Hindi
+
+http://mcsh.xyz:8080/abcdef/800900/52012
+
+#EXTINF:-1 group-title="India & Hindi Channels",Star World HD
+
+http://mcsh.xyz:8080/abcdef/800900/52014
+
+#EXTINF:-1 group-title="India & Hindi Channels",Star Bharat UK*
+
+http://mcsh.xyz:8080/abcdef/800900/52016
+
+#EXTINF:-1 group-title="India & Hindi Channels",Star Bharat Uk
+
+http://mcsh.xyz:8080/abcdef/800900/52017
+
+#EXTINF:-1 group-title="India & Hindi Channels",Sab TV
+
+http://mcsh.xyz:8080/abcdef/800900/52018
+
+#EXTINF:-1 group-title="India & Hindi Channels",Sony Sab HD
+
+http://mcsh.xyz:8080/abcdef/800900/52019
+
+#EXTINF:-1 group-title="India & Hindi Channels",Sony Pal
+
+http://mcsh.xyz:8080/abcdef/800900/52020
+
+#EXTINF:-1 group-title="India & Hindi Channels",Sony Max HD
+
+http://mcsh.xyz:8080/abcdef/800900/52022
+
+#EXTINF:-1 group-title="India & Hindi Channels",Sony Max Uk*
+
+http://mcsh.xyz:8080/abcdef/800900/52023
+
+#EXTINF:-1 group-title="India & Hindi Channels",SONY SIX HD
+
+http://mcsh.xyz:8080/abcdef/800900/52025
+
+#EXTINF:-1 group-title="India & Hindi Channels",SONY PIX HD
+
+http://mcsh.xyz:8080/abcdef/800900/52027
+
+#EXTINF:-1 group-title="India & Hindi Channels",Sony TV UK*
+
+http://mcsh.xyz:8080/abcdef/800900/52028
+
+#EXTINF:-1 group-title="India & Hindi Channels",Sony TV UK
+
+http://mcsh.xyz:8080/abcdef/800900/52029
+
+#EXTINF:-1 group-title="India & Hindi Channels",Sony TV HD
+
+http://mcsh.xyz:8080/abcdef/800900/52030
+
+#EXTINF:-1 group-title="India & Hindi Channels",Star Gold UK*
+
+http://mcsh.xyz:8080/abcdef/800900/52033
+
+#EXTINF:-1 group-title="India & Hindi Channels",Star Utsav
+
+http://mcsh.xyz:8080/abcdef/800900/52036
+
+#EXTINF:-1 group-title="India & Hindi Channels",Star Plus UK*
+
+http://mcsh.xyz:8080/abcdef/800900/52037
+
+#EXTINF:-1 group-title="India & Hindi Channels",Star Plus Uk
+
+http://mcsh.xyz:8080/abcdef/800900/52038
+
+#EXTINF:-1 group-title="India & Hindi Channels",Star plus India
+
+http://mcsh.xyz:8080/abcdef/800900/52039
+
+#EXTINF:-1 group-title="India & Hindi Channels",Star Plus India HD
+
+http://mcsh.xyz:8080/abcdef/800900/52040
+
+#EXTINF:-1 group-title="India & Hindi Channels",Zee Tv HD
+
+http://mcsh.xyz:8080/abcdef/800900/52044
+
+#EXTINF:-1 group-title="India & Hindi Channels",Zee Cinema
+
+http://mcsh.xyz:8080/abcdef/800900/52045
+
+#EXTINF:-1 group-title="India & Hindi Channels",Zee Studio HD
+
+http://mcsh.xyz:8080/abcdef/800900/52048
+
+#EXTINF:-1 group-title="India & Hindi Channels",Zee Salaam
+
+http://mcsh.xyz:8080/abcdef/800900/52049
+
+#EXTINF:-1 group-title="India & Hindi Channels",Zee Anmol Cinema
+
+http://mcsh.xyz:8080/abcdef/800900/52052
+
+#EXTINF:-1 group-title="India & Hindi Channels",Zee Action
+
+http://mcsh.xyz:8080/abcdef/800900/52053
+
+#EXTINF:-1 group-title="India & Hindi Channels",Zee Bangla
+
+http://mcsh.xyz:8080/abcdef/800900/52054
+
+#EXTINF:-1 group-title="India & Hindi Channels",Zee Anmol
+
+http://mcsh.xyz:8080/abcdef/800900/52055
+
+#EXTINF:-1 group-title="India & Hindi Channels",Rishtey UK*
+
+http://mcsh.xyz:8080/abcdef/800900/52056
+
+#EXTINF:-1 group-title="India & Hindi Channels",RIshtey UK
+
+http://mcsh.xyz:8080/abcdef/800900/52057
+
+#EXTINF:-1 group-title="India & Hindi Channels",Rishtey Cineplex*
+
+http://mcsh.xyz:8080/abcdef/800900/52058
+
+#EXTINF:-1 group-title="India & Hindi Channels",Food Food
+
+http://mcsh.xyz:8080/abcdef/800900/52060
+
+#EXTINF:-1 group-title="India & Hindi Channels",BBC Earth
+
+http://mcsh.xyz:8080/abcdef/800900/52062
+
+#EXTINF:-1 group-title="India & Hindi Channels",Travel XP HD
+
+http://mcsh.xyz:8080/abcdef/800900/52063
+
+#KIDS
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://img.favpng.com/13/25/18/cartoon-network-logo-animation-png-favpng-GsY3XdUkYJ6gngKiJUYcgp3bi.jpg",Cartoon Network HD
+
+http://mcsh.xyz:8080/abcdef/800900/51885
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png",Cartoonito
+
+http://mcsh.xyz:8080/abcdef/800900/51886
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang HD
+
+http://mcsh.xyz:8080/abcdef/800900/51887
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang +1
+
+http://mcsh.xyz:8080/abcdef/800900/51888
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pop-TV-Logo.svg/1280px-Pop-TV-Logo.svg.png",Pop TV+ 1
+
+http://mcsh.xyz:8080/abcdef/800900/51890
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://logodix.com/logo/1280216.png",Nicktoons
+
+http://mcsh.xyz:8080/abcdef/800900/51891
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/PopMax.png/revision/latest/scale-to-width-down/340?cb=20170928012212",Pop Max
+
+http://mcsh.xyz:8080/abcdef/800900/51893
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://img.favpng.com/0/11/10/nickelodeon-junior-logo-nick-jr-nickelodeon-movies-png-favpng-g1yMWZRtiNx9uZ6LTQiBVb59y.jpg",Nick Junior HD
+
+http://mcsh.xyz:8080/abcdef/800900/51894
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/New_Tiny_Pop_Logo_2018.png",Tiny Pop
+
+http://mcsh.xyz:8080/abcdef/800900/51895
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",Baby TV
+
+http://mcsh.xyz:8080/abcdef/800900/51896
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://img.favpng.com/13/25/18/cartoon-network-logo-animation-png-favpng-GsY3XdUkYJ6gngKiJUYcgp3bi.jpg",CARTOON NETWORK
+
+http://mcsh.xyz:8080/abcdef/800900/51902
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png",NICK JR.
+
+http://mcsh.xyz:8080/abcdef/800900/51903
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://payload.cargocollective.com/1/1/32833/390156/36_logo3dhorizontal.jpg",SIC K
+
+http://mcsh.xyz:8080/abcdef/800900/51905
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/JimJam_logo.png",JIMJAM
+
+http://mcsh.xyz:8080/abcdef/800900/51906
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BABY TV
+
+http://mcsh.xyz:8080/abcdef/800900/51907
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",NICKELODEON HD
+
+http://mcsh.xyz:8080/abcdef/800900/51911
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://img.favpng.com/13/25/18/cartoon-network-logo-animation-png-favpng-GsY3XdUkYJ6gngKiJUYcgp3bi.jpg",CARTOON NETWORK
+
+http://mcsh.xyz:8080/abcdef/800900/51912
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",BOOMERANG
+
+http://mcsh.xyz:8080/abcdef/800900/51913
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://logodix.com/logo/1280216.png",NICK TOONS
+
+http://mcsh.xyz:8080/abcdef/800900/51914
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png",NICK JR
+
+http://mcsh.xyz:8080/abcdef/800900/51915
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BABY TV
+
+http://mcsh.xyz:8080/abcdef/800900/51916
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1024px-2014_Disney_Channel_logo.svg.png",Disney Channel HD
+
+http://mcsh.xyz:8080/abcdef/800900/51917
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/SuperRTL-2020.png",Super RTL HD
+
+http://mcsh.xyz:8080/abcdef/800900/51921
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://img.favpng.com/13/25/18/cartoon-network-logo-animation-png-favpng-GsY3XdUkYJ6gngKiJUYcgp3bi.jpg",Cartoon Network
+
+http://mcsh.xyz:8080/abcdef/800900/51922
+
+#EXTINF:-1 group-title="KIds Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang
+
+http://mcsh.xyz:8080/abcdef/800900/51923
+
+#24/7 MOVIES
+
+#EXTINF:-1 group-title="24/7 MOvies",Police Story 3: Super Cop (1992)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48259.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Police Story 4: First Strike (1996)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48260.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Police Story 2 (1988)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48261.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Police Story (1985)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48262.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",New Police Story (2004)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48263.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Police Story 2013 (2013)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48264.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",1911 (2011)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48265.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Armour of God (1986)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48266.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Operation Condor (1991)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48267.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Around the World in 80 Days (2004)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48268.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",The Big Brawl (1980)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48269.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Bleeding Steel (2017)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48270.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Chinese Zodiac (2012)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48271.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",City Hunter (1993)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48272.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Crime Story (1993)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48273.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Dragon Blade (2015)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48274.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Dragons Forever (1988)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48275.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Drunken Master (1978)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48276.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Gorgeous (1999)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48277.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Heart of Dragon (1985)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48278.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",The Knight of Shadows: Between Yin and Yang (2019)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48279.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Kung Fu Yoga (2017)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48280.mkv
+
+#EXTINF:-1 group-title="24/7 MOvies",Little Big Soldier (2010)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48281.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",The Miracles of the Namiya General Store (2017)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48282.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Mr. Nice Guy (1997)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48283.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Miracles (1989)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48284.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Project A (1983)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48285.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Project A: Part II (1987)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48286.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Railroad Tigers (2016)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48287.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Robin-B-Hood (2006)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48288.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Rumble in the Bronx (1995)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48289.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Rush Hour (1998)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48290.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Rush Hour 2 (2001)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48291.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Rush Hour 3 (2007)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48292.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Shanghai Knights (2003)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48293.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Shanghai Noon (2000)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48294.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Shaolin(2011)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48295.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Shinjuku Incident (2009)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48296.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Skiptrace (2016)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48297.mkv
+
+#EXTINF:-1 group-title="24/7 MOvies",Spiritual Kung Fu (1978)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48298.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",The Accidental Spy (2001)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48299.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Fearless Hyena (1979)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48300.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",The Forbidden Kingdom (2008)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48301.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",The Golden Lotus (1974)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48302.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",The Karate Kid (2010)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48303.mkv
+
+#EXTINF:-1 group-title="24/7 MOvies",The Legend of Drunken Master (1994)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48304.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",The Medallion (2003)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48305.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",The Myth (2005)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48306.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",The Spy Next Door (2010)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48307.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Twin Dragons (1992)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48308.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",The Tuxedo (2002)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48309.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Thunderbolt (1995)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48310.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Twinkle, Twinkle, Lucky Stars (1985)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48311.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Wheels on Meals (1984)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48312.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Who Am I (2014)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48313.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Winners & Sinners (1983)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/48314.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Pirates of the Caribbean: At World's End (2007)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/50830.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Abominable (2020)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51701.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Ava (2020)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51702.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Before the Fire (2020)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51703.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Black Water: Abyss (2020)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51704.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Say It Loud (2020)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51705.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Deep Blue Sea 3 (2020)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51706.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",First Cow (2019)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51707.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Freaks â€“ You're One of Us (2020)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51708.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",A Chinese Ghost Story (1987)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51709.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",A Chinese Ghost Story II (1990)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51710.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",A Chinese Ghost Story III (1991)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51711.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Assassination Games (2011)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51712.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Bloodsport (1988)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51713.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Cyborg (1989)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51714.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Death Warrant (1990)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51715.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",In Hell (2003)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51716.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Inkheart (2008)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51717.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Kickboxer (1989)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51718.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Knock Off (1998)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51719.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Kung Fu Panda 2 (2011)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51720.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Kung Fu Panda 3 (2016)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51721.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Kung Fu Panda (2008)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51722.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Legionnaire (1998)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51723.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Maximum Risk (1996)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51724.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Nowhere to Run (1993)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51725.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Replicant (2001)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51726.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Street Fighter (1994)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51727.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Sudden Death (1995)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51728.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Timecop (1994)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51729.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Universal Soldier (1992)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51730.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Universal Soldier: The Return (1999)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51731.mp4
+
+#EXTINF:-1 group-title="24/7 MOvies",Wake of Death (2004)
+
+http://mcsh.xyz:8080/movie/abcdef/800900/51732.mp4
+
+#ENDED
