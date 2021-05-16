@@ -18,11 +18,11 @@ http://live-aec.sky-cdn.com/aec_live/Fortune.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.mmtvchannels.com/assets/images/channeliconb/mizzima.jpg",Mizzima TV
 
-http://mcsh.xyz:8080/abcdef/800900/3034
+http://mcsh.xyz:8080/abcdef/abc456/81
 
 #EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/democratic_voice_of_burma.jpg",DVB
 
-https://l1-xl1.myanmarnet.com:443/relay/dvb/ch1/stream_standard/index.m3u8
+http://mcsh.xyz:8080/abcdef/abc456/117
 
 #EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mrtv4.jpg",MRTV 4
 
