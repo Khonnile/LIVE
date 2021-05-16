@@ -134,79 +134,57 @@ http://itking.online:8080/abcdef/abc456/51742
 
 http://itking.online:8080/abcdef/abc456/51743
 
+#EXTINF:-1 group-title="BeIn Sports",AR: BEINSPORT FHD
 
+http://mcsh.xyz:8080/abcdef/abc456/51746
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 9 4K" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein9-4k.png" group-title="BeIn Sports",BeIN SPORTS 9 4K
+#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports 1 FHD HEVC
 
-http://itking.online:8080/livetv/live/617
+http://mcsh.xyz:8080/abcdef/abc456/51747
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 10 4K" tvg-logo="" group-title="BeIn Sports",BeIN SPORTS 10 4K
+#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports 2 FHD HEVC
 
-http://itking.online:8080/livetv/live/618
+http://mcsh.xyz:8080/abcdef/abc456/51748
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 11 4K" tvg-logo="" group-title="BeIn Sports",BeIN SPORTS 11 4K
+#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports  3 FHD HEVC
 
-http://itking.online:8080/livetv/live/619
+http://mcsh.xyz:8080/abcdef/abc456/51749
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 12 4K" tvg-logo="" group-title="BeIn Sports",BeIN SPORTS 12 4K
+#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports  4 FHD HEVC
 
-http://itking.online:8080/livetv/live/620
+http://mcsh.xyz:8080/abcdef/abc456/51750
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 13 4K" tvg-logo="" group-title="BeIn Sports",BeIN SPORTS 13 4K
+#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports  5 FHD HEVC
 
-http://itking.online:8080/livetv/live/621
+http://mcsh.xyz:8080/abcdef/abc456/51751
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD1" tvg-logo="http://vod-logo.net/photos/1185e0c5128d177d61f500c85b873833.JPG" group-title="BeIn Sports",Bein Sport SD1
+#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports  6 FHD HEVC
 
-http://itking.online:8080/livetv/live/651
+http://mcsh.xyz:8080/abcdef/abc456/51752
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD2" tvg-logo="http://vod-logo.net/photos/b1dc86750c902aebba41f28fe16c49b6.JPG" group-title="BeIn Sports",Bein Sport SD2
+#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports  7 FHD HEVC
 
-http://itking.online:8080/livetv/live/652
+http://mcsh.xyz:8080/abcdef/abc456/51753
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD3" tvg-logo="http://vod-logo.net/photos/880547bb3a613adfe767e3ee8a4ec852.JPG" group-title="BeIn Sports",Bein Sport SD3
+#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports  8 FHD HEVC
 
-http://itking.online:8080/livetv/live/653
+http://mcsh.xyz:8080/abcdef/abc456/51754
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD4" tvg-logo="http://vod-logo.net/photos/bfe14e8d1c5134f87c7a24356b332c4e.JPG" group-title="BeIn Sports",Bein Sport SD4
+#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports  9 FHD HEVC
 
-http://itking.online:8080/livetv/live/654
+http://mcsh.xyz:8080/abcdef/abc456/51755
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD5" tvg-logo="http://vod-logo.net/photos/14a6177bfcaadc2a4c075bf88792d2d6.JPG" group-title="BeIn Sports",Bein Sport SD5
+#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports  10 FHD HEVC
 
-http://itking.online:8080/livetv/live/655
+http://mcsh.xyz:8080/abcdef/abc456/51756
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD6" tvg-logo="http://vod-logo.net/photos/14a6177bfcaadc2a4c075bf88792d2d6.JPG" group-title="BeIn Sports",Bein Sport SD6
+#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports 11 FHD HEVC
 
-http://itking.online:8080/livetv/live/656
+http://mcsh.xyz:8080/abcdef/abc456/51744
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD7" tvg-logo="http://vod-logo.net/photos/7d82e3797185376514ccd3c09fe9bb65.JPG" group-title="BeIn Sports",Bein Sport SD7
+#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports 12 FHD HEVC
 
-http://itking.online:8080/livetv/live/657
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD8" tvg-logo="http://vod-logo.net/photos/b6ed679ef34be468824f03ab9bd5d3f9.JPG" group-title="BeIn Sports",Bein Sport SD8
-
-http://itking.online:8080/livetv/live/658
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD9" tvg-logo="http://vod-logo.net/photos/bf3ac7f64547ec2572c192b4e335fa41.JPG" group-title="BeIn Sports",Bein Sport SD9
-
-http://itking.online:8080/livetv/live/659
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD10" tvg-logo="http://vod-logo.net/photos/c06cad823089adf75915471a2f3315a7.JPG" group-title="BeIn Sports",Bein Sport SD10
-
-http://itking.online:8080/livetv/live/660
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD11" tvg-logo="http://vod-logo.net/photos/9ee59993fa7e40d21c77f4a0e8dc892c.JPG" group-title="BeIn Sports",Bein Sport SD11
-
-http://itking.online:8080/livetv/live/661
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD12" tvg-logo="" group-title="BeIn Sports",Bein Sport SD12
-
-http://itking.online:8080/livetv/live/662
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD13 EN" tvg-logo="" group-title="BeIn Sports",Bein Sport SD13 EN
-
-http://itking.online:8080/livetv/live/663
+http://mcsh.xyz:8080/abcdef/abc456/51745
 
 #SKYNET
 
