@@ -367,3 +367,153 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225696/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225690/index.m3u8
 #EXTINF:-1,Xtreme (2021) เอ็กซ์ตรีม
 https://edge-n2a.worldwidetv.club/toXYtK6II4qMuIs9pubOWw/1623232872/aes-vod-kodi/q0/vod2/06/movie/TODD_Xtreme_2021_1080_TH.mp4/chunk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zing UK" tvg-logo="" group-title="India Channel",Zing UK
+http://mcsh.xyz:8080/nshinn/xtm/51990
+#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="" group-title="India Channel",Zoom
+http://mcsh.xyz:8080/nshinn/xtm/51991
+#EXTINF:-1 tvg-id="" tvg-name="E24 TV" tvg-logo="" group-title="India Channel",E24 TV
+http://mcsh.xyz:8080/nshinn/xtm/51992
+#EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="" group-title="India Channel",Colors HD
+http://mcsh.xyz:8080/nshinn/xtm/51993
+#EXTINF:-1 tvg-id="" tvg-name="Colors HD*" tvg-logo="" group-title="India Channel",Colors HD*
+http://mcsh.xyz:8080/nshinn/xtm/51994
+#EXTINF:-1 tvg-id="" tvg-name="Colors Uk*" tvg-logo="" group-title="India Channel",Colors Uk*
+http://mcsh.xyz:8080/nshinn/xtm/51995
+#EXTINF:-1 tvg-id="" tvg-name="Colors Uk" tvg-logo="" group-title="India Channel",Colors Uk
+http://mcsh.xyz:8080/nshinn/xtm/51996
+#EXTINF:-1 tvg-id="" tvg-name="& Picture HD" tvg-logo="" group-title="India Channel",& Picture HD
+http://mcsh.xyz:8080/nshinn/xtm/51997
+#EXTINF:-1 tvg-id="" tvg-name="&TV Uk*" tvg-logo="" group-title="India Channel",&TV Uk*
+http://mcsh.xyz:8080/nshinn/xtm/51998
+#EXTINF:-1 tvg-id="" tvg-name="&TV HD" tvg-logo="" group-title="India Channel",&TV HD
+http://mcsh.xyz:8080/nshinn/xtm/51999
+#EXTINF:-1 tvg-id="" tvg-name="UTV Bindass*" tvg-logo="" group-title="India Channel",UTV Bindass*
+http://mcsh.xyz:8080/nshinn/xtm/52000
+#EXTINF:-1 tvg-id="" tvg-name="B4U Movies Uk*" tvg-logo="" group-title="India Channel",B4U Movies Uk*
+http://mcsh.xyz:8080/nshinn/xtm/52001
+#EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="" group-title="India Channel",B4U Music
+http://mcsh.xyz:8080/nshinn/xtm/52002
+#EXTINF:-1 tvg-id="" tvg-name="B4u Plus" tvg-logo="" group-title="India Channel",B4u Plus
+http://mcsh.xyz:8080/nshinn/xtm/52003
+#EXTINF:-1 tvg-id="" tvg-name="BBO*" tvg-logo="" group-title="India Channel",BBO*
+http://mcsh.xyz:8080/nshinn/xtm/52004
+#EXTINF:-1 tvg-id="" tvg-name="Housefull Cinema" tvg-logo="" group-title="India Channel",Housefull Cinema
+http://mcsh.xyz:8080/nshinn/xtm/52005
+#EXTINF:-1 tvg-id="" tvg-name="Housefull Movies" tvg-logo="" group-title="India Channel",Housefull Movies
+http://mcsh.xyz:8080/nshinn/xtm/52006
+#EXTINF:-1 tvg-id="" tvg-name="Movie House" tvg-logo="" group-title="India Channel",Movie House
+http://mcsh.xyz:8080/nshinn/xtm/52007
+#EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="" group-title="India Channel",B4U Movies
+http://mcsh.xyz:8080/nshinn/xtm/52008
+#EXTINF:-1 tvg-id="" tvg-name="Prive HD" tvg-logo="" group-title="India Channel",Prive HD
+http://mcsh.xyz:8080/nshinn/xtm/52009
+#EXTINF:-1 tvg-id="" tvg-name="Mini Plex HD" tvg-logo="" group-title="India Channel",Mini Plex HD
+http://mcsh.xyz:8080/nshinn/xtm/52010
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD India" tvg-logo="" group-title="India Channel",HBO HD India
+http://mcsh.xyz:8080/nshinn/xtm/52011
+#EXTINF:-1 tvg-id="" tvg-name="TLC Hindi" tvg-logo="" group-title="India Channel",TLC Hindi
+http://mcsh.xyz:8080/nshinn/xtm/52012
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="" group-title="India Channel",Star Movies HD
+http://mcsh.xyz:8080/nshinn/xtm/52013
+#EXTINF:-1 tvg-id="" tvg-name="Star World HD" tvg-logo="" group-title="India Channel",Star World HD
+http://mcsh.xyz:8080/nshinn/xtm/52014
+#EXTINF:-1 tvg-id="" tvg-name="Star Bharat HD" tvg-logo="" group-title="India Channel",Star Bharat HD
+http://mcsh.xyz:8080/nshinn/xtm/52015
+#EXTINF:-1 tvg-id="" tvg-name="Star Bharat UK*" tvg-logo="" group-title="India Channel",Star Bharat UK*
+http://mcsh.xyz:8080/nshinn/xtm/52016
+#EXTINF:-1 tvg-id="" tvg-name="Star Bharat Uk" tvg-logo="" group-title="India Channel",Star Bharat Uk
+http://mcsh.xyz:8080/nshinn/xtm/52017
+#EXTINF:-1 tvg-id="" tvg-name="Sab TV" tvg-logo="" group-title="India Channel",Sab TV
+http://mcsh.xyz:8080/nshinn/xtm/52018
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sab HD" tvg-logo="" group-title="India Channel",Sony Sab HD
+http://mcsh.xyz:8080/nshinn/xtm/52019
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pal" tvg-logo="" group-title="India Channel",Sony Pal
+http://mcsh.xyz:8080/nshinn/xtm/52020
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="" group-title="India Channel",Sony Max HD
+http://mcsh.xyz:8080/nshinn/xtm/52021
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max HD2" tvg-logo="" group-title="India Channel",Sony Max HD2
+http://mcsh.xyz:8080/nshinn/xtm/52022
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max Uk*" tvg-logo="" group-title="India Channel",Sony Max Uk*
+http://mcsh.xyz:8080/nshinn/xtm/52023
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max Uk" tvg-logo="" group-title="India Channel",Sony Max Uk
+http://mcsh.xyz:8080/nshinn/xtm/52024
+#EXTINF:-1 tvg-id="" tvg-name="SONY SIX HD" tvg-logo="" group-title="India Channel",SONY SIX HD
+http://mcsh.xyz:8080/nshinn/xtm/52025
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six SD" tvg-logo="" group-title="India Channel",Sony Six SD
+http://mcsh.xyz:8080/nshinn/xtm/52026
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX HD" tvg-logo="" group-title="India Channel",SONY PIX HD
+http://mcsh.xyz:8080/nshinn/xtm/52027
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV UK*" tvg-logo="" group-title="India Channel",Sony TV UK*
+http://mcsh.xyz:8080/nshinn/xtm/52028
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV UK" tvg-logo="" group-title="India Channel",Sony TV UK
+http://mcsh.xyz:8080/nshinn/xtm/52029
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV HD" tvg-logo="" group-title="India Channel",Sony TV HD
+http://mcsh.xyz:8080/nshinn/xtm/52030
+#EXTINF:-1 tvg-id="" tvg-name="Sony Yay" tvg-logo="" group-title="India Channel",Sony Yay
+http://mcsh.xyz:8080/nshinn/xtm/52031
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Uk" tvg-logo="" group-title="India Channel",Star Gold Uk
+http://mcsh.xyz:8080/nshinn/xtm/52032
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold UK*" tvg-logo="" group-title="India Channel",Star Gold UK*
+http://mcsh.xyz:8080/nshinn/xtm/52033
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold India HD" tvg-logo="" group-title="India Channel",Star Gold India HD
+http://mcsh.xyz:8080/nshinn/xtm/52034
+#EXTINF:-1 tvg-id="" tvg-name="Star Vijay HD" tvg-logo="" group-title="India Channel",Star Vijay HD
+http://mcsh.xyz:8080/nshinn/xtm/52035
+#EXTINF:-1 tvg-id="" tvg-name="Star Utsav" tvg-logo="" group-title="India Channel",Star Utsav
+http://mcsh.xyz:8080/nshinn/xtm/52036
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus UK*" tvg-logo="" group-title="India Channel",Star Plus UK*
+http://mcsh.xyz:8080/nshinn/xtm/52037
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus Uk" tvg-logo="" group-title="India Channel",Star Plus Uk
+http://mcsh.xyz:8080/nshinn/xtm/52038
+#EXTINF:-1 tvg-id="" tvg-name="Star plus India" tvg-logo="" group-title="India Channel",Star plus India
+http://mcsh.xyz:8080/nshinn/xtm/52039
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus India HD" tvg-logo="" group-title="India Channel",Star Plus India HD
+http://mcsh.xyz:8080/nshinn/xtm/52040
+#EXTINF:-1 tvg-id="" tvg-name="Zee Etc Bollywood" tvg-logo="" group-title="India Channel",Zee Etc Bollywood
+http://mcsh.xyz:8080/nshinn/xtm/52041
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV HD IN" tvg-logo="" group-title="India Channel",Zee TV HD IN
+http://mcsh.xyz:8080/nshinn/xtm/52042
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV HD IN" tvg-logo="" group-title="India Channel",Zee TV HD IN
+http://mcsh.xyz:8080/nshinn/xtm/52043
+#EXTINF:-1 tvg-id="" tvg-name="Zee Tv HD" tvg-logo="" group-title="India Channel",Zee Tv HD
+http://mcsh.xyz:8080/nshinn/xtm/52044
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="" group-title="India Channel",Zee Cinema
+http://mcsh.xyz:8080/nshinn/xtm/52045
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema UK*" tvg-logo="" group-title="India Channel",Zee Cinema UK*
+http://mcsh.xyz:8080/nshinn/xtm/52046
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema FHD" tvg-logo="" group-title="India Channel",Zee Cinema FHD
+http://mcsh.xyz:8080/nshinn/xtm/52047
+#EXTINF:-1 tvg-id="" tvg-name="Zee Studio HD" tvg-logo="" group-title="India Channel",Zee Studio HD
+http://mcsh.xyz:8080/nshinn/xtm/52048
+#EXTINF:-1 tvg-id="" tvg-name="Zee Salaam" tvg-logo="" group-title="India Channel",Zee Salaam
+http://mcsh.xyz:8080/nshinn/xtm/52049
+#EXTINF:-1 tvg-id="" tvg-name="Zee Classic" tvg-logo="" group-title="India Channel",Zee Classic
+http://mcsh.xyz:8080/nshinn/xtm/52050
+#EXTINF:-1 tvg-id="" tvg-name="Zee Talkies" tvg-logo="" group-title="India Channel",Zee Talkies
+http://mcsh.xyz:8080/nshinn/xtm/52051
+#EXTINF:-1 tvg-id="" tvg-name="Zee Anmol Cinema" tvg-logo="" group-title="India Channel",Zee Anmol Cinema
+http://mcsh.xyz:8080/nshinn/xtm/52052
+#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="" group-title="India Channel",Zee Action
+http://mcsh.xyz:8080/nshinn/xtm/52053
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="" group-title="India Channel",Zee Bangla
+http://mcsh.xyz:8080/nshinn/xtm/52054
+#EXTINF:-1 tvg-id="" tvg-name="Zee Anmol" tvg-logo="" group-title="India Channel",Zee Anmol
+http://mcsh.xyz:8080/nshinn/xtm/52055
+#EXTINF:-1 tvg-id="" tvg-name="Rishtey UK*" tvg-logo="" group-title="India Channel",Rishtey UK*
+http://mcsh.xyz:8080/nshinn/xtm/52056
+#EXTINF:-1 tvg-id="" tvg-name="RIshtey UK" tvg-logo="" group-title="India Channel",RIshtey UK
+http://mcsh.xyz:8080/nshinn/xtm/52057
+#EXTINF:-1 tvg-id="" tvg-name="Rishtey Cineplex*" tvg-logo="" group-title="India Channel",Rishtey Cineplex*
+http://mcsh.xyz:8080/nshinn/xtm/52058
+#EXTINF:-1 tvg-id="" tvg-name="Rishtey Cineplex" tvg-logo="" group-title="India Channel",Rishtey Cineplex
+http://mcsh.xyz:8080/nshinn/xtm/52059
+#EXTINF:-1 tvg-id="" tvg-name="Food Food" tvg-logo="" group-title="India Channel",Food Food
+http://mcsh.xyz:8080/nshinn/xtm/52060
+#EXTINF:-1 tvg-id="" tvg-name="Living Food LF" tvg-logo="" group-title="India Channel",Living Food LF
+http://mcsh.xyz:8080/nshinn/xtm/52061
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="" group-title="India Channel",BBC Earth
+http://mcsh.xyz:8080/nshinn/xtm/52062
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP HD" tvg-logo="" group-title="India Channel",Travel XP HD
+http://mcsh.xyz:8080/nshinn/xtm/52063
+
+##
