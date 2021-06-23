@@ -515,5 +515,53 @@ http://mcsh.xyz:8080/nshinn/xtm/52061
 http://mcsh.xyz:8080/nshinn/xtm/52062
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP HD" tvg-logo="" group-title="India Channel",Travel XP HD
 http://mcsh.xyz:8080/nshinn/xtm/52063
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORT_1HD" tvg-logo="" group-title="beIN Sports HD FHD",AR: BEINSPORT_1HD
+http://mcsh.xyz:8080/nshinn/xtm/51733
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORT_2HD" tvg-logo="" group-title="beIN Sports HD FHD",AR: BEINSPORT_2HD
+http://mcsh.xyz:8080/nshinn/xtm/51734
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORT_3HD" tvg-logo="" group-title="beIN Sports HD FHD",AR: BEINSPORT_3HD
+http://mcsh.xyz:8080/nshinn/xtm/51735
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORT_4HD" tvg-logo="" group-title="beIN Sports HD FHD",AR: BEINSPORT_4HD
+http://mcsh.xyz:8080/nshinn/xtm/51736
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORT_5HD" tvg-logo="" group-title="beIN Sports HD FHD",AR: BEINSPORT_5HD
+http://mcsh.xyz:8080/nshinn/xtm/51737
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORT_6HD" tvg-logo="" group-title="beIN Sports HD FHD",AR: BEINSPORT_6HD
+http://mcsh.xyz:8080/nshinn/xtm/51738
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORT_7HD" tvg-logo="" group-title="beIN Sports HD FHD",AR: BEINSPORT_7HD
+http://mcsh.xyz:8080/nshinn/xtm/51739
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORT_8HD" tvg-logo="" group-title="beIN Sports HD FHD",AR: BEINSPORT_8HD
+http://mcsh.xyz:8080/nshinn/xtm/51740
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORT_9HD" tvg-logo="" group-title="beIN Sports HD FHD",AR: BEINSPORT_9HD
+http://mcsh.xyz:8080/nshinn/xtm/51741
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORT_11HD" tvg-logo="" group-title="beIN Sports HD FHD",AR: BEINSPORT_11HD
+http://mcsh.xyz:8080/nshinn/xtm/51742
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORT_10HD" tvg-logo="" group-title="beIN Sports HD FHD",AR: BEINSPORT_10HD
+http://mcsh.xyz:8080/nshinn/xtm/51743
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 11 FHD HEVC" tvg-logo="" group-title="beIN Sports HD FHD",AR: beIN Sports 11 FHD HEVC
+http://mcsh.xyz:8080/nshinn/xtm/51744
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 12 FHD HEVC" tvg-logo="" group-title="beIN Sports HD FHD",AR: beIN Sports 12 FHD HEVC
+http://mcsh.xyz:8080/nshinn/xtm/51745
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORT FHD" tvg-logo="" group-title="beIN Sports HD FHD",AR: BEINSPORT FHD
+http://mcsh.xyz:8080/nshinn/xtm/51746
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 FHD HEVC" tvg-logo="" group-title="beIN Sports HD FHD",AR: beIN Sports 1 FHD HEVC
+http://mcsh.xyz:8080/nshinn/xtm/51747
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 FHD HEVC" tvg-logo="" group-title="beIN Sports HD FHD",AR: beIN Sports 2 FHD HEVC
+http://mcsh.xyz:8080/nshinn/xtm/51748
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  3 FHD HEVC" tvg-logo="" group-title="beIN Sports HD FHD",AR: beIN Sports  3 FHD HEVC
+http://mcsh.xyz:8080/nshinn/xtm/51749
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  4 FHD HEVC" tvg-logo="" group-title="beIN Sports HD FHD",AR: beIN Sports  4 FHD HEVC
+http://mcsh.xyz:8080/nshinn/xtm/51750
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  5 FHD HEVC" tvg-logo="" group-title="beIN Sports HD FHD",AR: beIN Sports  5 FHD HEVC
+http://mcsh.xyz:8080/nshinn/xtm/51751
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  6 FHD HEVC" tvg-logo="" group-title="beIN Sports HD FHD",AR: beIN Sports  6 FHD HEVC
+http://mcsh.xyz:8080/nshinn/xtm/51752
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  7 FHD HEVC" tvg-logo="" group-title="beIN Sports HD FHD",AR: beIN Sports  7 FHD HEVC
+http://mcsh.xyz:8080/nshinn/xtm/51753
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  8 FHD HEVC" tvg-logo="" group-title="beIN Sports HD FHD",AR: beIN Sports  8 FHD HEVC
+http://mcsh.xyz:8080/nshinn/xtm/51754
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  9 FHD HEVC" tvg-logo="" group-title="beIN Sports HD FHD",AR: beIN Sports  9 FHD HEVC
+http://mcsh.xyz:8080/nshinn/xtm/51755
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  10 FHD HEVC" tvg-logo="" group-title="beIN Sports HD FHD",AR: beIN Sports  10 FHD HEVC
+http://mcsh.xyz:8080/nshinn/xtm/51756
 
 ##
