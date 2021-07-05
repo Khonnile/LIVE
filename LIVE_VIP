@@ -8,22 +8,6 @@
 
 http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8?koshwefull.
 
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.mmtvchannels.com/assets/images/channeliconb/channelk.jpg",Channel K
-
-https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
-
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.mmtvchannels.com/assets/images/channeliconb/fortune.jpg",Fortune
-
-http://live-aec.sky-cdn.com/aec_live/Fortune.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.mmtvchannels.com/assets/images/channeliconb/mizzima.jpg",Mizzima TV
-
-http://mcsh.xyz:8080/abcdef/abc456/81
-
-#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/democratic_voice_of_burma.jpg",DVB
-
-http://mcsh.xyz:8080/abcdef/abc456/117
-
 #EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mrtv4.jpg",MRTV 4
 
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
@@ -36,14 +20,6 @@ https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southea
 
 http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8?koshwefull.
 
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.mmtvchannels.com/assets/images/channeliconb/5plus.jpg",5 Plus
-
-https://d39q34kqnktegw.cloudfront.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/progress-playlist.m3u8
-
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.mmtvchannels.com/assets/images/channeliconb/mwd1.jpg",MWD HD
-
-http://203.81.84.130/hls/mwd/index.m3u8
-
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.wtvision.com/wp-content/uploads/2016/10/mvm1.jpg",MVM
 
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8
@@ -52,41 +28,9 @@ https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8
 
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
-#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mwd_variety.jpg",MWD Variety 
-
-http://203.81.84.130/hls/mwd_variety/index.m3u8
-
-#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mwd_movies.jpg",MWD Movie HD
-
-http://203.81.84.130/hls/mwd_serie/index.m3u8
-
-#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mwd_documentary.jpg",MWD Docmentry HD
-
-http://203.81.84.130/hls/mwd_document/index.m3u8
-
-#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mwd_series.jpg",MWD Serie HD 
-
-http://203.81.84.130/hls/mwd_movie/index.m3u8
-
-#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mwd_shopping.jpg",MWD Shopping HD
-
-http://203.81.84.130/hls/mwd_shopping/index.m3u8
-
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.asiasat.com/channelguide/images/mwd-family.jpg",MWD Family HD
-
-http://203.81.84.130/hls/mwd_family/index.m3u8
-
 #EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mn_tv_mm.jpg",Mntv 
 
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://cdn.jobnet.com.mm/images/can/200/200/20180713032749-cookielogo.png",Cookie Asia
-
-https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
-
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://lh3.googleusercontent.com/A5oHMZHn2eTyPPofaPFe-vdwlkfNLjLxGdYAQFOySnlsZkrlLYagLZ95iNCmdGfxCw",Cookie Return
-
-https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
 
 #SPORT
 
