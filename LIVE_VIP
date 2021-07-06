@@ -147,7 +147,7 @@ http://122.155.201.186/feed/LC42/index.m3u8
 
 #EXTINF:-1 group-title="MOvies Channels",HBO Signature
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-#EXTINF:-1 group-title="MOvies Channels",Fox Movies,
+#EXTINF:-1 group-title="MOvies Channels",Fox Movies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 group-title="MOvies Channels",Fox Live
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
