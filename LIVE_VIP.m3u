@@ -1,0 +1,1652 @@
+#M3U
+
+#KOPHYO
+
+#MYANMAR
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/fa/aa/ecfaaa71a30412da95f452207a13bf5d.png" group-title="Myanmar",KO Phyo Myanmar
+
+http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8?koshwefull.
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mrtv4.jpg",MRTV 4
+
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel7_mm.jpg",Channel 7   
+
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.mmtvchannels.com/assets/images/channeliconb/mahar.jpg",Mahar
+
+http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8?koshwefull.
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.wtvision.com/wp-content/uploads/2016/10/mvm1.jpg",MVM
+
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.mmtvchannels.com/assets/images/channeliconb/maharbawdi.jpg",Maharbawdi
+
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mn_tv_mm.jpg",Mntv 
+
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+
+#BEIN SPORT HD
+
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="beIN SPORTS 1 PREMIUM SD+ " tvg-logo="http://dmtn.tv:8080/images/791f1ea80e1923bf446b1aac1109e6dc.png" group-title="beIN SPORTS HD & SD | LIVE",beIN SPORTS 1 PREMIUM SD+
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/99871
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN SPORTS 5 SD+ Ⓖ" tvg-logo="http://dmtn.tv:8080/images/24b53756c6216ec8c1d8050494fca3cf.png" group-title="beIN SPORTS HD & SD | LIVE",beIN SPORTS 5 SD+
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/99875
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN SPORTS 3 SD+ Ⓖ" tvg-logo="http://dmtn.tv:8080/images/4daaf1daab4f195c427fcff6e798bd7d.png" group-title="beIN SPORTS HD & SD | LIVE",beIN SPORTS 3 SD+
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/99876
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="beIN SPORTS 3 PREMIUM SD+ Ⓖ" tvg-logo="http://dmtn.tv:8080/images/81aedfc0061bb3bfbf7e9e90a2133fc7.png" group-title="beIN SPORTS HD & SD | LIVE",beIN SPORTS 3 PREMIUM SD+
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/104698
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN SPORTS 2 PREMIUM SD+ Ⓖ" tvg-logo="http://dmtn.tv:8080/images/43f9dcfb2b38dd91355c34326b5d1d49.png" group-title="beIN SPORTS HD & SD | LIVE",beIN SPORTS 2 PREMIUM SD+
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/104699
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 SD+ Ⓖ" tvg-logo="http://dmtn.tv:8080/images/f18c5afb59a892b5ecdaaddb31c3161a.png" group-title="beIN SPORTS HD & SD | LIVE",beIN SPORTS 4 SD+
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/145309
+#EXTINF:-1 group-title="beIN SPORTS HD & SD | LIVE",BEIN SPORT HD 1
+http://178.175.132.170:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="beIN SPORTS HD & SD | LIVE",BEIN SPORT HD 3
+http://178.175.132.170:8888/02_epl2_720p_UK/chunklist.m3u8
+
+#SKYNET
+
+#EXTINF:-1 group-title="Skynet",Skynet Sport 1
+http://178.175.132.170:8888/03_skynetsport1_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Skynet",Skynet Sport 2
+http://178.175.132.170:8888/03_skynetsport2_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Skynet",Skynet Sport 3
+http://178.175.132.170:8888/03_skynetsport3_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Skynet",Skynet Sport 4
+http://178.175.132.170:8888/03_skynetsport4_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Skynet",Skynet Sport 5
+http://178.175.132.170:8888/03_skynetsport5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sport HD" tvg-logo="" group-title="Skynet",Skynet Sport HD
+http://178.175.132.170:8888/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sport 6" tvg-logo="" group-title="Skynet",Skynet Sport 6
+http://178.175.132.170:8888/03_skynetsport6_480p/chunklist.m3u8
+
+#BEIN SPORT FHD
+
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN SPORTS 2 PREMIUM HEVC 50FPS Ⓖ" tvg-logo="http://dmtn.tv:8080/images/43f9dcfb2b38dd91355c34326b5d1d49.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 2 PREMIUM HEVC 50FPS Ⓖ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/32027
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="beIN SPORTS 3 PREMIUM HEVC 50FPS Ⓖ" tvg-logo="http://dmtn.tv:8080/images/81aedfc0061bb3bfbf7e9e90a2133fc7.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 3 PREMIUM HEVC 50FPS Ⓖ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/38286
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 HEVC 50FPS Ⓖ" tvg-logo="http://dmtn.tv:8080/images/eb199f727ed25ff493ac24b4cc941595.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 6 HEVC 50FPS Ⓖ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/78385
+#EXTINF:-1 tvg-id="beinsportsmax2ar.qa" tvg-name="beIN SPORTS EVENT 2 HD+" tvg-logo="http://dmtn.tv:8080/images/1e9ba21f074db6e5e379c1e817816b3b.png" group-title="beIN SPORTS MAX EURO & COPA",beIN SPORTS EVENT 2 HD+
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/198780
+#EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="beIN SPORTS 4K (FHD)" tvg-logo="http://dmtn.tv:8080/images/c3c48d13fbc55a278e60d4c1c22a045a.png" group-title="beIN SPORTS MAX EURO & COPA",beIN SPORTS 4K (FHD)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/206083
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 HEVC 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/17de6e07cfd1a584ef2bc6b82994fcbb.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 1 HEVC 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/231522
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN SPORTS 2 HEVC 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/d05c2968061bbbf94c8fcd540ff747fe.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 2 HEVC 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/231523
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN SPORTS 3 HEVC 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/063becaadb3aae284dc81ee7dbd4128a.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 3 HEVC 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/231524
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 HEVC 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/1e523a1511f7caabc1253951f4a516d8.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 4 HEVC 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/231525
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 HEVC 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/eb199f727ed25ff493ac24b4cc941595.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 6 HEVC 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/231527
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 HEVC 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/187c55556c520ac3b56d7a240b4cb784.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 7 HEVC 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/231528
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="beIN SPORTS 1 PREMIUM HEVC 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/791f1ea80e1923bf446b1aac1109e6dc.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 1 PREMIUM HEVC 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/231529
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN SPORTS 2 PREMIUM HEVC 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/43f9dcfb2b38dd91355c34326b5d1d49.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 2 PREMIUM HEVC 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/231530
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="beIN SPORTS 3 PREMIUM HEVC 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/81aedfc0061bb3bfbf7e9e90a2133fc7.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 3 PREMIUM HEVC 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/231531
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN SPORTS 2 FHD 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/d05c2968061bbbf94c8fcd540ff747fe.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 2 FHD 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/236474
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN SPORTS 3 FHD 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/063becaadb3aae284dc81ee7dbd4128a.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 3 FHD 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/236483
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 FHD 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/1e523a1511f7caabc1253951f4a516d8.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 4 FHD 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/236492
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN SPORTS 5 FHD 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/f82e4e274dbfb73557b773ebc10e85e7.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 5 FHD 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/236501
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 FHD 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/7f26a68528cd0d9e7fe2139ee81e9f79.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 6 FHD 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/236510
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 FHD 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/f034b5c9a6c4f6faa42dd66e5d57ddee.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 7 FHD 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/236519
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="beIN SPORTS 1 PREMIUM FHD 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/7f0ea47d7d06295526232dd746f974fd.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 1 PREMIUM FHD 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/236528
+#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="beIN SPORTS 2 PREMIUM FHD 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/1d0e8281477caf54f80d840da30c8c88.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 2 PREMIUM FHD 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/236537
+#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="beIN SPORTS 3 PREMIUM FHD 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/f313a0545af418ac2351442091910264.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 3 PREMIUM FHD 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/236546
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 FHD 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/c4fbb8f504530f131e2015fd1b454ce1.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 1 FHD 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238016
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN SPORTS 2 FHD 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/abde6d35f62361dd6ec65e9213982a46.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 2 FHD 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238017
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN SPORTS 3 FHD 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/4daaf1daab4f195c427fcff6e798bd7d.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 3 FHD 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238018
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 FHD 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/f18c5afb59a892b5ecdaaddb31c3161a.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 4 FHD 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238019
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN SPORTS 5 FHD 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/24b53756c6216ec8c1d8050494fca3cf.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 5 FHD 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238020
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 FHD 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/eb199f727ed25ff493ac24b4cc941595.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 6 FHD 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238021
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 FHD 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/187c55556c520ac3b56d7a240b4cb784.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 7 FHD 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238022
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="beIN SPORTS 1 PREMIUM FHD 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/791f1ea80e1923bf446b1aac1109e6dc.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 1 PREMIUM FHD 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238023
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN SPORTS 2 PREMIUM FHD 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/43f9dcfb2b38dd91355c34326b5d1d49.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 2 PREMIUM FHD 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238024
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="beIN SPORTS 3 PREMIUM FHD 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/81aedfc0061bb3bfbf7e9e90a2133fc7.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 3 PREMIUM FHD 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238025
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 HEVC 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/c4fbb8f504530f131e2015fd1b454ce1.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 1 HEVC 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238028
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN SPORTS 2 HEVC 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/abde6d35f62361dd6ec65e9213982a46.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 2 HEVC 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238029
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN SPORTS 3 HEVC 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/4daaf1daab4f195c427fcff6e798bd7d.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 3 HEVC 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238030
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 HEVC 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/f18c5afb59a892b5ecdaaddb31c3161a.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 4 HEVC 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238031
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN SPORTS 5 HEVC 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/24b53756c6216ec8c1d8050494fca3cf.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 5 HEVC 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238032
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 HEVC 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/eb199f727ed25ff493ac24b4cc941595.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 6 HEVC 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238033
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 HEVC 25FPS ★" tvg-logo="http://dmtn.tv:8080/images/187c55556c520ac3b56d7a240b4cb784.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 7 HEVC 25FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238034
+#EXTINF:-1 tvg-id="beinsports1enar.qa" tvg-name="beIN SPORTS 1 EN HEVC 50FPS ★" tvg-logo="http://dmtn.tv:8080/images/791f1ea80e1923bf446b1aac1109e6dc.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 1 EN HEVC 50FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238035
+#EXTINF:-1 tvg-id="beinsports2enar.qa" tvg-name="beIN SPORTS 2 EN HEVC 50FPS ★" tvg-logo="http://dmtn.tv:8080/images/43f9dcfb2b38dd91355c34326b5d1d49.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 2 EN HEVC 50FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238036
+#EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-name="beIN SPORTS 3 EN HEVC 50FPS ★" tvg-logo="" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 3 EN HEVC 50FPS ★
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238037
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="beIN SPORTS XTRA 1 FHD" tvg-logo="http://dmtn.tv:8080/images/acd181de6eaebb9eb41cde6f7d2b4cdc.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS XTRA 1 FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238062
+#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="beIN SPORTS XTRA 2 FHD" tvg-logo="http://dmtn.tv:8080/images/0150c8936ad6bc95a7b9e728ddbf0cd9.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS XTRA 2 FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/238063
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 FHD 50FPS Ⓚ" tvg-logo="http://dmtn.tv:8080/images/c4fbb8f504530f131e2015fd1b454ce1.png" group-title="beIN SPORTS FHD & HEVC | LIVE",beIN SPORTS 1 FHD 50FPS Ⓚ
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/240644
+#EXTINF:-1 tvg-id="" tvg-name="▨▨▨▨ 【beIN FREE】 ▨▨▨▨" tvg-logo="http://dmtn.tv:8080/images/443a6af423a93de250c7dfc9864bce4b.png" group-title="beIN SPORTS FHD & HEVC | LIVE",▨▨▨▨ 【beIN FREE】 ▨▨▨▨
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/240646
+#EXTINF:-1 tvg-id="" tvg-name="▨▨▨▨【beIN EVENTS】 ▨▨▨▨" tvg-logo="http://dmtn.tv:8080/images/443a6af423a93de250c7dfc9864bce4b.png" group-title="beIN SPORTS MAX EURO & COPA",▨▨▨▨【beIN EVENTS】 ▨▨▨▨
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/240647
+#EXTINF:-1 tvg-id="" tvg-name="▨▨▨▨【beIN EXTRA】 ▨▨▨▨" tvg-logo="http://dmtn.tv:8080/images/443a6af423a93de250c7dfc9864bce4b.png" group-title="beIN SPORTS FHD & HEVC | LIVE",▨▨▨▨【beIN EXTRA】 ▨▨▨▨
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/240648
+#EXTINF:-1 tvg-id="" tvg-name="▨▨▨▨ 【FHD 50FPS Ⓖ】 ▨▨▨▨" tvg-logo="http://dmtn.tv:8080/images/443a6af423a93de250c7dfc9864bce4b.png" group-title="beIN SPORTS FHD & HEVC | LIVE",▨▨▨▨ 【FHD 50FPS Ⓖ】 ▨▨▨▨
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/240649
+#EXTINF:-1 tvg-id="" tvg-name="▨▨▨▨ 【HEVC 50FPS Ⓖ】 ▨▨▨▨" tvg-logo="http://dmtn.tv:8080/images/a5f2f6b942a038a15cf407c6a1f85c53.png" group-title="beIN SPORTS FHD & HEVC | LIVE",▨▨▨▨ 【HEVC 50FPS Ⓖ】 ▨▨▨▨
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/240650
+#EXTINF:-1 tvg-id="" tvg-name="▨▨▨▨ 【HEVC 50FPS Ⓚ】 ▨▨▨▨" tvg-logo="http://dmtn.tv:8080/images/a5f2f6b942a038a15cf407c6a1f85c53.png" group-title="beIN SPORTS FHD & HEVC | LIVE",▨▨▨▨ 【HEVC 50FPS Ⓚ】 ▨▨▨▨
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/240651
+#EXTINF:-1 tvg-id="" tvg-name="▨▨▨▨ 【beIN SPORTS MAX】 ▨▨▨▨" tvg-logo="http://dmtn.tv:8080/images/443a6af423a93de250c7dfc9864bce4b.png" group-title="beIN SPORTS MAX EURO & COPA",▨▨▨▨ 【beIN SPORTS MAX】 ▨▨▨▨
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/240652
+#EXTINF:-1 tvg-id="" tvg-name="▨▨▨▨ 【FHD 25FPS ★】 ▨▨▨▨" tvg-logo="http://dmtn.tv:8080/images/443a6af423a93de250c7dfc9864bce4b.png" group-title="beIN SPORTS FHD & HEVC | LIVE",▨▨▨▨ 【FHD 25FPS ★】 ▨▨▨▨
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/240653
+#EXTINF:-1 tvg-id="" tvg-name="▨▨▨▨ 【HEVC 25FPS ★】 ▨▨▨▨" tvg-logo="http://dmtn.tv:8080/images/a5f2f6b942a038a15cf407c6a1f85c53.png" group-title="beIN SPORTS FHD & HEVC | LIVE",▨▨▨▨ 【HEVC 25FPS ★】 ▨▨▨▨
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/240654
+#EXTINF:-1 tvg-id="" tvg-name="▨▨▨▨ 【FHD ²】 ▨▨▨▨" tvg-logo="http://dmtn.tv:8080/images/443a6af423a93de250c7dfc9864bce4b.png" group-title="beIN SPORTS FHD & HEVC | LIVE",▨▨▨▨ 【FHD ²】 ▨▨▨▨
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/240655
+#EXTINF:-1 tvg-id="" tvg-name="▨▨▨▨ 【AL KASS GROUP】 ▨▨▨▨" tvg-logo="http://dmtn.tv:8080/images/dd345381844d3855c5d859c333d9629e.png" group-title="beIN SPORTS FHD & HEVC | LIVE",▨▨▨▨ 【AL KASS GROUP】 ▨▨▨▨
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/240656
+
+#TRUEVISIONS
+
+#EXTINF:-1 group-title="true visions Channels",Premier HD1
+http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="true visions Channels",Premier HD1
+http://119.161.100.50:8082/live/epl-1/playlist.m3u8
+#EXTINF:-1 group-title="true visions Channels",Premier HD2
+http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="true visions Channels",Premier HD2
+http://119.161.100.50:8082/live/epl-2/playlist.m3u8
+#EXTINF:-1 group-title="true visions Channels",Premier HD3
+http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="true visions Channels",Premier HD3
+http://119.161.100.50:8082/live/epl-3/playlist.m3u8
+#EXTINF:-1 group-title="true visions Channels",Premier HD4
+http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="true visions Channels",Premier HD4
+http://119.161.100.50:8082/live/epl-4/playlist.m3u8
+#EXTINF:-1 group-title="true visions Channels",Premier HD5
+http://178.175.132.170:8888/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="true visions Channels",Premier HD5
+http://119.161.100.50:8082/live/epl-5/playlist.m3u8
+#EXTINF:-1 group-title="true visions Channels",True Sports HD
+http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="true visions Channels",True Sports HD 2
+http://178.175.132.170:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="true visions Channels",True Sports HD 2
+http://119.161.100.50:8089/truesporthd2/index.m3u8
+#EXTINF:-1 group-title="true visions Channels",True Sports HD 3
+http://178.175.132.170:8888/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="true visions Channels",True Sports HD 4
+http://178.175.132.170:8888/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="true visions Channels",True Sports 2
+http://178.175.132.170:8888/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="true visions Channels",True Sports 5
+http://178.175.132.170:8888/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="true visions Channels",True Sports 6
+http://178.175.132.170:8888/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="true visions Channels",True Sports 7
+http://178.175.132.170:8888/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 group-title="true visions Channels",True Film HD
+https://edge-n4.worldwidetv.club/qSLmkJZT2Kfbz05665dBIQ/1623171109/live-o33-th-abr/hd-tfilm/liveorigin/hd-tfilm_1080/chunks.m3u8
+#EXTINF:-1 group-title="true visions Channels",True Film HD 2
+https://edge-n4.worldwidetv.club/2w_nNdkq26AIxQTOmdWYgA/1623171280/live-o33-th-abr/hd-tfilm2/liveorigin/hd-tfilm2_1080/chunks.m3u8
+#EXTINF:-1 group-title="true visions Channels",True Series
+https://edge-n1.worldwidetv.club/JxhHhoEU8jXk1IQoEytcLg/1623171338/live-o33-th-abr/sd-series/liveorigin/sd-series_480/chunks.m3u8
+
+#OTHERS SPORTS
+
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="OTher Sports",Fox Sports 1 Asia
+
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="OTher Sports",Fox Sports 2 Asia
+
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="OTher Sports",Fox Sports 3 Asia
+
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1514269404/6402.png" group-title="OTher Sports",Sky Racing 1
+
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1514269377/6411.png" group-title="OTher Sports",Sky Racing 2
+
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Channel FHD" tvg-logo="" group-title="OTher Sports",UFC Channel FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/172392
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC NETWORK | HD" tvg-logo="http://dmtn.tv:8080/images/782c6fa49bfd1913e2c9fa4e278bcec9.png" group-title="OTher Sports",UFC NETWORK | HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/226555
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Channel HD" tvg-logo="" group-title="OTher Sports",UFC Channel HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/172397
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Channel" tvg-logo="" group-title="OTher Sports",UFC Channel
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/172402
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US: WWE NETWORK HD" tvg-logo="http://dmtn.tv:8080/images/1d955ccf12ff87d3c3cd5249600c47f9.png" group-title="OTher Sports",WWE NETWORK HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/226546
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US: WWE NETWORK | HD" tvg-logo="http://dmtn.tv:8080/images/1d955ccf12ff87d3c3cd5249600c47f9.png" group-title="OTher Sports",WWE NETWORK | HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/226547
+#EXTINF:-1 tvg-id="" tvg-name="AF: WWE Channel FHD" tvg-logo="http://dmtn.tv:8080/images/1d955ccf12ff87d3c3cd5249600c47f9.png" group-title="OTher Sports",WWE Channel FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/226548
+#EXTINF:-1 group-title="OTher Sports",Astro Super Sport 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 group-title="OTher Sports",MOTOR TREND
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1 group-title="OTher Sports",FIGHT
+http://122.155.201.186/feed/LC36/index.m3u8
+#EXTINF:-1 group-title="OTher Sports",WWE
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports4/chunklist.m3u8
+#EXTINF:-1 group-title="OTher Sports",TRACE SPORT
+http://122.155.201.186/feed/LC42/index.m3u8
+
+#MOVIES
+
+#EXTINF:-1 group-title="MOvies Channels",HBO Signature
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 group-title="MOvies Channels",Fox Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 group-title="MOvies Channels",Fox Live
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1 group-title="MOvies Channels",Fox Family
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1 group-title="MOvies Channels",Fox Hd
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1 group-title="MOvies Channels",Fox Crime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1 group-title="MOvies Channels",Celestrial Movies
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="MOvies Channels",FoxThai_TH
+http://178.175.132.170:8888/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOvies Channels",Bflix MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 group-title="MOvies Channels",&flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MOvies Channels",MyCinema
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 group-title="MOvies Channels",CinemaWorld
+http://210.210.155.35/session/051b594e-9e93-11eb-8642-c81f66f89318/uq2663/h/h04/01.m3u8
+#EXTINF:-1 group-title="MOvies Channels",Fox Movie Actions
+http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist.m3u8
+#EXTINF:-1 group-title="MOvies Channels",AXN HD
+http://178.175.132.170:8888/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOvies Channels",Sun Movie
+http://27.254.130.62/feed/LC1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MOvies Channels",TRILL
+http://27.254.130.62/feed/LC26/index.m3u8
+#EXTINF:-1 group-title="MOvies Channels",CCM 2
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="MOvies Channels",Movietime
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+
+#DISCOVERY
+
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="" tvg-logo="http://dmtn.tv:8080/images/c2fec486fc6395739e318df7506d6b1b.png" group-title="DIscovery Channels",NAT GEO WILD HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/208033
+#EXTINF:-1 group-title="DIscovery Channels",Pet Club TV
+http://27.254.130.62/feed/LC18/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIscovery Channels",DiscoveryHDWorld
+http://178.175.132.170:8888/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 group-title="DIscovery Channels",LoveNature4k
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 group-title="DIscovery Channels",HISTORY
+http://178.175.132.170:8888/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="DIscovery Channels",H2
+http://178.175.132.170:8888/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="DIscovery Channels",Animal Planet
+http://178.175.132.170:8888/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 group-title="DIscovery Channels",Way Point
+https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="DIscovery Channels",The Pet Collective
+https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="DIscovery Channels",NAT GEOGRAPHIC EN
+http://admdn2.cdn.mangomolo.com:80/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="DIscovery Channels",The Boat Show
+https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="DIscovery Channels",PURSUIT UP
+https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="DIscovery Channels",Outside TV
+https://outsidetv-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DIscovery Channels",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+
+#BEIN Media
+
+#EXTINF:-1 tvg-id="beinmovies1.qa" tvg-name="beIN BEIN MOVIES 1 FHD HEVC" tvg-logo="http://dmtn.tv:8080/images/11ac61952cd2a6f8d2daaf7a0c596322.png" group-title="beIN Media | LIVE",beIN BEIN MOVIES 1 FHD HEVC
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/99094
+#EXTINF:-1 tvg-id="beinmovies1.qa" tvg-name="beIN: BEIN MOVIES 1 HD" tvg-logo="http://dmtn.tv:8080/images/11ac61952cd2a6f8d2daaf7a0c596322.png" group-title="beIN Media | LIVE",beIN: BEIN MOVIES 1 HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/23631
+#EXTINF:-1 tvg-id="beinmovies2.qa" tvg-name="beIN: BEIN MOVIES 1 HD +2" tvg-logo="https://i.ibb.co/pR1Vz9D/bein-movie-1-2.png" group-title="beIN Media | LIVE",beIN: BEIN MOVIES 1 HD +2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/25427
+#EXTINF:-1 tvg-id="beinmovies2.qa" tvg-name="beIN MOVIES 2 HD" tvg-logo="http://dmtn.tv:8080/images/b0989eb5480268151de5d3fb5a8dad2e.png" group-title="beIN Media | LIVE",beIN MOVIES 2 HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/23630
+#EXTINF:-1 tvg-id="beinmovies2.qa" tvg-name="beIN: BEIN MOVIES 2 FHD +2" tvg-logo="https://i.ibb.co/Gppjg7r/bein-movie-2-2.png" group-title="beIN Media | LIVE",beIN: BEIN MOVIES 2 FHD +2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/156743
+#EXTINF:-1 tvg-id="beinmovies3.qa" tvg-name="beIN MOVIES 3 HD" tvg-logo="http://dmtn.tv:8080/images/d4dd608f093b2065f179f28dbda4197b.png" group-title="beIN Media | LIVE",beIN MOVIES 3 HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/99696
+#EXTINF:-1 tvg-id="beinmovies3.qa" tvg-name="beIN MOVIES 3 FHD HEVC" tvg-logo="http://dmtn.tv:8080/images/21df67a1872012d89b338f5d95e5ee47.png" group-title="beIN Media | LIVE",beIN MOVIES 3 FHD HEVC
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/199248
+#EXTINF:-1 tvg-id="beinmovies3.qa" tvg-name="beIN MOVIES 3 HD +2" tvg-logo="http://dmtn.tv:8080/images/afb59abd5ba68d3d93a810153d05ce3b.png" group-title="beIN Media | LIVE",beIN MOVIES 3 HD +2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/23629
+#EXTINF:-1 tvg-id="beinmovies4.qa" tvg-name="beIN MOVIES 4 HD" tvg-logo="http://dmtn.tv:8080/images/4eba787e0198f2093958f9a5603bea89.png" group-title="beIN Media | LIVE",beIN MOVIES 4 HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/23628
+#EXTINF:-1 tvg-id="beinmovies4.qa" tvg-name="beIN MOVIES 4 FHD +2" tvg-logo="http://dmtn.tv:8080/images/4bfae5638dcc72a6f01aeedf93b6e504.png" group-title="beIN Media | LIVE",beIN MOVIES 4 FHD +2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/156744
+#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="beIN: BEIN SERIES 1 FHD" tvg-logo="http://dmtn.tv:8080/images/2318a4cae4a61c319224ba0ccb9af23a.png" group-title="beIN Media | LIVE",beIN: BEIN SERIES 1 FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/99091
+#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="beIN: BEIN SERIES 1 HD" tvg-logo="http://dmtn.tv:8080/images/2318a4cae4a61c319224ba0ccb9af23a.png" group-title="beIN Media | LIVE",beIN: BEIN SERIES 1 HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/23597
+#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="beIN: BEIN SERIES 1 HD +1" tvg-logo="https://i.ibb.co/85J2khp/beinseries-1-1.png" group-title="beIN Media | LIVE",beIN: BEIN SERIES 1 HD +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/37980
+#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="beIN: BEIN SERIES 1 HD +2" tvg-logo="https://i.ibb.co/4p3kNMY/beinseries-1-2.png" group-title="beIN Media | LIVE",beIN: BEIN SERIES 1 HD +2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/25414
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="beIN: BEIN SERIES 2 FHD" tvg-logo="http://dmtn.tv:8080/images/7cb3296423dd75f9881d11460168968b.png" group-title="beIN Media | LIVE",beIN: BEIN SERIES 2 FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/99092
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="beIN: BEIN SERIES 2 HD" tvg-logo="http://dmtn.tv:8080/images/7cb3296423dd75f9881d11460168968b.png" group-title="beIN Media | LIVE",beIN: BEIN SERIES 2 HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/44743
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="beIN: BEIN SERIES 2 HD +1" tvg-logo="https://i.ibb.co/ctkFnR7/beinseries-2-1.png" group-title="beIN Media | LIVE",beIN: BEIN SERIES 2 HD +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/45237
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="beIN: BEIN SERIES 2 HD +2" tvg-logo="https://i.ibb.co/TrYPj9Q/beinseries-2-2.png" group-title="beIN Media | LIVE",beIN: BEIN SERIES 2 HD +2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/45238
+#EXTINF:-1 tvg-id="beindrama.qa" tvg-name="beIN: BEIN DRAMA HD" tvg-logo="http://dmtn.tv:8080/images/00cd2f477a071e40d8da7bf1ccb3753b.png" group-title="beIN Media | LIVE",beIN: BEIN DRAMA HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/99090
+#EXTINF:-1 tvg-id="beindrama.qa" tvg-name="beIN: BEIN DRAMA HD +1" tvg-logo="https://i.ibb.co/WsWjcg4/bein-drama-1.png" group-title="beIN Media | LIVE",beIN: BEIN DRAMA HD +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/37954
+#EXTINF:-1 tvg-id="beindrama.qa" tvg-name="beIN: BEIN DRAMA HD +2" tvg-logo="https://i.ibb.co/8zhbSQw/bein-drama-2.png" group-title="beIN Media | LIVE",beIN: BEIN DRAMA HD +2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/37955
+#EXTINF:-1 tvg-id="beindrama.qa" tvg-name="beIN: BEIN DRAMA HD +4" tvg-logo="https://i.ibb.co/qYfGcfV/bein-drama-4.png" group-title="beIN Media | LIVE",beIN: BEIN DRAMA HD +4
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158734
+#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="beIN: FOX REWAYAT HD" tvg-logo="http://dmtn.tv:8080/images/0e84e511a1a23118d1b76ca97f233747.png" group-title="beIN Media | LIVE",beIN: FOX REWAYAT HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/32394
+#EXTINF:-1 tvg-id="foxrewayat.qa" tvg-name="beIN: FOX REWAYAT HD +1" tvg-logo="https://i.ibb.co/Kyrxsk0/FOX-rewayat-1.png" group-title="beIN Media | LIVE",beIN: FOX REWAYAT HD +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158736
+#EXTINF:-1 tvg-id="fox.qa" tvg-name="beIN: FOX FHD" tvg-logo="http://dmtn.tv:8080/images/c7120b0928b320294da1dea24805a16e.png" group-title="beIN Media | LIVE",beIN: FOX FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/24625
+#EXTINF:-1 tvg-id="fxar.qa" tvg-name="beIN: FX HD" tvg-logo="http://dmtn.tv:8080/images/b8b5089c70ae62534970e2d8aa67e96d.png" group-title="beIN Media | LIVE",beIN: FX HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/111860
+#EXTINF:-1 tvg-id="fx.sa" tvg-name="beIN: FX HD +1" tvg-logo="https://i.ibb.co/bmZ6D2T/FX-1.png" group-title="beIN Media | LIVE",beIN: FX HD +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158740
+#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="beIN FOX LIFE HD" tvg-logo="http://dmtn.tv:8080/images/3d6d2453aa170d6e60d0c8ae99b4b3b4.png" group-title="beIN Media | LIVE",beIN FOX LIFE HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/32393
+#EXTINF:-1 tvg-id="foxlife.qa" tvg-name="beIN: FOX LIFE +1" tvg-logo="https://i.ibb.co/tq3CVFp/Fox-Life-1.png" group-title="beIN Media | LIVE",beIN: FOX LIFE +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158738
+#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="beIN FOX CRIME HD" tvg-logo="http://dmtn.tv:8080/images/c2ba515e79e95dd84ef12f6fc2293a5b.png" group-title="beIN Media | LIVE",beIN FOX CRIME HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/25425
+#EXTINF:-1 tvg-id="foxmovies.qa" tvg-name="beIN: FOX MOVIES FHD" tvg-logo="http://dmtn.tv:8080/images/61bb0cad69626a51ebffd5ab3c94a20a.png" group-title="beIN Media | LIVE",beIN: FOX MOVIES FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/24058
+#EXTINF:-1 tvg-id="foxmovies.qa" tvg-name="beIN Cinema HD" tvg-logo="http://dmtn.tv:8080/images/61bb0cad69626a51ebffd5ab3c94a20a.png" group-title="beIN Media | LIVE",beIN Cinema HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/199261
+#EXTINF:-1 tvg-id="foxmoviesaction.qa" tvg-name="beIN: FOX ACTION MOVIES FHD" tvg-logo="http://dmtn.tv:8080/images/3395fb22149815cca52b20c419ba7b58.png" group-title="beIN Media | LIVE",beIN: FOX ACTION MOVIES FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/23593
+#EXTINF:-1 tvg-id="foxmoviesaction.qa" tvg-name="beIN: FOX ACTION MOVIES +2" tvg-logo="http://dmtn.tv:8080/images/3395fb22149815cca52b20c419ba7b58.png" group-title="beIN Media | LIVE",beIN: FOX ACTION MOVIES +2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/199260
+#EXTINF:-1 tvg-id="foxmoviesfamily.qa" tvg-name="beIN: FOX FAMILY MOVIES FHD" tvg-logo="https://i.ibb.co/ftp6s3s/Fox-Family-Movies.png" group-title="beIN Media | LIVE",beIN: FOX FAMILY MOVIES FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/23592
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="beIN Sundance FHD" tvg-logo="" group-title="beIN Media | LIVE",beIN Sundance FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158739
+#EXTINF:-1 tvg-id="starmovies.sa" tvg-name="beIN: STAR MOVIES FHD" tvg-logo="https://i.ibb.co/PwwfhmH/star-movies.png" group-title="beIN Media | LIVE",beIN: STAR MOVIES FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/37218
+#EXTINF:-1 tvg-id="starworld.sa" tvg-name="beIN: STAR WORLD FHD" tvg-logo="https://i.ibb.co/gzCwJWH/Star-World-2015.png" group-title="beIN Media | LIVE",beIN: STAR WORLD FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/37219
+#EXTINF:-1 tvg-id="starworld.sa" tvg-name="beIN: STAR WORLD FHD +1" tvg-logo="https://i.ibb.co/LC7f5PW/starworld-1.png" group-title="beIN Media | LIVE",beIN: STAR WORLD FHD +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158729
+#EXTINF:-1 tvg-id="starworld.sa" tvg-name="beIN: STAR WORLD FHD +2" tvg-logo="https://i.ibb.co/nQQLzJb/starworld-2.png" group-title="beIN Media | LIVE",beIN: STAR WORLD FHD +2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158730
+#EXTINF:-1 tvg-id="fatafeat.qa" tvg-name="beIN FATAFEAT FHD HEVC" tvg-logo="http://dmtn.tv:8080/images/22ccae89f6fef17459f6a0dae57df2bc.png" group-title="beIN Media | LIVE",beIN FATAFEAT FHD HEVC
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/23595
+#EXTINF:-1 tvg-id="fatafeat.qa" tvg-name="beIN: FATAFEAT FHD +1" tvg-logo="https://i.ibb.co/42tDYNZ/Fatafeat-1.png" group-title="beIN Media | LIVE",beIN: FATAFEAT FHD +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/25410
+#EXTINF:-1 tvg-id="fatafeat.qa" tvg-name="beIN: FATAFEAT FHD +2" tvg-logo="https://i.ibb.co/JdbwQc0/Fatafeat-2.png" group-title="beIN Media | LIVE",beIN: FATAFEAT FHD +2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/25411
+#EXTINF:-1 tvg-id="gourmet.qa" tvg-name="beIN: BEIN GOURMET FHD" tvg-logo="http://dmtn.tv:8080/images/7ef8cb5d3981002c14db96ace4948c65.png" group-title="beIN Media | LIVE",beIN: BEIN GOURMET FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/104077
+#EXTINF:-1 tvg-id="gourmet.qa" tvg-name="beIN: BEIN GOURMET HD" tvg-logo="http://dmtn.tv:8080/images/7ef8cb5d3981002c14db96ace4948c65.png" group-title="beIN Media | LIVE",beIN: BEIN GOURMET HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/23599
+#EXTINF:-1 tvg-id="gourmet.qa" tvg-name="beIN: BEIN GOURMET HD +1" tvg-logo="https://i.ibb.co/PZF7Sjp/bein-gourmet-1.png" group-title="beIN Media | LIVE",beIN: BEIN GOURMET HD +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/25408
+#EXTINF:-1 tvg-id="gourmet.qa" tvg-name="beIN: BEIN GOURMET HD +2" tvg-logo="https://i.ibb.co/TWvk8R2/bein-gourmet-2.png" group-title="beIN Media | LIVE",beIN: BEIN GOURMET HD +2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/25409
+#EXTINF:-1 tvg-id="hgtv.qa" tvg-name="beIN: HGTV HD" tvg-logo="http://dmtn.tv:8080/images/8d400d8eee8be75cc1e2555a74077ce6.png" group-title="beIN Media | LIVE",beIN: HGTV HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/53572
+#EXTINF:-1 tvg-id="hgtv.qa" tvg-name="beIN: HGTV HD +1" tvg-logo="https://i.ibb.co/1J1p7Tb/HGTV-Plus-1.png" group-title="beIN Media | LIVE",beIN: HGTV HD +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/53573
+#EXTINF:-1 tvg-id="bbcearthenglish.qa" tvg-name="BeIN: BBC EARTH FHD" tvg-logo="http://dmtn.tv:8080/images/33bea643910de2776818fd91dd41ab13.png" group-title="beIN Media | LIVE",BeIN: BBC EARTH FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/53568
+#EXTINF:-1 tvg-id="bbcearthenglish.qa" tvg-name="BeIN: BBC EARTH HD +1" tvg-logo="https://i.ibb.co/M89cYMd/BBC-earth-1.png" group-title="beIN Media | LIVE",BeIN: BBC EARTH HD +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/53569
+#EXTINF:-1 tvg-id="bbcearthenglish.qa" tvg-name="BeIN: BBC EARTH HD" tvg-logo="" group-title="beIN Media | LIVE",BeIN: BBC EARTH HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/53570
+#EXTINF:-1 tvg-id="cbsreality.qa" tvg-name="beIN: CBS REALITY HD" tvg-logo="http://dmtn.tv:8080/images/937205918e45a5031b18f04b00818ddc.png" group-title="beIN Media | LIVE",beIN: CBS REALITY HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/53826
+#EXTINF:-1 tvg-id="natgeowildhd.qa" tvg-name="beIN: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://dmtn.tv:8080/images/c2fec486fc6395739e318df7506d6b1b.png" group-title="beIN Media | LIVE",beIN: NATIONAL GEOGRAPHIC WILD HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/23591
+#EXTINF:-1 tvg-id="beindrama.qa" tvg-name="beIN: beIN Drama FHD" tvg-logo="http://dmtn.tv:8080/images/00cd2f477a071e40d8da7bf1ccb3753b.png" group-title="beIN Media | LIVE",beIN: beIN Drama FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/37990
+#EXTINF:-1 tvg-id="natgeo.sa" tvg-name="beIN: NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.ibb.co/1q7PCBW/National-Geographic.png" group-title="beIN Media | LIVE",beIN: NATIONAL GEOGRAPHIC HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/66749
+#EXTINF:-1 tvg-id="outdoorchannel.qa" tvg-name="beIN OUTDOOR CHANNEL HD" tvg-logo="http://dmtn.tv:8080/images/a3479299db096fc9e36b098e3b0ada76.png" group-title="beIN Media | LIVE",beIN OUTDOOR CHANNEL HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/25111
+#EXTINF:-1 tvg-id="outdoorchannel.qa" tvg-name="beIN Box Office HD 2" tvg-logo="http://dmtn.tv:8080/images/ab4037f7fe96c08d163a554c9667f316.png" group-title="beIN Media | LIVE",beIN Box Office HD 2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158735
+#EXTINF:-1 tvg-id="Food Network HD ARB" tvg-name="beIN FOOD NETWORK HD" tvg-logo="http://dmtn.tv:8080/images/a2e153250597f34a2586def134429876.png" group-title="beIN Media | LIVE",beIN FOOD NETWORK HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/44740
+#EXTINF:-1 tvg-id="travelchannel.qa" tvg-name="beIN: TRAVEL CHANNEL FHD" tvg-logo="http://dmtn.tv:8080/images/60bf64a15094329e6e09a246217e27ae.png" group-title="beIN Media | LIVE",beIN: TRAVEL CHANNEL FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/23605
+#EXTINF:-1 tvg-id="" tvg-name="beIN: BOOMERANG HD" tvg-logo="http://dmtn.tv:8080/images/1dfa57a1e10ed70556604dad85282d64.png" group-title="beIN Media | LIVE",beIN: BOOMERANG HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/44745
+#EXTINF:-1 tvg-id="" tvg-name="beIN: BOOMERANG HD +1" tvg-logo="https://i.ibb.co/5TDGJLF/bommerang-1.png" group-title="beIN Media | LIVE",beIN: BOOMERANG HD +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158743
+#EXTINF:-1 tvg-id="" tvg-name="beIN: BOOMERANG HD +2" tvg-logo="https://i.ibb.co/8zxHhd1/bommerang-2.png" group-title="beIN Media | LIVE",beIN: BOOMERANG HD +2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158744
+#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="beIN JEEM EUROPE" tvg-logo="" group-title="beIN Media | LIVE",beIN JEEM EUROPE
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/45239
+#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="beIN: JEEM FHD" tvg-logo="http://dmtn.tv:8080/images/2ebeea71dfb89af460745030381f1f1f.png" group-title="beIN Media | LIVE",beIN: JEEM FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/8008
+#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="beIN: JEEM HD +1" tvg-logo="https://i.ibb.co/K2PN32D/Jeem-1.png" group-title="beIN Media | LIVE",beIN: JEEM HD +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158749
+#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="beIN: JEEM HD +2" tvg-logo="https://i.ibb.co/sw4652S/Jeem-2.png" group-title="beIN Media | LIVE",beIN: JEEM HD +2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158750
+#EXTINF:-1 tvg-id="baraem.qa" tvg-name="beIN BARAEM HD HEVC" tvg-logo="http://dmtn.tv:8080/images/2ff23aa547f4a87140c74c13f508476a.png" group-title="beIN Media | LIVE",beIN BARAEM HD HEVC
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/7832
+#EXTINF:-1 tvg-id="baraem.qa" tvg-name="beIN BARAEM 2" tvg-logo="http://dmtn.tv:8080/images/e0eab01f278c13254287f5b54db9831f.png" group-title="beIN Media | LIVE",beIN BARAEM 2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/32028
+#EXTINF:-1 tvg-id="baraem.qa" tvg-name="beIN BARAEM HD" tvg-logo="http://dmtn.tv:8080/images/474030c55b130ea4f67963113ae971bb.png" group-title="beIN Media | LIVE",beIN BARAEM HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/25385
+#EXTINF:-1 tvg-id="dreamWorks.qa" tvg-name="beIN DREAMWORKS FHD" tvg-logo="http://dmtn.tv:8080/images/def4a8e6dcb356771aef3c3ac472f905.png" group-title="beIN Media | LIVE",beIN DREAMWORKS FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/23596
+#EXTINF:-1 tvg-id="dreamWorks.qa" tvg-name="beIN: DREAMWORKS +1" tvg-logo="https://i.ibb.co/smJKW5s/dreamworks-1.png" group-title="beIN Media | LIVE",beIN: DREAMWORKS +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158751
+#EXTINF:-1 tvg-id="bejunior.qa" tvg-name="beIN JUNIOR FHD" tvg-logo="http://dmtn.tv:8080/images/fb3d599a00e3c38025d7bb58596f66ff.png" group-title="beIN Media | LIVE",beIN JUNIOR FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/23598
+
+#KIDS
+
+#EXTINF:-1 group-title="UK Kids",Animax
+http://27.254.130.62/feed/LC38/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UK Kids",Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1 group-title="UK Kids",Spacetoon
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 group-title="UK Kids",Disney Channel
+http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
+#EXTINF:-1 group-title="UK Kids",Disney XD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20233
+#EXTINF:-1 group-title="UK Kids",Disney Junior
+http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
+#EXTINF:-1 group-title="UK Kids",Cartoon Network
+http://tv.dansk.live:8080/5ydbqxNuVN/2LnH3tvpaW/33
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="UK| Cartoon Network FHD" tvg-logo="https://i.ibb.co/jzrSypS/Cartoon-Network.png" group-title="UK Kids",UK| Cartoon Network FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158568
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK| Cartoon Network HD" tvg-logo="https://i.ibb.co/jzrSypS/Cartoon-Network.png" group-title="UK Kids",UK| Cartoon Network HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158569
+#EXTINF:-1 tvg-id="cartoonnetworkplus1.uk" tvg-name="UK| Cartoon Network +1" tvg-logo="https://i.ibb.co/HV2QjxP/cartoon-network-1.png" group-title="UK Kids",UK| Cartoon Network +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158570
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="UK| Cartoonito" tvg-logo="https://i.ibb.co/1qNJXpS/300-cb-20100314195702.png" group-title="UK Kids",UK| Cartoonito
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158571
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK| Boomerang FHD" tvg-logo="https://i.ibb.co/CBCQP8Q/200-cb-20190430185347.png" group-title="UK Kids",UK| Boomerang FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158572
+#EXTINF:-1 tvg-id="boomerangplus1.uk" tvg-name="UK| Boomerang +1" tvg-logo="https://i.ibb.co/ZHdVwB7/150-cb-20190430192447.png" group-title="UK Kids",UK| Boomerang +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158573
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK| Nick FHD" tvg-logo="https://i.ibb.co/v4q2hXc/nick-logo-200x200.png" group-title="UK Kids",UK| Nick FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158574
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK| Nickelodeon HD" tvg-logo="https://i.ibb.co/v4q2hXc/nick-logo-200x200.png" group-title="UK Kids",UK| Nickelodeon HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158575
+#EXTINF:-1 tvg-id="nickelodeonplus1.uk" tvg-name="UK| Nickelodeon +1" tvg-logo="https://i.ibb.co/NCD9SvH/nick-1.png" group-title="UK Kids",UK| Nickelodeon +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158576
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK| Nick Jr HD" tvg-logo="https://i.ibb.co/Jk6zPJX/300-cb-20180722105754.png" group-title="UK Kids",UK| Nick Jr HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158577
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK| Nick Jr." tvg-logo="https://i.ibb.co/Jk6zPJX/300-cb-20180722105754.png" group-title="UK Kids",UK| Nick Jr.
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158578
+#EXTINF:-1 tvg-id="nickjuniorplus1.uk" tvg-name="UK| Nick Jr. +1" tvg-logo="https://i.ibb.co/517nfhD/Nick-Jr-Plus-1.png" group-title="UK Kids",UK| Nick Jr. +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158579
+#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-name="UK| Nick Jr. Too" tvg-logo="https://i.ibb.co/G7Wbp4K/300-cb-20141117170759.png" group-title="UK Kids",UK| Nick Jr. Too
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158580
+#EXTINF:-1 tvg-id="nicktoons.uk" tvg-name="UK| Nicktoons" tvg-logo="https://i.ibb.co/Ht99XjP/nicktoons.png" group-title="UK Kids",UK| Nicktoons
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158581
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK| CBBC FHD ✅" tvg-logo="http://dmtn.tv:8080/images/c73998903f8f17b2089afc1c99263a81.png" group-title="UK Kids",UK| CBBC FHD ✅
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158590
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK| CBBC HD ✅" tvg-logo="https://i.ibb.co/wKHFpSZ/350-cb-20180511151052.png" group-title="UK Kids",UK| CBBC HD ✅
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/81668
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK| CBeebies FHD ✅" tvg-logo="http://dmtn.tv:8080/images/17a321d2d885b1021645ca905ee667c7.png" group-title="UK Kids",UK| CBeebies FHD ✅
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158592
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK| CBeebies HD" tvg-logo="http://dmtn.tv:8080/images/17a321d2d885b1021645ca905ee667c7.png" group-title="UK Kids",UK| CBeebies HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158593
+#EXTINF:-1 tvg-id="citv.uk" tvg-name="UK| CITV ✅" tvg-logo="http://dmtn.tv:8080/images/d7f610d8d573851f91c9dbb17270ba8f.png" group-title="UK Kids",UK| CITV ✅
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158594
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK| Boomerang HD" tvg-logo="http://dmtn.tv:8080/images/cd55cee24b1aa287a0a006f69e8f3f1b.png" group-title="UK Kids",UK| Boomerang HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158595
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="UK| Pop" tvg-logo="http://dmtn.tv:8080/images/ff0c37d0afdbf41e09fccd31b7135cc7.png" group-title="UK Kids",UK| Pop
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158596
+#EXTINF:-1 tvg-id="popplus1.uk" tvg-name="UK| Pop +1" tvg-logo="http://dmtn.tv:8080/images/45bb1dc77303cb1c398f455d3b629710.png" group-title="UK Kids",UK| Pop +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158597
+#EXTINF:-1 tvg-id="popmax.uk" tvg-name="UK| POP Max" tvg-logo="http://dmtn.tv:8080/images/9222073a0945fb9c78c137ea16797e3e.png" group-title="UK Kids",UK| POP Max
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158598
+#EXTINF:-1 tvg-id="popmaxplus1.uk" tvg-name="UK| POP Max +1" tvg-logo="http://dmtn.tv:8080/images/35bc27370b87fb48907ad0e22ccc1154.png" group-title="UK Kids",UK| POP Max +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158599
+#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="UK| Tiny Pop" tvg-logo="http://dmtn.tv:8080/images/f757686c706de5ec5fc2e23d760f603c.png" group-title="UK Kids",UK| Tiny Pop
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158600
+#EXTINF:-1 tvg-id="tinypopplus1.uk" tvg-name="UK| Tiny Pop +1" tvg-logo="http://dmtn.tv:8080/images/48c330530b5da2b9c52da17debf8754d.png" group-title="UK Kids",UK| Tiny Pop +1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158601
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="UK| Baby TV" tvg-logo="http://dmtn.tv:8080/images/29aa33e447829769c017bb0ef9b38bf5.png" group-title="UK Kids",UK| Baby TV
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158602
+
+#THAI
+
+#EXTINF:-1 group-title="Thai Channels",5HD
+http://27.254.130.62/feed/ch5hd/index.m3u8
+#EXTINF:-1 group-title="Thai Channels",NBT
+http://27.254.130.62/feed/chnbt/index.m3u8
+#EXTINF:-1 group-title="Thai Channels",THAI PBS
+http://27.254.130.62/feed/chthaipbs/index.m3u8
+#EXTINF:-1 group-title="Thai Channels",TNN
+http://27.254.130.62/feed/chtnn/index.m3u8 
+#EXTINF:-1 group-title="Thai Channels",NEW
+http://27.254.130.62/feed/newtv/index.m3u8
+#EXTINF:-1 group-title="Thai Channels",NATION
+http://27.254.130.62/feed/chnation/index.m3u8
+#EXTINF:-1 group-title="Thai Channels",WORKPOINT
+http://27.254.130.62/feed/chworkpoint/index.m3u8 
+#EXTINF:-1 group-title="Thai Channels",TRUE4U
+http://27.254.130.62/feed/chtrue4u/index.m3u8
+#EXTINF:-1 group-title="Thai Channels",GMM25
+http://27.254.130.62/feed/chgmm/index.m3u8 
+#EXTINF:-1 group-title="Thai Channels",CH8
+http://122.155.201.186/feed/ch8/index.m3u8 
+#EXTINF:-1 group-title="Thai Channels",MONO
+http://27.254.130.62/feed/chmono29/index.m3u8 
+#EXTINF:-1 group-title="Thai Channels",MCOT HD
+http://27.254.130.62/feed/chmcothd/index.m3u8
+#EXTINF:-1 group-title="Thai Channels",ONE
+http://27.254.130.62/feed/chonehd/index.m3u8 
+#EXTINF:-1 group-title="Thai Channels",THAIRATH
+http://27.254.130.62/feed/chthairath/index.m3u8 
+#EXTINF:-1 group-title="Thai Channels",3HD
+http://27.254.130.62/feed/ch3hd/index.m3u8
+#EXTINF:-1 group-title="Thai Channels",AMARIN
+http://27.254.130.62/feed/chamarin/index.m3u8 
+#EXTINF:-1 group-title="Thai Channels",7HD
+http://27.254.130.62/feed/ch7hd/index.m3u8
+#EXTINF:-1 group-title="Thai Channels",PPTV
+http://27.254.130.62/feed/chpptvhd/index.m3u8 
+
+#USA LIVE
+
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US: Paramount HD" tvg-logo="http://dmtn.tv:8080/images/32d6cf9a8af09dc9d2ef9a3886ccb4e8.png" group-title="USA | LIVE",US: Paramount HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/117287
+#EXTINF:-1 tvg-id="" tvg-name="US: DIY NETWORK HD" tvg-logo="http://dmtn.tv:8080/images/417ccdc4ad6ad84cf301dbfa2c4984c3.png" group-title="USA | LIVE",US: DIY NETWORK HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/117349
+#EXTINF:-1 tvg-id="actionmax.us" tvg-name="US: ActionMAX (East) FHD" tvg-logo="https://i.ibb.co/1ZVTDhX/action-max.png" group-title="USA | LIVE",US: ActionMAX (East) FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169599
+#EXTINF:-1 tvg-id="actionmax.us" tvg-name="US: ActionMAX (West) HD" tvg-logo="https://i.ibb.co/1ZVTDhX/action-max.png" group-title="USA | LIVE",US: ActionMAX (West) HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169600
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US: CineMAX (East) HD" tvg-logo="https://i.ibb.co/M5FcgW5/cinemax1.png" group-title="USA | LIVE",US: CineMAX (East) HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169601
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US: CineMAX (West) HD" tvg-logo="https://i.ibb.co/M5FcgW5/cinemax1.png" group-title="USA | LIVE",US: CineMAX (West) HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169602
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="US: MoreMAX (East) HD" tvg-logo="https://i.ibb.co/KxjcY9J/more-max.png" group-title="USA | LIVE",US: MoreMAX (East) HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169603
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="US: MoreMAX (West) HD" tvg-logo="https://i.ibb.co/KxjcY9J/more-max.png" group-title="USA | LIVE",US: MoreMAX (West) HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169604
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="US: ThrillerMAX (East) HD" tvg-logo="https://i.ibb.co/hLYWSvk/thriller-max.png" group-title="USA | LIVE",US: ThrillerMAX (East) HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169605
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="US: ThrillerMAX (West) HD" tvg-logo="https://i.ibb.co/hLYWSvk/thriller-max.png" group-title="USA | LIVE",US: ThrillerMAX (West) HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169606
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="US: MovieMAX HD" tvg-logo="https://i.ibb.co/wYGCRpv/movie-max.png" group-title="USA | LIVE",US: MovieMAX HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169607
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="US: OuterMAX HD" tvg-logo="https://i.ibb.co/5Rry7SZ/outer-max.png" group-title="USA | LIVE",US: OuterMAX HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169608
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US: 5 StarMAX HD" tvg-logo="https://i.ibb.co/KK9MpB6/5-star-max.png" group-title="USA | LIVE",US: 5 StarMAX HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169609
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US: HBO HD (East)" tvg-logo="https://i.ibb.co/6WcB0sk/HBO.png" group-title="USA | LIVE",US: HBO HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169610
+#EXTINF:-1 tvg-id="hbowest.us" tvg-name="US: HBO HD (West)" tvg-logo="https://i.ibb.co/6WcB0sk/HBO.png" group-title="USA | LIVE",US: HBO HD (West)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169611
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US: HBO 2 HD (East)" tvg-logo="https://i.ibb.co/jwBLp8x/HBO-2.png" group-title="USA | LIVE",US: HBO 2 HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169612
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US: HBO 2 HD (West)" tvg-logo="https://i.ibb.co/jwBLp8x/HBO-2.png" group-title="USA | LIVE",US: HBO 2 HD (West)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169613
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US: HBO Comedy HD (East)" tvg-logo="https://i.ibb.co/7JGmDtq/HBOComedy-us.png" group-title="USA | LIVE",US: HBO Comedy HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169614
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US: HBO Comedy HD (West)" tvg-logo="https://i.ibb.co/7JGmDtq/HBOComedy-us.png" group-title="USA | LIVE",US: HBO Comedy HD (West)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169615
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US: HBO Family HD (East)" tvg-logo="https://i.ibb.co/MSt8vqr/HBO-family-ar.png" group-title="USA | LIVE",US: HBO Family HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169616
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US: HBO Family HD (West)" tvg-logo="https://i.ibb.co/MSt8vqr/HBO-family-ar.png" group-title="USA | LIVE",US: HBO Family HD (West)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169617
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US: HBO Signature HD (East)" tvg-logo="https://i.ibb.co/rQ1ys5n/HBO-signature-ar.png" group-title="USA | LIVE",US: HBO Signature HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169618
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US: HBO Signature HD (West)" tvg-logo="https://i.ibb.co/rQ1ys5n/HBO-signature-ar.png" group-title="USA | LIVE",US: HBO Signature HD (West)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169619
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US: HBO Zone HD (East)" tvg-logo="https://i.ibb.co/tqzKnjV/HBOZone-us.png" group-title="USA | LIVE",US: HBO Zone HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169620
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US: Showtime HD (East)" tvg-logo="https://i.ibb.co/bJ4kn1z/showtime.png" group-title="USA | LIVE",US: Showtime HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169622
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US: Showtime 2 HD (East)" tvg-logo="https://i.ibb.co/LP9JChP/showtime2.png" group-title="USA | LIVE",US: Showtime 2 HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169624
+#EXTINF:-1 tvg-id="showtimebeyond.us" tvg-name="US: Showtime Beyond HD (East)" tvg-logo="https://i.ibb.co/dmJh6BL/showbeyond.png" group-title="USA | LIVE",US: Showtime Beyond HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169626
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US: Showtime Extreme HD (East)" tvg-logo="https://i.ibb.co/ck6Hp9y/sho-extreme.png" group-title="USA | LIVE",US: Showtime Extreme HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169628
+#EXTINF:-1 tvg-id="rshowtimefamilyzone.us" tvg-name="US: Showtime Family Zone HD (East)" tvg-logo="https://i.ibb.co/vhzwxSj/showfamilyzone.png" group-title="USA | LIVE",US: Showtime Family Zone HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169630
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="US: Showtime Next HD (East)" tvg-logo="https://i.ibb.co/gJXHD1z/shownext.png" group-title="USA | LIVE",US: Showtime Next HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169632
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="US: Showtime Showcase HD  (East)" tvg-logo="https://i.ibb.co/BKLFnQy/showcase.png" group-title="USA | LIVE",US: Showtime Showcase HD  (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169634
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US: Showtime Women HD (East)" tvg-logo="https://i.ibb.co/SvfjJrj/showwomen.png" group-title="USA | LIVE",US: Showtime Women HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169636
+#EXTINF:-1 tvg-id="indieplex.us" tvg-name="US: IndiePlex HD (East)" tvg-logo="https://i.ibb.co/YTQnMVW/indieplex.png" group-title="USA | LIVE",US: IndiePlex HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169638
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="US: MoviePlex HD (East)" tvg-logo="https://i.ibb.co/hCCY5RT/movieplex.png" group-title="USA | LIVE",US: MoviePlex HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169640
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="US: RetroPlex HD (East)" tvg-logo="https://i.ibb.co/8bCxVdP/retroplex.png" group-title="USA | LIVE",US: RetroPlex HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169642
+#EXTINF:-1 tvg-id="starz.us" tvg-name="US: Starz HD (East)" tvg-logo="https://i.ibb.co/SyQ5JDD/starz.png" group-title="USA | LIVE",US: Starz HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169644
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US: Starz Cinema HD (East)" tvg-logo="https://i.ibb.co/Yfdpv3M/starz-cinema.png" group-title="USA | LIVE",US: Starz Cinema HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169646
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="US: Starz Comedy HD (East)" tvg-logo="https://i.ibb.co/j5mBh37/starz-comedy.png" group-title="USA | LIVE",US: Starz Comedy HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169648
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="US: Starz Edge HD (East)" tvg-logo="https://i.ibb.co/mJYZ3Zb/starz-edge.png" group-title="USA | LIVE",US: Starz Edge HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169650
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="US: Starz Encore HD (East)" tvg-logo="https://i.ibb.co/sJCpDMM/starz-encore.png" group-title="USA | LIVE",US: Starz Encore HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/169652
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="US: Starz Encore Action HD (East)" tvg-logo="https://i.ibb.co/F4Ny307/starz-encore-action.png" group-title="USA | LIVE",US: Starz Encore Action HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170380
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="US: Starz Encore Black HD (East)" tvg-logo="https://i.ibb.co/jkQqvNL/starz-encore-black.png" group-title="USA | LIVE",US: Starz Encore Black HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170382
+#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="US: Starz Encore Classic HD (East)" tvg-logo="https://i.ibb.co/z2BJ2jR/stars-encore-classic.png" group-title="USA | LIVE",US: Starz Encore Classic HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170384
+#EXTINF:-1 tvg-id="starzencoreespanol.us" tvg-name="US: Starz Encore EspaÃ±ol HD (East)" tvg-logo="https://i.ibb.co/WzT7RvR/starz-encore-espanol.png" group-title="USA Latin | LIVE ",US: Starz Encore EspaÃ±ol HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170386
+#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="US: Starz Encore Family HD (East)" tvg-logo="https://i.ibb.co/sqy9ZwF/stars-encore-family.png" group-title="USA | LIVE",US: Starz Encore Family HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170388
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="US: Starz Encore Suspense HD (East)" tvg-logo="https://i.ibb.co/ZWGXwy0/starz-encore-suspense.png" group-title="USA | LIVE",US: Starz Encore Suspense HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170390
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="US: Starz in Black HD (East)" tvg-logo="https://i.ibb.co/4jhNLSg/starz-in-black.png" group-title="USA | LIVE",US: Starz in Black HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170394
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="US: Starz Kids & Family HD (East)" tvg-logo="https://i.ibb.co/cJJFbzT/starz-kids-and-family.png" group-title="USA | LIVE",US: Starz Kids & Family HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170396
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="US: TCM HD (East)" tvg-logo="https://i.ibb.co/YfHwg9h/TCM.png" group-title="USA | LIVE",US: TCM HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170399
+#EXTINF:-1 tvg-id="hbolatino.us" tvg-name="US: HBO Latino HD (East)" tvg-logo="https://i.ibb.co/4F0zq0k/HBOLatino-us.png" group-title="USA Latin | LIVE ",US: HBO Latino HD (East)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170401
+#EXTINF:-1 tvg-id="" tvg-name="US: MAX Latino" tvg-logo="" group-title="USA Latin | LIVE ",US: MAX Latino
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170403
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US: Hallmark Channel HD" tvg-logo="https://i.ibb.co/tL0R79C/Hallmark-Channel.png" group-title="USA | LIVE",US: Hallmark Channel HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170481
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC HD" tvg-logo="https://i.ibb.co/GvTjb6t/amc1.png" group-title="USA | LIVE",US: AMC HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170482
+#EXTINF:-1 tvg-id="hallmarkdrama.us" tvg-name="USA: HALLMARK Drama HD" tvg-logo="https://i.ibb.co/PZxn0jZ/HALLMARK-Drama.png" group-title="USA | LIVE",USA: HALLMARK Drama HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170483
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="US: HALLMARK MOVIES & MYSTERIES HD" tvg-logo="https://i.ibb.co/mq3CT1m/HALLMARK-MOVIES-MYSTERIES.png" group-title="USA | LIVE",US: HALLMARK MOVIES & MYSTERIES HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170484
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="USA: HDNet Movies HD" tvg-logo="https://i.ibb.co/ZN9LMY1/200-cb-20190815161338.png" group-title="USA | LIVE",USA: HDNet Movies HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170485
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="US: SUNDANCE FHD" tvg-logo="https://i.ibb.co/0XKB3ch/sundance-tv.png" group-title="USA | LIVE",US: SUNDANCE FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170486
+#EXTINF:-1 tvg-id="cinesony.us" tvg-name="US: CINE SONY HD" tvg-logo="https://i.ibb.co/6Y63wvk/CINESONY.png" group-title="USA | LIVE",US: CINE SONY HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170487
+#EXTINF:-1 tvg-id="epix.us" tvg-name="US: EPIX HD" tvg-logo="https://i.ibb.co/Ln85Jk9/epix.png" group-title="USA | LIVE",US: EPIX HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170488
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="USA: EPIX 2 HD" tvg-logo="https://i.ibb.co/MMBWps9/epix2.png" group-title="USA | LIVE",USA: EPIX 2 HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170489
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="USA: EPIX DRIVE IN HD" tvg-logo="https://i.ibb.co/gyKTRMP/epix-drivein.png" group-title="USA | LIVE",USA: EPIX DRIVE IN HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170490
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="US: EPIX HITS HD" tvg-logo="https://i.ibb.co/xgm0ygP/epix-hits.png" group-title="USA | LIVE",US: EPIX HITS HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170491
+#EXTINF:-1 tvg-id="fxmoviechannel.us" tvg-name="US: FXM HD" tvg-logo="https://i.ibb.co/nw7XmPN/FXM.png" group-title="USA | LIVE",US: FXM HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170492
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US: LIFETIME MOVIES FHD" tvg-logo="https://i.ibb.co/QJK4Z2p/LMN.png" group-title="USA | LIVE",US: LIFETIME MOVIES FHD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170493
+#EXTINF:-1 tvg-id="" tvg-name="US: Movies! HD" tvg-logo="" group-title="USA | LIVE",US: Movies! HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/170494
+
+#NEWS
+
+#EXTINF:-1 group-title="News Channels",TOPNEWS
+http://27.254.130.62/feed/chtopnews/index.m3u8
+#EXTINF:-1 group-title="News Channels",CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="News Channels",BBC
+http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+
+#TATA
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  STAR Plus FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  STAR Plus FHD
+http://pprotv.net:80/rrr/rrr/59939
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Sports 1 Hindi FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Sports 1 Hindi FHD
+http://pprotv.net:80/rrr/rrr/59941
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SAB FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SAB FHD
+http://pprotv.net:80/rrr/rrr/59943
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors FHD
+http://pprotv.net:80/rrr/rrr/59944
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Cineplex" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Cineplex
+http://pprotv.net:80/rrr/rrr/59945
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  The Q" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  The Q
+http://pprotv.net:80/rrr/rrr/59946
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY WAH" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY WAH
+http://pprotv.net:80/rrr/rrr/59947
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Cineplex FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Cineplex FHD
+http://pprotv.net:80/rrr/rrr/59948
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY MAX FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY MAX FHD
+http://pprotv.net:80/rrr/rrr/59949
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 1 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY TEN 1 FHD
+http://pprotv.net:80/rrr/rrr/59950
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Food Food" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Food Food
+http://pprotv.net:80/rrr/rrr/59951
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  EPIC" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  EPIC
+http://pprotv.net:80/rrr/rrr/59952
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ETV Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ETV Cinema
+http://pprotv.net:80/rrr/rrr/59953
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MN+ FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MN+ FHD
+http://pprotv.net:80/rrr/rrr/59954
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sangeet Bangla" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sangeet Bangla
+http://pprotv.net:80/rrr/rrr/59955
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Cartoon Network" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Cartoon Network
+http://pprotv.net:80/rrr/rrr/59956
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Ruposhi Bangla" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Ruposhi Bangla
+http://pprotv.net:80/rrr/rrr/59938
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Animal Planet FHD World" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Animal Planet FHD World
+http://pprotv.net:80/rrr/rrr/59957
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Bangla FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Bangla FHD
+http://pprotv.net:80/rrr/rrr/59958
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ETV Plus" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ETV Plus
+http://pprotv.net:80/rrr/rrr/59959
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Khushboo Bangla" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Khushboo Bangla
+http://pprotv.net:80/rrr/rrr/59960
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY BBC Earth FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY BBC Earth FHD
+http://pprotv.net:80/rrr/rrr/59961
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Bangla FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Bangla FHD
+http://pprotv.net:80/rrr/rrr/59962
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Isaiaruvi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Isaiaruvi
+http://pprotv.net:80/rrr/rrr/59963
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Showbox" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Showbox
+http://pprotv.net:80/rrr/rrr/59964
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Dhinchaak" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Dhinchaak
+http://pprotv.net:80/rrr/rrr/59965
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Mega TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Mega TV
+http://pprotv.net:80/rrr/rrr/59966
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Surya TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Surya TV
+http://pprotv.net:80/rrr/rrr/59967
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Asianet FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Asianet FHD
+http://pprotv.net:80/rrr/rrr/59968
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Asianet Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Asianet Movies
+http://pprotv.net:80/rrr/rrr/59969
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Discovery FHD World" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Discovery FHD World
+http://pprotv.net:80/rrr/rrr/59970
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Nat Geo Wild FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Nat Geo Wild FHD
+http://pprotv.net:80/rrr/rrr/59971
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Travelxp Tamil" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Travelxp Tamil
+http://pprotv.net:80/rrr/rrr/59972
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 2 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY TEN 2 FHD
+http://pprotv.net:80/rrr/rrr/59973
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Suvarna FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Suvarna FHD
+http://pprotv.net:80/rrr/rrr/59974
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sri Sankara TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sri Sankara TV
+http://pprotv.net:80/rrr/rrr/59975
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Travelxp FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Travelxp FHD
+http://pprotv.net:80/rrr/rrr/59976
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Suvarna Plus" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Suvarna Plus
+http://pprotv.net:80/rrr/rrr/59977
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  PTC Punjabi Gold" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  PTC Punjabi Gold
+http://pprotv.net:80/rrr/rrr/59978
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Aaj Tak FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Aaj Tak FHD
+http://pprotv.net:80/rrr/rrr/59979
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD News
+http://pprotv.net:80/rrr/rrr/59980
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Saptagiri" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Saptagiri
+http://pprotv.net:80/rrr/rrr/59981
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Bangla" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Bangla
+http://pprotv.net:80/rrr/rrr/59982
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 India" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 India
+http://pprotv.net:80/rrr/rrr/59983
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Infinity FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Infinity FHD
+http://pprotv.net:80/rrr/rrr/59984
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Kannada FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Kannada FHD
+http://pprotv.net:80/rrr/rrr/59985
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Marathi FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Marathi FHD
+http://pprotv.net:80/rrr/rrr/59986
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ETV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ETV FHD
+http://pprotv.net:80/rrr/rrr/59987
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Eurosport FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Eurosport FHD
+http://pprotv.net:80/rrr/rrr/59988
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  FOX Life FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  FOX Life FHD
+http://pprotv.net:80/rrr/rrr/59989
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Gemini Movies FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Gemini Movies FHD
+http://pprotv.net:80/rrr/rrr/59990
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Gemini TV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Gemini TV FHD
+http://pprotv.net:80/rrr/rrr/59991
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Jalsha Movies FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Jalsha Movies FHD
+http://pprotv.net:80/rrr/rrr/59992
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Jaya TV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Jaya TV FHD
+http://pprotv.net:80/rrr/rrr/59993
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  KTV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  KTV FHD
+http://pprotv.net:80/rrr/rrr/59994
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Mazhavil Manorama FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Mazhavil Manorama FHD
+http://pprotv.net:80/rrr/rrr/59995
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Movies Now FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Movies Now FHD
+http://pprotv.net:80/rrr/rrr/59996
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MTV FHD+" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MTV FHD+
+http://pprotv.net:80/rrr/rrr/59997
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Nick FHD+" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Nick FHD+
+http://pprotv.net:80/rrr/rrr/59998
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  &pictures FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  &pictures FHD
+http://pprotv.net:80/rrr/rrr/59999
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY SIX FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY SIX FHD
+http://pprotv.net:80/rrr/rrr/60000
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 3 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY TEN 3 FHD
+http://pprotv.net:80/rrr/rrr/60001
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Bharat FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Bharat FHD
+http://pprotv.net:80/rrr/rrr/60002
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star GOLD FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star GOLD FHD
+http://pprotv.net:80/rrr/rrr/60003
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Jalsha FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Jalsha FHD
+http://pprotv.net:80/rrr/rrr/60004
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  STAR Maa FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  STAR Maa FHD
+http://pprotv.net:80/rrr/rrr/60005
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Maa Movies FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Maa Movies FHD
+http://pprotv.net:80/rrr/rrr/60006
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Pravah FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Pravah FHD
+http://pprotv.net:80/rrr/rrr/60007
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Sports 1 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Sports 1 FHD
+http://pprotv.net:80/rrr/rrr/60008
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Sports 2 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Sports 2 FHD
+http://pprotv.net:80/rrr/rrr/60009
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Sports Select 1 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Sports Select 1 FHD
+http://pprotv.net:80/rrr/rrr/60010
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Sports Select 2 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Sports Select 2 FHD
+http://pprotv.net:80/rrr/rrr/60011
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Vijay FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Vijay FHD
+http://pprotv.net:80/rrr/rrr/60012
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sun TV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sun TV FHD
+http://pprotv.net:80/rrr/rrr/60013
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TLC FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TLC FHD
+http://pprotv.net:80/rrr/rrr/60014
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  &tv FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  &tv FHD
+http://pprotv.net:80/rrr/rrr/60015
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Udaya TV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Udaya TV FHD
+http://pprotv.net:80/rrr/rrr/60016
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Cinema FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Cinema FHD
+http://pprotv.net:80/rrr/rrr/60017
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Cinemalu FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Cinemalu FHD
+http://pprotv.net:80/rrr/rrr/60018
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Marathi FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Marathi FHD
+http://pprotv.net:80/rrr/rrr/60019
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Talkies FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Talkies FHD
+http://pprotv.net:80/rrr/rrr/60020
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Tamil FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Tamil FHD
+http://pprotv.net:80/rrr/rrr/60021
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Telugu FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Telugu FHD
+http://pprotv.net:80/rrr/rrr/60022
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee TV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee TV FHD
+http://pprotv.net:80/rrr/rrr/60023
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Baby TV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Baby TV FHD
+http://pprotv.net:80/rrr/rrr/60024
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  1sports" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  1sports
+http://pprotv.net:80/rrr/rrr/60025
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  4tv News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  4tv News
+http://pprotv.net:80/rrr/rrr/60026
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  9X Jalwa" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  9X Jalwa
+http://pprotv.net:80/rrr/rrr/60027
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  9X Jhakaas" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  9X Jhakaas
+http://pprotv.net:80/rrr/rrr/60028
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  9XM" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  9XM
+http://pprotv.net:80/rrr/rrr/60029
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  9X Tashan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  9X Tashan
+http://pprotv.net:80/rrr/rrr/60030
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Aakaash Aath" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Aakaash Aath
+http://pprotv.net:80/rrr/rrr/60031
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Aastha" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Aastha
+http://pprotv.net:80/rrr/rrr/60032
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Aastha Bhajan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Aastha Bhajan
+http://pprotv.net:80/rrr/rrr/60033
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ABN Andhra Jyothy" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ABN Andhra Jyothy
+http://pprotv.net:80/rrr/rrr/60034
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ABP Ananda" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ABP Ananda
+http://pprotv.net:80/rrr/rrr/60035
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ABP Asmita" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ABP Asmita
+http://pprotv.net:80/rrr/rrr/60036
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ABP Majha" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ABP Majha
+http://pprotv.net:80/rrr/rrr/60037
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ABP News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ABP News
+http://pprotv.net:80/rrr/rrr/60038
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Alankar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Alankar
+http://pprotv.net:80/rrr/rrr/60039
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Al Jazeera" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Al Jazeera
+http://pprotv.net:80/rrr/rrr/60040
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Amrita TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Amrita TV
+http://pprotv.net:80/rrr/rrr/60041
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ANB NEWS" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ANB NEWS
+http://pprotv.net:80/rrr/rrr/60042
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  APN News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  APN News
+http://pprotv.net:80/rrr/rrr/60043
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Arihant" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Arihant
+http://pprotv.net:80/rrr/rrr/60044
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Asianet News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Asianet News
+http://pprotv.net:80/rrr/rrr/60045
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Asianet Plus" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Asianet Plus
+http://pprotv.net:80/rrr/rrr/60046
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Australia Plus" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Australia Plus
+http://pprotv.net:80/rrr/rrr/60047
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  B4U Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  B4U Movies
+http://pprotv.net:80/rrr/rrr/60048
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  B4U Music" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  B4U Music
+http://pprotv.net:80/rrr/rrr/60049
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  BBC World" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  BBC World
+http://pprotv.net:80/rrr/rrr/60050
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Bflix Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Bflix Movies
+http://pprotv.net:80/rrr/rrr/60051
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Bhakti TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Bhakti TV
+http://pprotv.net:80/rrr/rrr/60052
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Bharat Samachar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Bharat Samachar
+http://pprotv.net:80/rrr/rrr/60053
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Bhojpuri Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Bhojpuri Cinema
+http://pprotv.net:80/rrr/rrr/60054
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Big Ganga" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Big Ganga
+http://pprotv.net:80/rrr/rrr/60055
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Big Magic" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Big Magic
+http://pprotv.net:80/rrr/rrr/60056
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Boogle Bollywood" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Boogle Bollywood
+http://pprotv.net:80/rrr/rrr/60057
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Calcutta News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Calcutta News
+http://pprotv.net:80/rrr/rrr/60058
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  CBeeBies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  CBeeBies
+http://pprotv.net:80/rrr/rrr/60059
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Channel News Asia" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Channel News Asia
+http://pprotv.net:80/rrr/rrr/60060
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Chardikla Time TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Chardikla Time TV
+http://pprotv.net:80/rrr/rrr/60061
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Cinema TV India" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Cinema TV India
+http://pprotv.net:80/rrr/rrr/60062
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  CNBC Awaaz" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  CNBC Awaaz
+http://pprotv.net:80/rrr/rrr/60063
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  CNBC Bajaar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  CNBC Bajaar
+http://pprotv.net:80/rrr/rrr/60064
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  CNBC-TV18" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  CNBC-TV18
+http://pprotv.net:80/rrr/rrr/60065
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  CNN" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  CNN
+http://pprotv.net:80/rrr/rrr/60066
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  CNN News18" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  CNN News18
+http://pprotv.net:80/rrr/rrr/60067
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Gujarati" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Gujarati
+http://pprotv.net:80/rrr/rrr/60068
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Gujarati Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Gujarati Cinema
+http://pprotv.net:80/rrr/rrr/60069
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Kannada Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Kannada Cinema
+http://pprotv.net:80/rrr/rrr/60070
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Oriya" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Oriya
+http://pprotv.net:80/rrr/rrr/60071
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors SUPER" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors SUPER
+http://pprotv.net:80/rrr/rrr/60072
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Tamil" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Tamil
+http://pprotv.net:80/rrr/rrr/60073
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  CTVN AKD Plus" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  CTVN AKD Plus
+http://pprotv.net:80/rrr/rrr/60074
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Dangal" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Dangal
+http://pprotv.net:80/rrr/rrr/60075
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Bangla" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Bangla
+http://pprotv.net:80/rrr/rrr/60076
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Bharati" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Bharati
+http://pprotv.net:80/rrr/rrr/60077
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Bihar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Bihar
+http://pprotv.net:80/rrr/rrr/60078
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Chandana" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Chandana
+http://pprotv.net:80/rrr/rrr/60079
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Girnar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Girnar
+http://pprotv.net:80/rrr/rrr/60080
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD India" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD India
+http://pprotv.net:80/rrr/rrr/60081
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Kashir" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Kashir
+http://pprotv.net:80/rrr/rrr/60082
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Kisan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Kisan
+http://pprotv.net:80/rrr/rrr/60083
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Madhya Pradesh" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Madhya Pradesh
+http://pprotv.net:80/rrr/rrr/60084
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Malayalam" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Malayalam
+http://pprotv.net:80/rrr/rrr/60085
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD National" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD National
+http://pprotv.net:80/rrr/rrr/60086
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD North East" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD North East
+http://pprotv.net:80/rrr/rrr/60087
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Odia" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Odia
+http://pprotv.net:80/rrr/rrr/60088
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Podhigai" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Podhigai
+http://pprotv.net:80/rrr/rrr/60089
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Punjabi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Punjabi
+http://pprotv.net:80/rrr/rrr/60090
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Rajasthan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Rajasthan
+http://pprotv.net:80/rrr/rrr/60091
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Retro" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Retro
+http://pprotv.net:80/rrr/rrr/60092
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Sahyadri" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Sahyadri
+http://pprotv.net:80/rrr/rrr/60093
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Sports" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Sports
+http://pprotv.net:80/rrr/rrr/60094
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Uttar Pradesh" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Uttar Pradesh
+http://pprotv.net:80/rrr/rrr/60095
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Yadagiri" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Yadagiri
+http://pprotv.net:80/rrr/rrr/60096
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Discovery Kids" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Discovery Kids
+http://pprotv.net:80/rrr/rrr/60097
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Discovery Science" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Discovery Science
+http://pprotv.net:80/rrr/rrr/60098
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Discovery Turbo" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Discovery Turbo
+http://pprotv.net:80/rrr/rrr/60099
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Disha TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Disha TV
+http://pprotv.net:80/rrr/rrr/60100
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Dishum" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Dishum
+http://pprotv.net:80/rrr/rrr/60101
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Disney" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Disney
+http://pprotv.net:80/rrr/rrr/60102
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Disney Junior" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Disney Junior
+http://pprotv.net:80/rrr/rrr/60103
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DIVYA" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DIVYA
+http://pprotv.net:80/rrr/rrr/60104
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  D Tamil" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  D Tamil
+http://pprotv.net:80/rrr/rrr/60105
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DW" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DW
+http://pprotv.net:80/rrr/rrr/60106
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DY 365" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DY 365
+http://pprotv.net:80/rrr/rrr/60107
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  E24" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  E24
+http://pprotv.net:80/rrr/rrr/60108
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Ek Onkar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Ek Onkar
+http://pprotv.net:80/rrr/rrr/60109
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Enterr10 Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Enterr10 Movies
+http://pprotv.net:80/rrr/rrr/60110
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ET NOW" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ET NOW
+http://pprotv.net:80/rrr/rrr/60111
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ETV Abhiruchi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ETV Abhiruchi
+http://pprotv.net:80/rrr/rrr/60112
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ETV Andhra Pradesh" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ETV Andhra Pradesh
+http://pprotv.net:80/rrr/rrr/60113
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ETV Life" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ETV Life
+http://pprotv.net:80/rrr/rrr/60114
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ETV Telengana" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ETV Telengana
+http://pprotv.net:80/rrr/rrr/60115
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Eurosport" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Eurosport
+http://pprotv.net:80/rrr/rrr/60116
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Fakt Marathi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Fakt Marathi
+http://pprotv.net:80/rrr/rrr/60117
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Fashion TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Fashion TV
+http://pprotv.net:80/rrr/rrr/60118
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Fateh TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Fateh TV
+http://pprotv.net:80/rrr/rrr/60119
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  First India Rajasthan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  First India Rajasthan
+http://pprotv.net:80/rrr/rrr/60120
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Flowers" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Flowers
+http://pprotv.net:80/rrr/rrr/60121
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  France 24" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  France 24
+http://pprotv.net:80/rrr/rrr/60122
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  GOOD TiMES" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  GOOD TiMES
+http://pprotv.net:80/rrr/rrr/60123
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Gujarat Samachar TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Gujarat Samachar TV
+http://pprotv.net:80/rrr/rrr/60124
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Hindu Dharmam" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Hindu Dharmam
+http://pprotv.net:80/rrr/rrr/60125
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  HM TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  HM TV
+http://pprotv.net:80/rrr/rrr/60126
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  IBC 24" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  IBC 24
+http://pprotv.net:80/rrr/rrr/60127
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India News
+http://pprotv.net:80/rrr/rrr/60128
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India News Gujarat" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India News Gujarat
+http://pprotv.net:80/rrr/rrr/60129
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India News MP CH" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India News MP CH
+http://pprotv.net:80/rrr/rrr/60130
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India News Punjab" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India News Punjab
+http://pprotv.net:80/rrr/rrr/60131
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India News Rajasthan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India News Rajasthan
+http://pprotv.net:80/rrr/rrr/60132
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India News UP UK" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India News UP UK
+http://pprotv.net:80/rrr/rrr/60133
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  INDIA TODAY" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  INDIA TODAY
+http://pprotv.net:80/rrr/rrr/60134
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India TV
+http://pprotv.net:80/rrr/rrr/60135
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India Voice" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India Voice
+http://pprotv.net:80/rrr/rrr/60136
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Indradhanu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Indradhanu
+http://pprotv.net:80/rrr/rrr/60137
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  INH 24X7" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  INH 24X7
+http://pprotv.net:80/rrr/rrr/60138
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Insync" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Insync
+http://pprotv.net:80/rrr/rrr/60139
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Investigation Discovery" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Investigation Discovery
+http://pprotv.net:80/rrr/rrr/60140
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ISKCON Mumbai" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ISKCON Mumbai
+http://pprotv.net:80/rrr/rrr/60141
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Jalsha Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Jalsha Movies
+http://pprotv.net:80/rrr/rrr/60142
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Jantantra" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Jantantra
+http://pprotv.net:80/rrr/rrr/60143
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Jaya Max" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Jaya Max
+http://pprotv.net:80/rrr/rrr/60144
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Jaya Plus" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Jaya Plus
+http://pprotv.net:80/rrr/rrr/60145
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  J Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  J Movies
+http://pprotv.net:80/rrr/rrr/60146
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kairali News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kairali News
+http://pprotv.net:80/rrr/rrr/60147
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kairali TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kairali TV
+http://pprotv.net:80/rrr/rrr/60148
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kalaignar TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kalaignar TV
+http://pprotv.net:80/rrr/rrr/60149
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kalinga TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kalinga TV
+http://pprotv.net:80/rrr/rrr/60150
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kanak News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kanak News
+http://pprotv.net:80/rrr/rrr/60151
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kappa TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kappa TV
+http://pprotv.net:80/rrr/rrr/60152
+#EXTINF:-1 tvg-id="" tvg-name="Varanasi" tvg-logo="" group-title="SKY TATA",Varanasi
+http://pprotv.net:80/rrr/rrr/60153
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kasthuri" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kasthuri
+http://pprotv.net:80/rrr/rrr/60154
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kolkata TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kolkata TV
+http://pprotv.net:80/rrr/rrr/60155
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Lok Sabha TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Lok Sabha TV
+http://pprotv.net:80/rrr/rrr/60156
+#EXTINF:-1 tvg-id="" tvg-name="Ujjain" tvg-logo="" group-title="SKY TATA",Ujjain
+http://pprotv.net:80/rrr/rrr/60157
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Makkal TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Makkal TV
+http://pprotv.net:80/rrr/rrr/60158
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MalaiMurasu Seithigal" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MalaiMurasu Seithigal
+http://pprotv.net:80/rrr/rrr/60159
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Manjari" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Manjari
+http://pprotv.net:80/rrr/rrr/60160
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Manorama News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Manorama News
+http://pprotv.net:80/rrr/rrr/60161
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Manoranjan TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Manoranjan TV
+http://pprotv.net:80/rrr/rrr/60162
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MARVEL HQ" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MARVEL HQ
+http://pprotv.net:80/rrr/rrr/60163
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Mastiii" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Mastiii
+http://pprotv.net:80/rrr/rrr/60164
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Mathrubhumi News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Mathrubhumi News
+http://pprotv.net:80/rrr/rrr/60165
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MH One" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MH One
+http://pprotv.net:80/rrr/rrr/60166
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MH One News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MH One News
+http://pprotv.net:80/rrr/rrr/60167
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MH One Shraddha" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MH One Shraddha
+http://pprotv.net:80/rrr/rrr/60168
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MIRROR NOW" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MIRROR NOW
+http://pprotv.net:80/rrr/rrr/60169
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Murasu TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Murasu TV
+http://pprotv.net:80/rrr/rrr/60170
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  NDTV 24x7" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  NDTV 24x7
+http://pprotv.net:80/rrr/rrr/60171
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  NDTV India" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  NDTV India
+http://pprotv.net:80/rrr/rrr/60172
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  NDTV Profit Prime" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  NDTV Profit Prime
+http://pprotv.net:80/rrr/rrr/60173
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Nepal 1" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Nepal 1
+http://pprotv.net:80/rrr/rrr/60174
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News11 Bharat" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News11 Bharat
+http://pprotv.net:80/rrr/rrr/60175
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Assam North East" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Assam North East
+http://pprotv.net:80/rrr/rrr/60176
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Bihar Jharkhand" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Bihar Jharkhand
+http://pprotv.net:80/rrr/rrr/60177
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Gujarati" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Gujarati
+http://pprotv.net:80/rrr/rrr/60178
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Kannada" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Kannada
+http://pprotv.net:80/rrr/rrr/60179
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Kerala" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Kerala
+http://pprotv.net:80/rrr/rrr/60180
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Lokmat" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Lokmat
+http://pprotv.net:80/rrr/rrr/60181
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Madhya Pradesh Chhattisgarh" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Madhya Pradesh Chhattisgarh
+http://pprotv.net:80/rrr/rrr/60182
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Odia" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Odia
+http://pprotv.net:80/rrr/rrr/60183
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Punjab Haryana Himachal" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Punjab Haryana Himachal
+http://pprotv.net:80/rrr/rrr/60184
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Rajasthan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Rajasthan
+http://pprotv.net:80/rrr/rrr/60185
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Tamil Nadu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Tamil Nadu
+http://pprotv.net:80/rrr/rrr/60186
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Urdu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Urdu
+http://pprotv.net:80/rrr/rrr/60187
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Uttar Pradesh Uttarakhand" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Uttar Pradesh Uttarakhand
+http://pprotv.net:80/rrr/rrr/60188
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News 24" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News 24
+http://pprotv.net:80/rrr/rrr/60189
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News 7 Tamil" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News 7 Tamil
+http://pprotv.net:80/rrr/rrr/60190
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News Live" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News Live
+http://pprotv.net:80/rrr/rrr/60191
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News Nation" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News Nation
+http://pprotv.net:80/rrr/rrr/60192
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News State MP CG" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News State MP CG
+http://pprotv.net:80/rrr/rrr/60193
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News State UP Uttarakhand" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News State UP Uttarakhand
+http://pprotv.net:80/rrr/rrr/60194
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News Time Bangla" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News Time Bangla
+http://pprotv.net:80/rrr/rrr/60195
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  NewsX" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  NewsX
+http://pprotv.net:80/rrr/rrr/60196
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Nick" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Nick
+http://pprotv.net:80/rrr/rrr/60197
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Nick Jr" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Nick Jr
+http://pprotv.net:80/rrr/rrr/60198
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  North East Live" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  North East Live
+http://pprotv.net:80/rrr/rrr/60199
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  NTV Telugu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  NTV Telugu
+http://pprotv.net:80/rrr/rrr/60200
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  OTV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  OTV
+http://pprotv.net:80/rrr/rrr/60201
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Paras TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Paras TV
+http://pprotv.net:80/rrr/rrr/60202
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Patrika TV Rajasthan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Patrika TV Rajasthan
+http://pprotv.net:80/rrr/rrr/60203
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Peace of Mind" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Peace of Mind
+http://pprotv.net:80/rrr/rrr/60204
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Peppers TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Peppers TV
+http://pprotv.net:80/rrr/rrr/60205
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  &pictures" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  &pictures
+http://pprotv.net:80/rrr/rrr/60206
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Pitaara TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Pitaara TV
+http://pprotv.net:80/rrr/rrr/60207
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Pogo" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Pogo
+http://pprotv.net:80/rrr/rrr/60208
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Polimer News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Polimer News
+http://pprotv.net:80/rrr/rrr/60209
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Polimer TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Polimer TV
+http://pprotv.net:80/rrr/rrr/60210
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Prag News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Prag News
+http://pprotv.net:80/rrr/rrr/60211
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Prarthana TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Prarthana TV
+http://pprotv.net:80/rrr/rrr/60212
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Protidin Time" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Protidin Time
+http://pprotv.net:80/rrr/rrr/60213
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Prudent" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Prudent
+http://pprotv.net:80/rrr/rrr/60214
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  PTC Chak De" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  PTC Chak De
+http://pprotv.net:80/rrr/rrr/60215
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  PTC News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  PTC News
+http://pprotv.net:80/rrr/rrr/60216
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  PTC Punjabi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  PTC Punjabi
+http://pprotv.net:80/rrr/rrr/60217
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Public Music" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Public Music
+http://pprotv.net:80/rrr/rrr/60218
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Public TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Public TV
+http://pprotv.net:80/rrr/rrr/60219
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj Digital Plus" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj Digital Plus
+http://pprotv.net:80/rrr/rrr/60220
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj Musix Kannada" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj Musix Kannada
+http://pprotv.net:80/rrr/rrr/60221
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj Musix Malayalam" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj Musix Malayalam
+http://pprotv.net:80/rrr/rrr/60222
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj Musix Telugu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj Musix Telugu
+http://pprotv.net:80/rrr/rrr/60223
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj News Kannada" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj News Kannada
+http://pprotv.net:80/rrr/rrr/60224
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj News Malayalam" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj News Malayalam
+http://pprotv.net:80/rrr/rrr/60225
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj News Telugu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj News Telugu
+http://pprotv.net:80/rrr/rrr/60226
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj TV
+http://pprotv.net:80/rrr/rrr/60227
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Rajya Sabha" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Rajya Sabha
+http://pprotv.net:80/rrr/rrr/60228
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Ramdhenu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Ramdhenu
+http://pprotv.net:80/rrr/rrr/60229
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Rang" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Rang
+http://pprotv.net:80/rrr/rrr/60230
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  R.Bharat" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  R.Bharat
+http://pprotv.net:80/rrr/rrr/60231
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Rengoni TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Rengoni TV
+http://pprotv.net:80/rrr/rrr/60232
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  REPUBLIC TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  REPUBLIC TV
+http://pprotv.net:80/rrr/rrr/60233
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Russia Today" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Russia Today
+http://pprotv.net:80/rrr/rrr/60234
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Saam TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Saam TV
+http://pprotv.net:80/rrr/rrr/60235
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sadhna TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sadhna TV
+http://pprotv.net:80/rrr/rrr/60236
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sakshi TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sakshi TV
+http://pprotv.net:80/rrr/rrr/60237
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sandesh News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sandesh News
+http://pprotv.net:80/rrr/rrr/60238
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sangeet Marathi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sangeet Marathi
+http://pprotv.net:80/rrr/rrr/60239
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sanskar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sanskar
+http://pprotv.net:80/rrr/rrr/60240
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Shalom TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Shalom TV
+http://pprotv.net:80/rrr/rrr/60241
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Shemaroo MarathiBana" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Shemaroo MarathiBana
+http://pprotv.net:80/rrr/rrr/60242
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Shemaroo TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Shemaroo TV
+http://pprotv.net:80/rrr/rrr/60243
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Shirdi Sai Baba" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Shirdi Sai Baba
+http://pprotv.net:80/rrr/rrr/60244
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Shubh TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Shubh TV
+http://pprotv.net:80/rrr/rrr/60245
+#EXTINF:-1 tvg-id="" tvg-name="Mumbai" tvg-logo="" group-title="SKY TATA",Mumbai
+http://pprotv.net:80/rrr/rrr/60246
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sirippoli" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sirippoli
+http://pprotv.net:80/rrr/rrr/60247
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Somnath Temple" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Somnath Temple
+http://pprotv.net:80/rrr/rrr/60248
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sonic Nickelodeon" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sonic Nickelodeon
+http://pprotv.net:80/rrr/rrr/60249
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY AATH" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY AATH
+http://pprotv.net:80/rrr/rrr/60250
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY MARATHI" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY MARATHI
+http://pprotv.net:80/rrr/rrr/60251
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY  MAX" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY  MAX
+http://pprotv.net:80/rrr/rrr/60252
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY MAX 2" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY MAX 2
+http://pprotv.net:80/rrr/rrr/60253
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY YAY!" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY YAY!
+http://pprotv.net:80/rrr/rrr/60254
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Maa Gold" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Maa Gold
+http://pprotv.net:80/rrr/rrr/60255
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Subharti TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Subharti TV
+http://pprotv.net:80/rrr/rrr/60256
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sudarshan News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sudarshan News
+http://pprotv.net:80/rrr/rrr/60257
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Surya Bhojpuri" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Surya Bhojpuri
+http://pprotv.net:80/rrr/rrr/60258
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Surya Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Surya Cinema
+http://pprotv.net:80/rrr/rrr/60259
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Surya Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Surya Movies
+http://pprotv.net:80/rrr/rrr/60260
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SVBC 2" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SVBC 2
+http://pprotv.net:80/rrr/rrr/60261
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SVBC Telugu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SVBC Telugu
+http://pprotv.net:80/rrr/rrr/60262
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Tarang Music" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Tarang Music
+http://pprotv.net:80/rrr/rrr/60263
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Tarang TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Tarang TV
+http://pprotv.net:80/rrr/rrr/60264
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TEZ" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TEZ
+http://pprotv.net:80/rrr/rrr/60269
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Thanthi TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Thanthi TV
+http://pprotv.net:80/rrr/rrr/60270
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Times Now World" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Times Now World
+http://pprotv.net:80/rrr/rrr/60271
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  T News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  T News
+http://pprotv.net:80/rrr/rrr/60272
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV5 Kannada" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV5 Kannada
+http://pprotv.net:80/rrr/rrr/60273
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV5 Monde Asie" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV5 Monde Asie
+http://pprotv.net:80/rrr/rrr/60274
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV5 News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV5 News
+http://pprotv.net:80/rrr/rrr/60275
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV9 Bharatvarsh" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV9 Bharatvarsh
+http://pprotv.net:80/rrr/rrr/60276
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV9 Gujarati" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV9 Gujarati
+http://pprotv.net:80/rrr/rrr/60277
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV9 Kannada" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV9 Kannada
+http://pprotv.net:80/rrr/rrr/60278
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV9 Marathi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV9 Marathi
+http://pprotv.net:80/rrr/rrr/60279
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV9 Telugu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV9 Telugu
+http://pprotv.net:80/rrr/rrr/60280
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Udaya Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Udaya Movies
+http://pprotv.net:80/rrr/rrr/60281
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  UTV Bindass" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  UTV Bindass
+http://pprotv.net:80/rrr/rrr/60282
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  V6 News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  V6 News
+http://pprotv.net:80/rrr/rrr/60283
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Vasanth TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Vasanth TV
+http://pprotv.net:80/rrr/rrr/60284
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Vedic" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Vedic
+http://pprotv.net:80/rrr/rrr/60285
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  VTV Gujarati" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  VTV Gujarati
+http://pprotv.net:80/rrr/rrr/60286
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  We TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  We TV
+http://pprotv.net:80/rrr/rrr/60287
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  WION" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  WION
+http://pprotv.net:80/rrr/rrr/60288
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee 24 Ghanta" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee 24 Ghanta
+http://pprotv.net:80/rrr/rrr/60289
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee 24 Kalak" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee 24 Kalak
+http://pprotv.net:80/rrr/rrr/60290
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee 24 Taas" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee 24 Taas
+http://pprotv.net:80/rrr/rrr/60291
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Action" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Action
+http://pprotv.net:80/rrr/rrr/60292
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Anmol Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Anmol Cinema
+http://pprotv.net:80/rrr/rrr/60293
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Bangla Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Bangla Cinema
+http://pprotv.net:80/rrr/rrr/60294
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Bihar Jharkhand" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Bihar Jharkhand
+http://pprotv.net:80/rrr/rrr/60295
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Biskope" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Biskope
+http://pprotv.net:80/rrr/rrr/60296
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Bollywood" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Bollywood
+http://pprotv.net:80/rrr/rrr/60297
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Business" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Business
+http://pprotv.net:80/rrr/rrr/60298
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Cinema
+http://pprotv.net:80/rrr/rrr/60299
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Hindustan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Hindustan
+http://pprotv.net:80/rrr/rrr/60300
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Kannada" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Kannada
+http://pprotv.net:80/rrr/rrr/60301
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Keralam" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Keralam
+http://pprotv.net:80/rrr/rrr/60302
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Madhya Pradesh Chattisgarh" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Madhya Pradesh Chattisgarh
+http://pprotv.net:80/rrr/rrr/60303
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee News
+http://pprotv.net:80/rrr/rrr/60304
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Odisha" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Odisha
+http://pprotv.net:80/rrr/rrr/60305
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Picchar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Picchar
+http://pprotv.net:80/rrr/rrr/60306
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Punjab Haryana Himachal Pradesh" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Punjab Haryana Himachal Pradesh
+http://pprotv.net:80/rrr/rrr/60307
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Punjabi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Punjabi
+http://pprotv.net:80/rrr/rrr/60308
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Rajasthan News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Rajasthan News
+http://pprotv.net:80/rrr/rrr/60309
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Sarthak" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Sarthak
+http://pprotv.net:80/rrr/rrr/60310
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Thirai" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Thirai
+http://pprotv.net:80/rrr/rrr/60311
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee TV
+http://pprotv.net:80/rrr/rrr/60312
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Uttar Pradesh Uttarakhand" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Uttar Pradesh Uttarakhand
+http://pprotv.net:80/rrr/rrr/60313
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee YUVA" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee YUVA
+http://pprotv.net:80/rrr/rrr/60314
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zing" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zing
+http://pprotv.net:80/rrr/rrr/60315
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zoom" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zoom
+http://pprotv.net:80/rrr/rrr/60316
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SET FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SET FHD
+http://pprotv.net:80/rrr/rrr/59940
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY PIX FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY PIX FHD
+http://pprotv.net:80/rrr/rrr/59942
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Tata Sky Bhojpuri Sanima" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Tata Sky Bhojpuri Sanima
+http://pprotv.net:80/rrr/rrr/60265
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Tata Sky CuriosityStream" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Tata Sky CuriosityStream
+http://pprotv.net:80/rrr/rrr/60266
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Tata Sky Family Health" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Tata Sky Family Health
+http://pprotv.net:80/rrr/rrr/60267
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Tata Sky Show Bizz" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Tata Sky Show Bizz
+http://pprotv.net:80/rrr/rrr/60268
+
+#EXTRA
+
+#EXTINF:-1,boomerang
+http://916309128f3e.sn.mynetname.net:1935/aslive/boomberang/chunklist_Fuso_Uhd.m3u8
+#EXTINF:-1,Toonee
+https://stream-04.sg1.dailymotion.com/sec/dm/3/x7yxv78/s/live-1.m3u8
+#EXTINF:-1,ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1,toonee
+http://27.254.130.62/feed/LC23/index.m3u8
+#EXTINF:-1,animax
+http://27.254.130.62/feed/LC38/index.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://drive.google.com/uc?id=1FhNX-Cr_BnUSBnEVo6D60gLCCr6oqZCj",Fwmov
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://drive.google.com/uc?id=1G5QUoR2pt4W6MG_nq3nUjPuJPTvkv-uN",Fwsov
+https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://drive.google.com/uc?id=1M8orKSb2AZYdjttilddeBPUe99Nls1Ae",FwToon
+https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,True thai flim
+http://gg.gg/uxee8
+#EXTINF:-1,AXN
+https://edge-n4.worldwidetv.club/5o4_eP5LATc02EPn8nlKgw/1623171388/live-o33-th-abr/hd-axn/liveorigin/hd-axn_1080/chunks.m3u8
+#EXTINF:-1,Live Sky1
+http://116.204.181.238:9981/stream/service/7b752a7e23971404ae2ce2e1b5ed0684
+#EXTINF:-1,Live Sky2
+http://116.204.181.238:9981/stream/service/350bbbf7af2ff0cfc5b8608a5f189c42
+#EXTINF:-1,Live Sky3
+http://116.204.181.238:9981/stream/service/f5688fbf8ba814dfaae52f48a72f5b7b
+#EXTINF:-1,Live Sky4
+http://116.204.181.238:9981/stream/service/33286e39815a16ecbd2c832907841eff
+#EXTINF:-1,Cable Movie 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklis.m3u8
+#EXTINF:-1,Cable Movie 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist.m3u8
+#EXTINF:-1,Series1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist.m3u8
+#EXTINF:-1,Series2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8
+#EXTINF:-1,Samurai
+http://27.254.130.62/feed/LC2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Box Flim
+http://27.254.130.62/feed/LC52/tracks-v1a1/mono.m3u8
+#EXTINF:-1,JKN
+http://27.254.130.62/feed/LC24/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1,CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1,M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:-1,CRIME+
+http://27.254.130.62/feed/LC43/index.m3u8
+#EXTINF:-1,JKN
+http://27.254.130.62/feed/LC24/index.m3u8
+#EXTINF:-1,SANOOK 
+http://27.254.130.62/feed/LC53/index.m3u8
+#EXTINF:-1,BOX
+http://27.254.130.62/feed/LC52/index.m3u8 
+#EXTINF:-1,MEDIA TV
+http://27.254.130.62/feed/LC3/index.m3u8
+#EXTINF:-1,M2
+http://27.254.130.62/feed/LC24/index.m3u8
+#EXTINF:-1,ZEENUNG
+http://27.254.130.62/feed/LC5/index.m3u8
+#EXTINF:-1,WARNER
+http://27.254.130.62/feed/LC28/index.m3u8
+#EXTINF:-1,DIZI
+http://27.254.130.62/feed/LC31/index.m3u8
+#EXTINF:-1,CH V
+http://27.254.130.62/LC14/index.m3u8 
+#EXTINF:-1,Movie 1
+http://39.134.182.236/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1,Movie 2
+http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
+#EXTINF:-1,Movie 3
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8 
+#EXTINF:-1,Movie 4
+http://39.134.182.236/PLTV/88888888/224/3221226179/index.m3u8
+#EXTINF:-1,Movie 5
+http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8
+#EXTINF:-1,NEXTTV
+http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
+#EXTINF:-1,CCM 
+http://gg.gg/Ccm-1
+#EXTINF:-1,Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist.m3u8
+#EXTINF:-1,Fashion TV
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1,CH V
+http://27.254.130.62/feed/LC14/index.m3u8                    
+#EXTINF:-1,petclub subthai
+http://27.254.130.62/feed/LC18/index.m3u8                      
+#EXTINF:-1,KBS WORLD
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
+#EXTINF:-1,cable 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1,Charoen Cable TV
+http://27.254.130.62/feed/LC32/index.m3u8
+#EXTINF:-1,Foxsport 1
+http://178.175.132.170:8888/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1,Foxsport 2
+http://178.175.132.170:8888/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1,Foxsport 3
+http://178.175.132.170:8888/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1,Astro Super Sport 1
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,Astro Super Sport 3
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1,Astro Super Sport 4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1,CCTV-5+ 
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1,CCTV 5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1,CCTV 5 +
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1,CETV 1
+http://39.135.138.60:18890/PLTV/88888910/224/3221225661/index.m3u8
+#EXTINF:-1,CNC
+http://39.135.138.60:18890/PLTV/88888910/224/3221225693/index.m3u8
+#EXTINF:-1,CNC 2
+http://39.135.138.60:18890/PLTV/88888910/224/3221225694/index.m3u8
+#EXTINF:-1,DC
+http://39.135.138.60:18890/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1,DC
+http://39.135.138.60:18890/PLTV/88888910/224/3221225654/index.m3u8
+#EXTINF:-1,F
+http://39.135.138.60:18890/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1,JIZHOU
+http://39.135.138.60:18890/PLTV/88888910/224/3221225679/index.m3u8
+#EXTINF:-1,NNTV
+http://39.135.138.60:18890/PLTV/88888910/224/3221225667/index.m3u8
+
+#ENDED
