@@ -66,34 +66,20 @@ http://178.175.132.170:8888/03_skynetsport6_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="true visions Channels",Premier HD1
 http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",Premier HD1
-http://119.161.100.50:8082/live/epl-1/playlist.m3u8
 #EXTINF:-1 group-title="true visions Channels",Premier HD2
 http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",Premier HD2
-http://119.161.100.50:8082/live/epl-2/playlist.m3u8
 #EXTINF:-1 group-title="true visions Channels",Premier HD3
 http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",Premier HD3
-http://119.161.100.50:8082/live/epl-3/playlist.m3u8
 #EXTINF:-1 group-title="true visions Channels",Premier HD4
 http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",Premier HD4
-http://119.161.100.50:8082/live/epl-4/playlist.m3u8
 #EXTINF:-1 group-title="true visions Channels",Premier HD5
 http://178.175.132.170:8888/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",Premier HD5
-http://119.161.100.50:8082/live/epl-5/playlist.m3u8
 #EXTINF:-1 group-title="true visions Channels",True Sports HD
 http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="true visions Channels",True Sports HD 2
 http://178.175.132.170:8888/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",True Sports HD 2
-http://119.161.100.50:8089/truesporthd2/index.m3u8
 #EXTINF:-1 group-title="true visions Channels",True Sports HD 3
 http://178.175.132.170:8888/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",True Sports HD 4
-http://178.175.132.170:8888/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="true visions Channels",True Sports 2
 http://178.175.132.170:8888/02_sport2_480p/chunklist.m3u8
 #EXTINF:-1 group-title="true visions Channels",True Sports 5
@@ -102,12 +88,6 @@ http://178.175.132.170:8888/02_sport5_480p/chunklist.m3u8
 http://178.175.132.170:8888/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="true visions Channels",True Sports 7
 http://178.175.132.170:8888/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",True Film HD
-https://edge-n4.worldwidetv.club/qSLmkJZT2Kfbz05665dBIQ/1623171109/live-o33-th-abr/hd-tfilm/liveorigin/hd-tfilm_1080/chunks.m3u8
-#EXTINF:-1 group-title="true visions Channels",True Film HD 2
-https://edge-n4.worldwidetv.club/2w_nNdkq26AIxQTOmdWYgA/1623171280/live-o33-th-abr/hd-tfilm2/liveorigin/hd-tfilm2_1080/chunks.m3u8
-#EXTINF:-1 group-title="true visions Channels",True Series
-https://edge-n1.worldwidetv.club/JxhHhoEU8jXk1IQoEytcLg/1623171338/live-o33-th-abr/sd-series/liveorigin/sd-series_480/chunks.m3u8
 
 #OTHERS SPORTS
 
