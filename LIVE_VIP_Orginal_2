@@ -32,6 +32,14 @@ https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southea
 
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 
+#EXTINF:-1 group-title="Myanmar",History HD
+
+http://178.175.132.170:8888/02_HISTORYHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Myanmar",H2 HD
+
+http://178.175.132.170:8888/02_H2HD_720p/chunklist.m3u8
+
 #SPORT
 
 #EXTINF:-1 group-title="BeIn Sports",BEIN SPORT HD 1
