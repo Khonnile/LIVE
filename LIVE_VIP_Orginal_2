@@ -40,6 +40,10 @@ http://178.175.132.170:8888/02_HISTORYHD_720p/chunklist.m3u8
 
 http://178.175.132.170:8888/02_H2HD_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="Myanmar",A HD
+
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
+
 #Football
 
 #EXTINF:-1 group-title="Football",LFC TV
@@ -57,6 +61,14 @@ https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Football",BT Sport HD 2
 https://sport.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="Football",Realmadrid TV HD
+http://91.126.39.101:1935/live/realmadridnntv/chunklist_w2140406843.m3u8?mvk
+
+#EXTINF:-1 group-title="Football",Sky Sports HD (Cricket 1)
+http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Football",Sky Sports HD (Main Event)
+http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
 
 #SPORT
 
