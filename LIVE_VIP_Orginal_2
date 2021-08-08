@@ -40,6 +40,18 @@ http://178.175.132.170:8888/02_HISTORYHD_720p/chunklist.m3u8
 
 http://178.175.132.170:8888/02_H2HD_720p/chunklist.m3u8
 
+#Football
+
+#EXTINF:-1 group-title="Football",LFC TV
+https://live-c348a30.rmbl.ws:443/slot-8/ngrp:urkr-ejfc_all/chunklist_b4163840.m3u8
+
+#EXTINF:-1 group-title="Football",LFC TV 2
+http://england.mazystreams.xyz/live/2/chunks.m3u8
+
+#EXTINF:-1 group-title="Football",LFC TV 3
+https://wowzaprodhd75-lh.akamaihd.net/i/93f1ea82_1@394709/master.m3u8
+
+
 #SPORT
 
 #EXTINF:-1 group-title="BeIn Sports",BEIN SPORT HD 1
