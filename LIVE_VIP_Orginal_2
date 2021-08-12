@@ -44,6 +44,17 @@ http://178.175.132.170:8888/02_H2HD_720p/chunklist.m3u8
 
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
 
+#Skynet
+
+#EXTINF:-1 group-title="Skynet Sports",Skynet Sport 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/index.m3u8
+
+#EXTINF:-1 group-title="Skynet Sports",Skynet Sport 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/index.m3u8
+
+#EXTINF:-1 group-title="Skynet Sports",Skynet Sport 3
+http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/index.m3u8
+
 #Football
 
 #EXTINF:-1 group-title="Football",LFC TV
@@ -71,6 +82,39 @@ http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
 
 #SPORT
+
+#EXTINF:-1 group-title="BeIn Sports",Bein 1 HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="BeIn Sports",Bein 2 HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_9_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="BeIn Sports",Bein 3 HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="BeIn Sports",Bein 4 HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="BeIn Sports",Bein 5 HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="BeIn Sports",Bein 7 HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="BeIn Sports",Bein 1 SD
+http://31.220.41.88:8081/live/bein1.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="BeIn Sports",Bein 2 SD
+http://31.220.41.88:8081/live/bein2.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="BeIn Sports",Bein 3 SD
+http://31.220.41.88:8081/live/bein3.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="BeIn Sports",Bein 5 SD
+http://31.220.41.88:8081/live/bein5.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="BeIn Sports",Bein 6 SD
+http://31.220.41.88:8081/live/bein6.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BeIn Sports",BEIN SPORT HD 1
 http://178.175.132.170:8888/02_epl1_720p_UK/chunklist.m3u8
@@ -121,29 +165,29 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146125
 
 #TRUEVISIONS
 
-#EXTINF:-1 group-title="true visions Channels",Premier HD1
+#EXTINF:-1 group-title="true visions Channels",true Premier HD1
 http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",Premier HD2
+#EXTINF:-1 group-title="true visions Channels",true Premier HD2
 http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",Premier HD3
+#EXTINF:-1 group-title="true visions Channels",true Premier HD3
 http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",Premier HD4
+#EXTINF:-1 group-title="true visions Channels",true Premier HD4
 http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",Premier HD5
+#EXTINF:-1 group-title="true visions Channels",true Premier HD5
 http://178.175.132.170:8888/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",True Sports HD
+#EXTINF:-1 group-title="true visions Channels",true Sports HD
 http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",True Sports HD 2
+#EXTINF:-1 group-title="true visions Channels",true Sports HD 2
 http://178.175.132.170:8888/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",True Sports HD 3
+#EXTINF:-1 group-title="true visions Channels",true Sports HD 3
 http://178.175.132.170:8888/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",True Sports 2
+#EXTINF:-1 group-title="true visions Channels",true Sports 2
 http://178.175.132.170:8888/02_sport2_480p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",True Sports 5
+#EXTINF:-1 group-title="true visions Channels",true Sports 5
 http://178.175.132.170:8888/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",True Sports 6
+#EXTINF:-1 group-title="true visions Channels",true Sports 6
 http://178.175.132.170:8888/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",True Sports 7
+#EXTINF:-1 group-title="true visions Channels",true Sports 7
 http://178.175.132.170:8888/02_sport7_480p/chunklist.m3u8
 
 #OTHERS SPORTS
@@ -171,6 +215,9 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 #EXTINF:-1 group-title="OTher Sports",Astro Super Sport 2
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 
+#EXTINF:-1 group-title="OTher Sports",Astro Super Sport 4
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/index.m3u8
+
 #EXTINF:-1 group-title="OTher Sports",MOTOR TREND
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 group-title="OTher Sports",FIGHT
@@ -182,6 +229,8 @@ http://122.155.201.186/feed/LC42/index.m3u8
 
 #MOVIES
 
+#EXTINF:-1 group-title="MOvies Channels",Cinemax HD
+http://31.220.41.88:8081/live/us-cinemax.stream/chunks.m3u8
 #EXTINF:-1 group-title="MOvies Channels",HBO Signature
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="MOvies Channels",Fox Movies
