@@ -49,13 +49,13 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 
 #Skynet
 
-#EXTINF:-1 group-title="Skynet Sports",Skynet Sport 1
+#EXTINF:-1 tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/sky_net_sports1.jpg" group-title="Skynet Sports",Skynet Sport 1
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/index.m3u8
 
-#EXTINF:-1 group-title="Skynet Sports",Skynet Sport 2
+#EXTINF:-1 tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/sky_net_sports2.jpg" group-title="Skynet Sports",Skynet Sport 2
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/index.m3u8
 
-#EXTINF:-1 group-title="Skynet Sports",Skynet Sport 3
+#EXTINF:-1 tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/sky_net_sports3.jpg" group-title="Skynet Sports",Skynet Sport 3
 http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/index.m3u8
 
 #Football
