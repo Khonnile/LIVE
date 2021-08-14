@@ -2,8 +2,8 @@
 
 #KOPHYO
 
-#EXTINF:-1,Test Transmission SD
-https://raw.githubusercontent.com/live001mm/11010/main/songs_1.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5hh6U2833UbNTRXRRSUKrYJku2UPYL_7kAw" group-title="BeIn Sports",Bein Premium 1 HD
+http://yny.bourhasar.xyz/live/61011544/index.m3u8
 
 #MYANMAR
 
@@ -85,6 +85,9 @@ http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
 
 #SPORT
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5hh6U2833UbNTRXRRSUKrYJku2UPYL_7kAw" group-title="BeIn Sports",Bein Premium 1 HD
+http://yny.bourhasar.xyz/live/61011544/index.m3u8
 
 #EXTINF:-1 group-title="BeIn Sports",Bein 1 HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
