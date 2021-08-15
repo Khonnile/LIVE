@@ -2,8 +2,11 @@
 
 #KOPHYO
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5hh6U2833UbNTRXRRSUKrYJku2UPYL_7kAw",Bein Premium 1 HD
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="BeIn Sports",Bein Premium 1 HD
 http://yny.bourhasar.xyz/live/61011544/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png"  group-title="BeIn Sports",Bein Premium 2 HD
+http://mnr.banhkour.xyz/live/9830013331/index.m3u8
 
 #MYANMAR
 
