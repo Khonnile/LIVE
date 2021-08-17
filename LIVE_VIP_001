@@ -1,5 +1,8 @@
 #M3U
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/fa/aa/ecfaaa71a30412da95f452207a13bf5d.png" group-title="Myanmar",KO Phyo Myanmar
+http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8?koshwefull.
+
 #KOPHYO
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="BeIn Sports",Bein Premium 1 HD
@@ -10,6 +13,12 @@ http://bestsave.ltd:8011/1020304050/5040302010/90308
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png"  group-title="BeIn Sports",Bein Premium 3 HD
 http://bestsave.ltd:8011/1020304050/5040302010/90307
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="BeIn Sports",Bein Premium 1 HD - FR
+http://bestsave.ltd:8011/1020304050/5040302010/90306
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png"  group-title="BeIn Sports",Bein Premium 2 HD - FR
+http://bestsave.ltd:8011/1020304050/5040302010/90305
 
 #MYANMAR
 
