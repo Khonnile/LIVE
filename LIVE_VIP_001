@@ -281,6 +281,26 @@ http://27.254.130.62/feed/LC26/index.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 group-title="MOvies Channels",Movietime
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLS: FAJER 2" tvg-logo="" group-title="MOvies Channels",PLS: FAJER 2
+https://aloka-iptv.xyz:443/live/APP/ALOKA-TV/104.ts
+#EXTINF:-1 tvg-id="" tvg-name="MIX HOLLYWOOD" tvg-logo="" group-title="MOvies Channels",MIX HOLLYWOOD
+https://aloka-iptv.xyz:443/live/APP/ALOKA-TV/120.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES" tvg-logo="" group-title="MOvies Channels",NETFLIX MOVIES
+https://aloka-iptv.xyz:443/live/APP/ALOKA-TV/146.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="MOvies Channels",NETFLIX HORROR
+https://aloka-iptv.xyz:443/live/APP/ALOKA-TV/147.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="MOvies Channels",NETFLIX COMEDY
+https://aloka-iptv.xyz:443/live/APP/ALOKA-TV/148.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="MOvies Channels",NETFLIX DRAMA
+https://aloka-iptv.xyz:443/live/APP/ALOKA-TV/149.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX AFLAM" tvg-logo="" group-title="MOvies Channels",SHOOF MAX AFLAM
+https://aloka-iptv.xyz:443/live/APP/ALOKA-TV/150.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX ZAMAN" tvg-logo="" group-title="MOvies Channels",SHOOF MAX ZAMAN
+https://aloka-iptv.xyz:443/live/APP/ALOKA-TV/151.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX DRAMA" tvg-logo="" group-title="MOvies Channels",SHOOF MAX DRAMA
+https://aloka-iptv.xyz:443/live/APP/ALOKA-TV/152.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX COMEDY" tvg-logo="" group-title="MOvies Channels",SHOOF MAX COMEDY
+https://aloka-iptv.xyz:443/live/APP/ALOKA-TV/153.ts
 
 #DISCOVERY
 
