@@ -253,45 +253,21 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
 #EXTINF:-1 group-title="MOvies Channels",Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8?id=eroz_brebes.m3u8
-#EXTINF:-1 group-title="MOvies Channels",Movie Hollywood Action
-https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOvies Channels",HBO Signature
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-#EXTINF:-1 group-title="MOvies Channels",Fox Movies
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 group-title="MOvies Channels",Fox Live
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-1 group-title="MOvies Channels",Fox Family
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:-1 group-title="MOvies Channels",Fox Hd
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:-1 group-title="MOvies Channels",Fox Crime
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:-1 group-title="MOvies Channels",Celestrial Movies
-http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 group-title="MOvies Channels",FoxThai_TH
 http://178.175.132.170:8888/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="MOvies Channels",Bflix MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 group-title="MOvies Channels",&flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MOvies Channels",MyCinema
-http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1 group-title="MOvies Channels",CinemaWorld
-http://210.210.155.35/session/051b594e-9e93-11eb-8642-c81f66f89318/uq2663/h/h04/01.m3u8
 #EXTINF:-1 group-title="MOvies Channels",Fox Movie Actions
 http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist.m3u8
 #EXTINF:-1 group-title="MOvies Channels",AXN HD
 http://178.175.132.170:8888/02_AXNHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="MOvies Channels",Sun Movie
-http://27.254.130.62/feed/LC1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MOvies Channels",TRILL
-http://27.254.130.62/feed/LC26/index.m3u8
 #EXTINF:-1 group-title="MOvies Channels",CCM 2
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 group-title="MOvies Channels",Movietime
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLS: FAJER 2" tvg-logo="" group-title="MOvies Channels",PLS: FAJER 2
+#EXTINF:-1 tvg-id="" tvg-name="PLS: FAJER 2" tvg-logo="" group-title="MOvies Channels",FAJER 2
 https://aloka-iptv.xyz:443/live/APP/ALOKA-TV/104.ts
 #EXTINF:-1 tvg-id="" tvg-name="MIX HOLLYWOOD" tvg-logo="" group-title="MOvies Channels",MIX HOLLYWOOD
 https://aloka-iptv.xyz:443/live/APP/ALOKA-TV/120.ts
