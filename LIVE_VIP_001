@@ -69,32 +69,6 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/sky_net_sports3.jpg" group-title="Skynet Sports",Skynet Sport 3
 http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/index.m3u8
 
-#Football
-
-#EXTINF:-1 group-title="Football",LFC TV
-https://live-c348a30.rmbl.ws:443/slot-8/ngrp:urkr-ejfc_all/chunklist_b4163840.m3u8
-
-#EXTINF:-1 group-title="Football",LFC TV 2
-http://england.mazystreams.xyz/live/2/chunks.m3u8
-
-#EXTINF:-1 group-title="Football",LFC TV 3
-https://wowzaprodhd75-lh.akamaihd.net/i/93f1ea82_1@394709/master.m3u8
-
-#EXTINF:-1 group-title="Football",BT Sport HD 1
-https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Football",BT Sport HD 2
-https://sport.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Football",Realmadrid TV HD
-http://91.126.39.101:1935/live/realmadridnntv/chunklist_w2140406843.m3u8?mvk
-
-#EXTINF:-1 group-title="Football",Sky Sports HD (Cricket 1)
-http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Football",Sky Sports HD (Main Event)
-http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
-
 #SPORT
 
 #EXTINF:-1 group-title="BeIn Sports",Bein 1 HD
@@ -204,42 +178,65 @@ http://178.175.132.170:8888/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="true visions Channels",true Sports 7
 http://178.175.132.170:8888/02_sport7_480p/chunklist.m3u8
 
-#OTHERS SPORTS
+#All SPORTS
 
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="OTher Sports",Fox Sports 1 Asia
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="All Sports",Fox Sports 1 Asia
 
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="OTher Sports",Fox Sports 2 Asia
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="All Sports",Fox Sports 2 Asia
 
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="OTher Sports",Fox Sports 3 Asia
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="All Sports",Fox Sports 3 Asia
 
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1514269404/6402.png" group-title="OTher Sports",Sky Racing 1
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1514269404/6402.png" group-title="All Sports",Sky Racing 1
 
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1514269377/6411.png" group-title="OTher Sports",Sky Racing 2
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1514269377/6411.png" group-title="All Sports",Sky Racing 2
 
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
-#EXTINF:-1 group-title="OTher Sports",Astro Super Sport 2
+#EXTINF:-1 group-title="All Sports",Astro Super Sport 2
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 
-#EXTINF:-1 group-title="OTher Sports",Astro Super Sport 4
+#EXTINF:-1 group-title="All Sports",Astro Super Sport 4
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/index.m3u8
 
-#EXTINF:-1 group-title="OTher Sports",MOTOR TREND
+#EXTINF:-1 group-title="All Sports",MOTOR TREND
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1 group-title="OTher Sports",FIGHT
+#EXTINF:-1 group-title="All Sports",FIGHT
 http://122.155.201.186/feed/LC36/index.m3u8
-#EXTINF:-1 group-title="OTher Sports",WWE
+#EXTINF:-1 group-title="All Sports",WWE
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports4/chunklist.m3u8
-#EXTINF:-1 group-title="OTher Sports",TRACE SPORT
+#EXTINF:-1 group-title="All Sports",TRACE SPORT
 http://122.155.201.186/feed/LC42/index.m3u8
+#EXTINF:-1 group-title="All Sports",LFC TV
+https://live-c348a30.rmbl.ws:443/slot-8/ngrp:urkr-ejfc_all/chunklist_b4163840.m3u8
+
+#EXTINF:-1 group-title="All Sports",LFC TV 2
+http://england.mazystreams.xyz/live/2/chunks.m3u8
+
+#EXTINF:-1 group-title="All Sports",LFC TV 3
+https://wowzaprodhd75-lh.akamaihd.net/i/93f1ea82_1@394709/master.m3u8
+
+#EXTINF:-1 group-title="All Sports",BT Sport HD 1
+https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="All Sports",BT Sport HD 2
+https://sport.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="All Sports",Realmadrid TV HD
+http://91.126.39.101:1935/live/realmadridnntv/chunklist_w2140406843.m3u8?mvk
+
+#EXTINF:-1 group-title="All Sports",Sky Sports HD (Cricket 1)
+http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="All Sports",Sky Sports HD (Main Event)
+http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
 
 #MOVIES
 
