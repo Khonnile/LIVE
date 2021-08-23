@@ -74,119 +74,57 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/index.m3u8
 
 #SPORT
 
-#EXTINF:-1 group-title="BeIn Sports",Bein 1 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein1.png" group-title="BeIn Sports",Bein 1 HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 
-#EXTINF:-1 group-title="BeIn Sports",Bein 2 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein2.png" group-title="BeIn Sports",Bein 2 HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_9_HD/index.m3u8?token=test
 
-#EXTINF:-1 group-title="BeIn Sports",Bein 3 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein3.png" group-title="BeIn Sports",Bein 3 HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 
-#EXTINF:-1 group-title="BeIn Sports",Bein 4 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein4.png" group-title="BeIn Sports",Bein 4 HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
 
-#EXTINF:-1 group-title="BeIn Sports",Bein 5 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein5.png" group-title="BeIn Sports",Bein 5 HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
 
-#EXTINF:-1 group-title="BeIn Sports",Bein 7 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein7.png" group-title="BeIn Sports",Bein 7 HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
 
-#EXTINF:-1 group-title="BeIn Sports",Bein 1 SD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein1.png" group-title="BeIn Sports",Bein 1 SD
 http://31.220.41.88:8081/live/bein1.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BeIn Sports",Bein 2 SD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein2.png" group-title="BeIn Sports",Bein 2 SD
 http://31.220.41.88:8081/live/bein2.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BeIn Sports",Bein 3 SD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein3.png" group-title="BeIn Sports",Bein 3 SD
 http://31.220.41.88:8081/live/bein3.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BeIn Sports",Bein 5 SD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein5.png" group-title="BeIn Sports",Bein 5 SD
 http://31.220.41.88:8081/live/bein5.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BeIn Sports",Bein 6 SD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein6.png" group-title="BeIn Sports",Bein 6 SD
 http://31.220.41.88:8081/live/bein6.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein1.png" group-title="BeIn Sports",beIN Sports 1 HD
-http://iptvh.it/Live-beinsport1.m3u
-
-
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein2.png" group-title="BeIn Sports",beIN Sports 2 HD
-http://iptvh.it/Live-beinsport02.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein3.png" group-title="BeIn Sports",beIN Sports 3 HD
-http://iptvh.it/Live-beinsport3.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein4.png" group-title="BeIn Sports",beIN Sports 4 HD
-http://iptvh.it/Live-beinsport04.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein5.png" group-title="BeIn Sports",beIN Sports 5 HD
-http://iptvh.it/Live-beinsport5.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein6.png" group-title="BeIn Sports",beIN Sports 6 HD
-http://iptvh.it/Live-beinsport06.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein7.png" group-title="BeIn Sports",beIN Sports 7 HD
-http://iptvh.it/Live-beinsport7.m3u8
-
-#EXTINF:-1 group-title="BeIn Sports",BEIN SPORT HD 1
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein1.png" group-title="BeIn Sports",BEIN SPORT HD 1
 http://178.175.132.170:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="BeIn Sports",BEIN SPORT HD 3
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein2.png" group-title="BeIn Sports",BEIN SPORT HD 2
 http://178.175.132.170:8888/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="BeIn Sports",beIN Sports News FHD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/44
-#EXTINF:-1 group-title="BeIn Sports",beIN Sports News HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28939
-#EXTINF:-1 group-title="BeIn Sports",beIN Sports News HEVC
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22198
-#EXTINF:-1 group-title="BeIn Sports",beIN Sports Global FHD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/43
-#EXTINF:-1 group-title="BeIn Sports",beIN Sports Global HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28938
-#EXTINF:-1 group-title="BeIn Sports",beIN Sports Global  HEVC
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22199
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS MAX 1 HD EURO 2020
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146122
-#EXTINF:-1 group-title="BeIn Sports",beIN-SPORTS MAX HD 1 EURO 2020
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/106199
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS MAX 1 SD EURO 2020
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146118
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS MAX 1 4K EURO 2020
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146126
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS MAX 2 HD EURO 2020
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146123
-#EXTINF:-1 group-title="BeIn Sports",beIN-SPORTS MAX HD 2 EURO 2020
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/106200
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS MAX 2 SD EURO 2020
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146119
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS MAX 2 4K EURO 2020
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146127
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS MAX 3 HD FR EURO 2020
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146124
-#EXTINF:-1 group-title="BeIn Sports",beIN-SPORTS MAX HD 3 FR
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/106201
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS MAX 3 HD+ EURO 2020
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146153
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS MAX 3 SD FR
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146120
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS MAX 3 4K FR EURO 2020
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146128
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS MAX 4 HD FR EURO 2020
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146125
 
 #SKYNET
 
 #TRUEVISIONS
 
-#EXTINF:-1 group-title="true visions Channels",true Premier HD1
+#EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="true visions Channels",true Premier HD1
 http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",true Premier HD2
+#EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="true visions Channels",true Premier HD2
 http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",true Premier HD3
+#EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="true visions Channels",true Premier HD3
 http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",true Premier HD4
+#EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="true visions Channels",true Premier HD4
 http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="true visions Channels",true Premier HD5
+#EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="true visions Channels",true Premier HD5
 http://178.175.132.170:8888/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="true visions Channels",true Sports HD
 http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
@@ -233,20 +171,9 @@ http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8?mvk
 
 #EXTINF:-1 group-title="All Sports",MOTOR TREND
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1 group-title="All Sports",FIGHT
-http://122.155.201.186/feed/LC36/index.m3u8
+
 #EXTINF:-1 group-title="All Sports",WWE
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports4/chunklist.m3u8
-#EXTINF:-1 group-title="All Sports",TRACE SPORT
-http://122.155.201.186/feed/LC42/index.m3u8
-#EXTINF:-1 group-title="All Sports",LFC TV
-https://live-c348a30.rmbl.ws:443/slot-8/ngrp:urkr-ejfc_all/chunklist_b4163840.m3u8
-
-#EXTINF:-1 group-title="All Sports",LFC TV 2
-http://england.mazystreams.xyz/live/2/chunks.m3u8
-
-#EXTINF:-1 group-title="All Sports",LFC TV 3
-https://wowzaprodhd75-lh.akamaihd.net/i/93f1ea82_1@394709/master.m3u8
 
 #EXTINF:-1 group-title="All Sports",BT Sport HD 1
 https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
@@ -257,10 +184,10 @@ https://sport.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="All Sports",Realmadrid TV HD
 http://91.126.39.101:1935/live/realmadridnntv/chunklist_w2140406843.m3u8?mvk
 
-#EXTINF:-1 group-title="All Sports",Sky Sports HD (Cricket 1)
+#EXTINF:-1 group-title="All Sports",Sky Sports SD (Cricket 1)
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="All Sports",Sky Sports HD (Main Event)
+#EXTINF:-1 group-title="All Sports",Sky Sports SD (Main Event)
 http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
 
 #MOVIES
