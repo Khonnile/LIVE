@@ -161,6 +161,9 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 #EXTINF:-1 group-title="All Sports",Astro Super Sport 4
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/2000px-ESPN_Networks_logo.svg-uid14932402692264-2000x713.png" group-title="All Sports",EPSN
+http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8?mvk
+
 #EXTINF:-1 group-title="All Sports",MOTOR TREND
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 group-title="All Sports",FIGHT
