@@ -103,165 +103,29 @@ http://31.220.41.88:8081/live/bein5.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BeIn Sports",Bein 6 SD
 http://31.220.41.88:8081/live/bein6.stream/chunks.m3u8
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS SD1
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/56
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein1.png" group-title="BeIn Sports",beIN Sports 1 HD
+http://iptvh.it/Live-beinsport1.m3u
 
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS SD2
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/57
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein2.png" group-title="BeIn Sports",beIN Sports 2 HD
+http://iptvh.it/Live-beinsport02.m3u8
 
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS SD3
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein3.png" group-title="BeIn Sports",beIN Sports 3 HD
+http://iptvh.it/Live-beinsport3.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/58
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein4.png" group-title="BeIn Sports",beIN Sports 4 HD
+http://iptvh.it/Live-beinsport04.m3u8
 
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS SD4
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein5.png" group-title="BeIn Sports",beIN Sports 5 HD
+http://iptvh.it/Live-beinsport5.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/59
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein6.png" group-title="BeIn Sports",beIN Sports 6 HD
+http://iptvh.it/Live-beinsport06.m3u8
 
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS SD5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/bein7.png" group-title="BeIn Sports",beIN Sports 7 HD
+http://iptvh.it/Live-beinsport7.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/60
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS SD6
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/93
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS SD7
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/92
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS SD8
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/91
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS SD9
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/61
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS SD10
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1459
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS LOW1
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/62
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS LOW2
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/63
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS LOW3
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/64
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS LOW4
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/65
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS LOW5
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/66
-
-#EXTINF:-1 group-title="BeIn Sports",AR:bein sport low6
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2108
-
-#EXTINF:-1 group-title="BeIn Sports",AR:bein sport low7
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2109
-
-#EXTINF:-1 group-title="BeIn Sports",AR:bein sport low8
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2110
-
-#EXTINF:-1 group-title="BeIn Sports",AR:bein sport low9
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2111
-
-#EXTINF:-1 group-title="BeIn Sports",AR: bein sport low10
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2112
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports 1
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/459
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports 2
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/450
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports 3
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/451
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports 1
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/452
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports 2
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/453
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports 3
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/454
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports 4
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/455
-
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports 5
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/456
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports 6
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/457
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN Sports 7
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/458
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS HD1 PR
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/46
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS HD2 PR
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/47
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS HD3 PR
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/48
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS HD1
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/49
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS HD2
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/50
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS HD3
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/51
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS HD4
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/52
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS HD5
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/53
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS HD6
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/54
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS HD7
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/55
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS HD11
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3001
-#EXTINF:-1 group-title="BeIn Sports",AR: beIN SPORTS HD12
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3002
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS FullHD1 PR
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3221
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS FullHD2 PR
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3222
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS FullHD3 PR
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3223
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS FullHD1
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3224
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS FullHD2
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3225
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS FullHD3
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3226
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS FullHD4
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3230
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS FullHD5
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3227
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS FullHD6
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3228
-#EXTINF:-1 group-title="BeIn Sports",beIN SPORTS FullHD7
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3229
 #EXTINF:-1 group-title="BeIn Sports",BEIN SPORT HD 1
 http://178.175.132.170:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="BeIn Sports",BEIN SPORT HD 3
@@ -358,289 +222,195 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
-#EXTINF:-1 group-title="All Sports",Astro Super Sport 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-
 #EXTINF:-1 group-title="All Sports",Astro Super Sport 4
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/index.m3u8
-#EXTINF:-1 group-title="All Sports",BEOUT 1 HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2991
-#EXTINF:-1 group-title="All Sports",BEOUT 2 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BeIN_SPORTS_France_logo_2017.jpg" group-title="All Sports",Bein Sports 1 [ғʀᴀɴᴄᴇ]
+http://iptvh.it/Live-fr-beinsport1.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2992
-#EXTINF:-1 group-title="All Sports",BEOUT 3 HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2993
-#EXTINF:-1 group-title="All Sports",BEOUT ACTION
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BeIN_SPORTS_France_logo_2017.jpg" group-title="All Sports",Bein Sports 2 [ғʀᴀɴᴄᴇ]
+http://iptvh.it/Live-fr-beinsport2.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2994
-#EXTINF:-1 group-title="All Sports",BEOUT Arabia
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2995
-#EXTINF:-1 group-title="All Sports",BEOUT Cinema
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BeIN_SPORTS_France_logo_2017.jpg" group-title="All Sports",Bein Sports 3 [ғʀᴀɴᴄᴇ]
+http://iptvh.it/Live-frbeinsport3.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2996
-#EXTINF:-1 group-title="All Sports",BEOUT Masr7 Masr
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2997
-#EXTINF:-1 group-title="All Sports",BEOUT Scare tv
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images_118.png" group-title="All Sports", Bein sports 1 [ᴀsɪᴀ]
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2998
-#EXTINF:-1 group-title="All Sports",BEOUT ShowTime1
+http://iptvh.it/Live-asia-beinsport1.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2999
-#EXTINF:-1 group-title="All Sports",BEOUT showTime2
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3000
-#EXTINF:-1 group-title="All Sports",BEOUT 1 FHD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images_118.png" group-title="All Sports", Bein sports 2 [ᴀsɪᴀ]
+http://iptvh.it/Live-asia-beinsport2.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3385
-#EXTINF:-1 group-title="All Sports",BEOUT 1 SD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3394
-#EXTINF:-1 group-title="All Sports",BEOUT 2 SD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images-2_25.png" group-title="All Sports", Bein sports xᴛʀᴀ
+http://iptvh.it/Live-beinsport-xtra.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3395
-#EXTINF:-1 group-title="All Sports",beIN Sport XTRA 1 HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3409
-#EXTINF:-1 group-title="All Sports",beIN Sport XTRA 2 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/download_83.png"group-title="All Sports",Bein Laliga
+http://iptvh.it/Live-bein-laliga.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3410
-#EXTINF:-1 group-title="All Sports",Arena Sport 2
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1466
-#EXTINF:-1 group-title="All Sports",Arena Sport 3
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1467
-#EXTINF:-1 group-title="All Sports",Arena Sport 4
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/my-asp1hd.png" group-title="All Sports", Astro Super Sport 1 HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1468
-#EXTINF:-1 group-title="All Sports",Arena Sport 5
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1469
-#EXTINF:-1 group-title="All Sports",Arena Sport 1
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/my-asp2hd.png" group-title="All Sports", Astro Super Sports 2 HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1465
-#EXTINF:-1 group-title="All Sports",PT: Sport TV
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2165
-#EXTINF:-1 group-title="All Sports",PT: Sport TV 1 
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/my-asp3hd.png" group-title="All Sports", Astro Super Sports 3 HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2166
-#EXTINF:-1 group-title="All Sports",PT: Sport TV 2
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2167
-#EXTINF:-1 group-title="All Sports",PT: Sport TV 3
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2168
-#EXTINF:-1 group-title="All Sports",PT: Sport TV 4
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/my-asp4.png" group-title="All Sports", Astro Super Sports 4 HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2169
-#EXTINF:-1 group-title="All Sports",PT:  Sport TV 5
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2170
-#EXTINF:-1 group-title="All Sports",MATCH 1 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="All Sports", Premier League 1
+http://iptvh.it/Live-true-premier1.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2837
-#EXTINF:-1 group-title="All Sports",TRT Sport HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2839
-#EXTINF:-1 group-title="All Sports",BT SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="All Sports", Prenier League 2
+http://iptvh.it/Live-true-premier2.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/2840
-#EXTINF:-1 group-title="All Sports",SuperSport 01
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3060
-#EXTINF:-1 group-title="All Sports",SuperSport 02
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/download_152.png" group-title="All Sports", SPORT.TV 1
+http://iptvh.it/Live-sporttv1.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3061
-#EXTINF:-1 group-title="All Sports",SuperSport 03
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/download_152.png" group-title="All Sports", SPORT.TV 2
+http://iptvh.it/Live-sporttv2.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3062
-#EXTINF:-1 group-title="All Sports",SuperSport 04
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/download_152.png" group-title="All Sports", SPORT.TV 3
+http://iptvh.it/Live-sporttv3.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3064
-#EXTINF:-1 group-title="All Sports",SuperSport 05
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/download_152.png" group-title="All Sports", SPORT.TV 4
+http://iptvh.it/Live-sporttv4.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3063
-#EXTINF:-1 group-title="All Sports",SuperSport 06
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/download_152.png" group-title="All Sports", SPORT.TV 5
+http://iptvh.it/Live-sporttv5.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3065
-#EXTINF:-1 group-title="All Sports",SuperSport 07
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3066
-#EXTINF:-1 group-title="All Sports",SuperSport 08
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3-picsay.jpg" group-title="All Sports", true sports 1
+http://iptvh.it/Live-truesport1.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3067
-#EXTINF:-1 group-title="All Sports",SuperSport 09
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3068
-#EXTINF:-1 group-title="All Sports",SuperSport 10
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3-picsay.jpg" group-title="All Sports", true sports 2
+http://iptvh.it/Live-truesport2.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3069
-#EXTINF:-1 group-title="All Sports",SuperSport 11
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3-picsay.jpg" group-title="All Sports", true sports 3
+http://iptvh.it/Live-truesport3.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3070
-#EXTINF:-1 group-title="All Sports",SuperSport 12
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3071
-#EXTINF:-1 group-title="All Sports",ARGENTINA: TNT SPORT
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3-picsay.jpg" group-title="All Sports", true sports 4
+http://iptvh.it/Live-truesport4.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3072
-#EXTINF:-1 group-title="All Sports",ARGENTINA: FOX SPORTS PREMIUM
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3074
-#EXTINF:-1 group-title="All Sports",POL: CANAL_SPORT
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3-picsay.jpg" group-title="All Sports", true sports 5
+http://iptvh.it/Live-truesport5.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3159
-#EXTINF:-1 group-title="All Sports",AL: TRING_SPORT_1HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3169
-#EXTINF:-1 group-title="All Sports",AL: TRING_SPORT_2HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3-picsay.jpg" group-title="All Sports", true sports 6
+http://iptvh.it/Live-truesport6.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3170
-#EXTINF:-1 group-title="All Sports",AL: TRING_SPORT_3HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3171
-#EXTINF:-1 group-title="All Sports",AL: TRING_SPORT_4HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3-picsay.jpg" group-title="All Sports", true sports 7
+http://iptvh.it/Live-truesport7.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3172
-#EXTINF:-1 group-title="All Sports",AL:SUPER SPORT 1 NEWS
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3173
-#EXTINF:-1 group-title="All Sports",AL:SUPER SPORT 2
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3174
-#EXTINF:-1 group-title="All Sports",AL:SUPER SPORT 3
+#EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/images.jpeg-5_3.jpg" group-title="All Sports",SONY TEN ① ʜᴅ
+http://iptvh.it/Live-sonyten1.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3175
-#EXTINF:-1 group-title="All Sports",AL:SUPER SPORT 4
+#EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/Screenshot_2020-12-13-19-49-47.jpg" group-title="All Sports",SONY TEN ② ʜᴅ 
+http://iptvh.it/Live-sonyten2.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3176
-#EXTINF:-1 group-title="All Sports",[PT] ELEVEN SPORTS 1 HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3279
-#EXTINF:-1 group-title="All Sports",[PT] ELEVEN SPORTS 2 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_2020-12-13-19-50-27.jpg" group-title="All Sports",SONY TEN ③ ʜᴅ
+http://iptvh.it/Live-sonyten3.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3280
-#EXTINF:-1 group-title="All Sports",[PT] ELEVEN SPORTS 3 HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3281
-#EXTINF:-1 group-title="All Sports",[PT] ELEVEN SPORTS 4 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LycT2ph/images-jpeg-1.jpg" group-title="All Sports", Star Sports Select 1 HD
+http://iptvh.it/Live-starsport-select1.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3282
-#EXTINF:-1 group-title="All Sports",[PT] ELEVEN SPORTS 5 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LycT2ph/images-jpeg-1.jpg" group-title="All Sports", Star Sports Select 2 HD
+http://iptvh.it/Live-starsport-select2.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3283
-#EXTINF:-1 group-title="All Sports",FR: TELEFOOT HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="All Sports",Star Sport 1 HD
+http://iptvh.it/Live-starsport1.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3047
-#EXTINF:-1 group-title="All Sports",FR: Telefoot Stadium 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="All Sports",Star Sport 2 HD
+http://iptvh.it/Live-starsport2.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3161
-#EXTINF:-1 group-title="All Sports",FR: Telefoot Stadium 2
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3162
-#EXTINF:-1 group-title="All Sports",FR: Telefoot Stadium 3
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1200px-Setanta_Sports.svg.png" group-title="All Sports", SENTANA SPORT HD UA
+http://iptvh.it/Live-5583.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3163
-#EXTINF:-1 group-title="All Sports",FR: Telefoot Stadium 4
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3164
-#EXTINF:-1 group-title="All Sports",FR: Telefoot Stadium 5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1200px-Setanta_Sports.svg.png" group-title="All Sports", SENTANA SPORT 1
+http://iptvh.it/Live-s81/04.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3165
-#EXTINF:-1 group-title="All Sports",FR: Telefoot Stadium 6
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3166
-#EXTINF:-1 group-title="All Sports",FR: Telefoot Stadium 7
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1200px-Setanta_Sports.svg.png" group-title="All Sports", SENTANA SPORT 2
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3167
-#EXTINF:-1 group-title="All Sports",FR: Telefoot Stadium 8
+http://iptvh.it/Live-s82/04.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/3168
-#EXTINF:-1 group-title="All Sports",|FR| RMC SPORT 1 HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1073
-#EXTINF:-1 group-title="All Sports",|FR| RMC SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-2_18.jpg" group-title="All Sports", BT Sports 1
+http://iptvh.it/Live-btsport1.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1074
-#EXTINF:-1 group-title="All Sports",|FR| RMC SPORT 3 HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1075
-#EXTINF:-1 group-title="All Sports",|FR| RMC SPORT 4 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-2_18.jpg" group-title="All Sports", BT Sports 2
+http://iptvh.it/Live-btsport2.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1076
-#EXTINF:-1 group-title="All Sports",|FR| All Sports 1 HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1077
-#EXTINF:-1 group-title="All Sports",|FR| All Sports 2 HD
+#EXTINF:-1 tvg-logo="https://iix123.us.to/logo/foxsport1.png" group-title="All Sports", Foxsports 1
+http://iptvh.it/Live-foxsport1.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1078
-#EXTINF:-1 group-title="All Sports",|FR| All Sports 3 HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1079
-#EXTINF:-1 group-title="All Sports",|FR| BEIN MAX 4 HD
+#EXTINF:-1 tvg-logo="https://iix123.us.to/logo/foxsport2.png" group-title="All Sports", Foxsports 2
+http://iptvh.it/Live-foxsport2.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1080
-#EXTINF:-1 group-title="All Sports",|FR| BEIN MAX 5 HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1081
-#EXTINF:-1 group-title="All Sports",|FR| BEIN MAX 7 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/RMCsport.png" group-title="All Sports",RMC SPORTS 1
+http://iptvh.it/Live-rmcsport1.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1083
-#EXTINF:-1 group-title="All Sports",|FR| BEIN MAX 8 HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1084
-#EXTINF:-1 group-title="All Sports",|FR| BEIN MAX 9 HD
+#EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/RMCsport.png" group-title="All Sports",RMC SPORTS 2
+http://iptvh.it/Live-rmcsport2.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1085
-#EXTINF:-1 group-title="All Sports",|FR| BEIN MAX 10 HD
+#EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/RMCsport.png" group-title="All Sports",RMC SPORTS 3
+http://iptvh.it/Live-rmcsport3.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1086
-#EXTINF:-1 group-title="All Sports",|FR| BEIN MAX 6 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Elevensp.jpg" group-title="All Sports", ELEVEN SPORTS 1 HD
+http://iptvh.it/Live-elevensport1.m3u8  
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1082
-#EXTINF:-1 group-title="All Sports",|FR| EXTREME SPORT HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Elevensp.jpg" group-title="All Sports", ELEVEN SPORTS 2 HD
+http://iptvh.it/Live-elevensport2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/20210801_183613.jpg" group-title="All Sports", EURO SPORT 1
+http://iptvh.it/Live-eurosport1.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1087
-#EXTINF:-1 group-title="All Sports",|FR| EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/20210801_183613.jpg" group-title="All Sports", EURO SPORT 2
+http://iptvh.it/Live-eurosport2.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1088
-#EXTINF:-1 group-title="All Sports",|FR| EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXI7UqSG4NTzWx1sAp3FChE7fEkq64-FlpGQ&usqp=CAU" group-title="All Sports",Sky Sports Premier
+http://iptvh.it/Livr-skysport-premier.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2yo4WAAf-Xv1Q91gEDqajhSrtZXTrcALeTA&usqp=CAU" group-title="All Sports",Sky Sports Football
+http://iptvh.it/Live-skysport-footboll.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1089
-#EXTINF:-1 group-title="All Sports",|FR| FOOT+ 24/24
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1090
-#EXTINF:-1 group-title="All Sports",|FR| L'EQUIPE 21 HD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/2000px-ESPN_Networks_logo.svg-uid14932402692264-2000x713.png" group-title="All Sports", ESPN
+http://iptvh.it/Live-espn.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1091
-#EXTINF:-1 group-title="All Sports",|FR| GOLF+ HD
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1092
-#EXTINF:-1 group-title="All Sports",|FR| OL TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1CNJ1fR/images-jpeg-4.jpg"group-title="All Sports",Ziggo Sport Select
+http://iptvh.it/Live-zigosport-select.m3u8
 
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1093
-#EXTINF:-1 group-title="All Sports",|FR| INFOSPORT+ HD
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1094
-#EXTINF:-1 group-title="All Sports",|FR| RMC NEWS SPORT HD
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/1095
-#EXTINF:-1 group-title="All Sports",LIGA TV
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/415
-#EXTINF:-1 group-title="All Sports",LALIGA TV BAR
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/416
-#EXTINF:-1 group-title="All Sports",LIGA 123 HD
-
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/417
-#EXTINF:-1 group-title="All Sports",LIGA CAMPEONES HD
-http://kaicerfree.ddns.net:8080/NXVbNjxX9a/qbSgqDNgaq/418
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzrL3NfD/images-jpeg-3.jpg"group-title="All Sports",Ziggo Sport Voetbal
+http://iptvh.it/Live-zigisport-voetbal.m3u8
 #EXTINF:-1 group-title="All Sports",MOTOR TREND
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 group-title="All Sports",FIGHT
