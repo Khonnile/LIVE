@@ -174,29 +174,31 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8?mvk
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/download_152.png" group-title="All Sports",Sport TV 5 HD
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8?mvk
 
-#EXTINF:-1 group-title="All Sports",Astro Super Sport 4
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="All Sports",Astro Super Sport 4
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/2000px-ESPN_Networks_logo.svg-uid14932402692264-2000x713.png" group-title="All Sports",EPSN
 http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8?mvk
 
-#EXTINF:-1 group-title="All Sports",MOTOR TREND
+#EXTINF:-1 tvg-logo="https://www.motortrend.com/static/logo/motortrend-logo-aug-2020.png" group-title="All Sports",MOTOR TREND
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1 group-title="All Sports",WWE
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/314-3149979_wwe-logo-wwf-lucha-libre-logo.png" group-title="All Sports",WWE
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports4/chunklist.m3u8
-#EXTINF:-1 group-title="All Sports",BT Sport HD 1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/BT_Sport_1_HD.svg/revision/latest?cb=20191227182531" group-title="All Sports",BT Sport HD 1
 https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="All Sports",BT Sport HD 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/BT_Sport_2_HD.svg/revision/latest?cb=20191227182617" group-title="All Sports",BT Sport HD 2
 https://sport.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="All Sports",Realmadrid TV HD
+#EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/opengraph_image.png" group-title="All Sports",Realmadrid TV HD
 http://91.126.39.101:1935/live/realmadridnntv/chunklist_w2140406843.m3u8?mvk
 
-#EXTINF:-1 group-title="All Sports",Sky Sports SD (Cricket 1)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVxXgzIRx4MycDJF3Gkp-TwfQUlcWwpqJMfw&usqp=CAU" group-title="All Sports",Sky Sports SD (Cricket 1)
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="All Sports",Sky Sports SD (Main Event)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVltB5c6gcbtlhj5iHGdji_8vMhac0HzSA3Q&usqp=CAU" group-title="All Sports",Sky Sports SD (Main Event)
 http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
 
 #MOVIES
