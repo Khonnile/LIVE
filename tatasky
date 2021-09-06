@@ -2,6 +2,10 @@
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/fa/aa/ecfaaa71a30412da95f452207a13bf5d.png" group-title="Myanmar",KO Phyo Myanmar
 http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8?koshwefull.
+#EXTINF:-1 ,Star Sport Select 1
+http://eurotv.vip:80/544/544/43010
+#EXTINF:-1 ,Star Sport Select 2
+http://eurotv.vip:80/544/544/43011
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="EPL",PREMIER SPECIAL HD
 http://kophyoiptv.xyz:8011/1020304050/5040302010/90294
