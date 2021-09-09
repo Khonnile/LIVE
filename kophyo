@@ -1,5 +1,5 @@
 #M3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/fa/aa/ecfaaa71a30412da95f452207a13bf5d.png" group-title="Myanmar",KO Phyo Myanmar
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/fa/aa/ecfaaa71a30412da95f452207a13bf5d.png" group-title="",KO Phyo Myanmar
 http://kophyom3u.ddns.net:8080/benAlaa/829293992/80024
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 01 HD [KOPhyo]" tvg-logo="" group-title="Bein Sports",beIN Sports Premium 01 HD [KOPhyo]
 http://kophyom3u.ddns.net:8080/benAlaa/829293992/80106
