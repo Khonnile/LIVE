@@ -143,6 +143,30 @@ http://kophyom3u.ddns.net:8080/benAlaa/829293992/80109
 http://kophyom3u.ddns.net:8080/benAlaa/829293992/80108
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 07 SD [KOPhyo]" tvg-logo="" group-title="Bein Sports",beIN Sports 07 SD [KOPhyo]
 http://kophyom3u.ddns.net:8080/benAlaa/829293992/80107
+#EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="true visions Channels",true Premier HD1
+http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="true visions Channels",true Premier HD2
+http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="true visions Channels",true Premier HD3
+http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="true visions Channels",true Premier HD4
+http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="true visions Channels",true Premier HD5
+http://178.175.132.170:8888/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3-picsay.jpg" group-title="true visions Channels",true Sports HD
+http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3-picsay.jpg" group-title="true visions Channels",true Sports HD 2
+http://178.175.132.170:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3-picsay.jpg" group-title="true visions Channels",true Sports HD 3
+http://178.175.132.170:8888/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3-picsay.jpg" group-title="true visions Channels",true Sports 2
+http://178.175.132.170:8888/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3-picsay.jpg" group-title="true visions Channels",true Sports 5
+http://178.175.132.170:8888/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3-picsay.jpg" group-title="true visions Channels",true Sports 6
+http://178.175.132.170:8888/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3-picsay.jpg" group-title="true visions Channels",true Sports 7
+http://178.175.132.170:8888/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SerieA HD" tvg-logo="" group-title="Serie A",SerieA HD
 http://kophyom3u.ddns.net:8080/benAlaa/829293992/102811
 #EXTINF:-1 tvg-id="" tvg-name="SerieA SD" tvg-logo="" group-title="Serie A",SerieA SD
