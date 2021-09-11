@@ -149,6 +149,10 @@ http://kophyoiptv.xyz:8011/1020304050/5040302010/90294
 http://kophyoiptv.xyz:8011/1020304050/5040302010/74862
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="EPL",PREMIER SPECIAL SD
 http://kophyoiptv.xyz:8011/1020304050/5040302010/90283
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVC2xEGyiUPpM_z5LLjZaUFd3VqmPOiq4XVJfocPThdSYC1a_m_TvRtjzQ&s=10" group-title="EPL",Star Sport Select 1
+http://eurotv.vip:80/544/544/43010
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpYURTTcDpE1E_xuStM3vtLseEAxP_4-3txc5eHeZyL60NMFekVk0-Djs&s=10" group-title="EPL",Star Sport Select 2
+http://eurotv.vip:80/544/544/43011
 #EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="true visions Channels",true Premier HD1
 http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="true visions Channels",true Premier HD2
