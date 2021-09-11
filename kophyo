@@ -143,6 +143,12 @@ http://kophyom3u.ddns.net:8080/benAlaa/829293992/80109
 http://kophyom3u.ddns.net:8080/benAlaa/829293992/80108
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 07 SD [KOPhyo]" tvg-logo="" group-title="Bein Sports",beIN Sports 07 SD [KOPhyo]
 http://kophyom3u.ddns.net:8080/benAlaa/829293992/80107
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="EPL",PREMIER SPECIAL HD
+http://kophyoiptv.xyz:8011/1020304050/5040302010/90294
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="EPL",PREMIER SPECIAL FHD
+http://kophyoiptv.xyz:8011/1020304050/5040302010/74862
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="EPL",PREMIER SPECIAL SD
+http://kophyoiptv.xyz:8011/1020304050/5040302010/90283
 #EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="true visions Channels",true Premier HD1
 http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://www.linkpicture.com/q/Premier.png" group-title="true visions Channels",true Premier HD2
